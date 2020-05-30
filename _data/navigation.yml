@@ -1,0 +1,571 @@
+toc:
+    - title:
+          zh-tw: 介紹
+          zh-cn: 介绍
+          en: Introduction
+      url: /index
+      subfolderitems:
+          - page:
+                zh-tw: ":couple: 團隊"
+                zh-cn: ":couple: 团队"
+                en: ":couple: Team"
+            url: /team
+          - page:
+                zh-tw: ":building_construction: 產品"
+                zh-cn: ":building_construction: 产品"
+                en: ":building_construction: Product"
+            url: /product
+          - page:
+                zh-tw: ":new: 最新公告"
+                zh-cn: ":new: 最新公告"
+                en: ":new: Announcements"
+            url: /announcements
+    - title:
+          zh-tw: 公司理念
+          zh-cn: 公司理念
+          en: Principles
+      url: /principles/principles
+      subfolderitems:
+          - page:
+                zh-tw: ":100: 團隊期望"
+                zh-cn: ":100: 團隊期望"
+                en: ":100: Expectations"
+            url: /principles/expectations
+            subsubfolderitems:
+                - page:
+                      zh-tw: "有效溝通"
+                      zh-cn: "有效溝通"
+                      en: "Effective Communication"
+                  url: /principles/communication
+                - page:
+                      zh-tw: "團隊互動"
+                      zh-cn: "團隊互動"
+                      en: "Team Dynamics"
+                  url: /principles/team_dynamics
+                - page:
+                      zh-tw: "會議流程"
+                      zh-cn: "會議流程"
+                      en: "Protocol for Meetings"
+                  url: /principles/meetings
+                - page:
+                      zh-tw: "書面交流"
+                      zh-cn: "書面交流"
+                      en: "Written Communication"
+                  url: /principles/written_communication
+                - page:
+                      zh-tw: "執行SOP"
+                      zh-cn: "執行SOP"
+                      en: "SOP Deliverables Etiquette"
+                  url: /principles/deliverables
+                - page:
+                      zh-tw: "對外會議"
+                      zh-cn: "對外會議"
+                      en: "External Meetings"
+                  url: /principles/external_meetings
+          - page:
+                zh-tw: ":chart_with_upwards_trend: 執行策略"
+                zh-cn: ":chart_with_upwards_trend: 執行策略"
+                en: ":chart_with_upwards_trend: Execution Strategy"
+            url: /principles/strategy
+            subsubfolderitems:
+                - page:
+                      zh-tw: "敏捷流程"
+                      zh-cn: "敏捷流程"
+                      en: "Agile"
+                  url: /principles/agile
+                - page:
+                      zh-tw: "遠端工作"
+                      zh-cn: "遠端工作"
+                      en: "Remote"
+                  url: /principles/remote
+                - page:
+                      zh-tw: 職場新人
+                      zh-cn: 職場新人
+                      en: No Experience Required
+                  url: /principles/inexperience
+          - page:
+                zh-tw: ":pushpin: 管理方式"
+                zh-cn: ":pushpin: 管理方式"
+                en: ":pushpin: Management"
+            url: /principles/management
+            subsubfolderitems:
+                - page:
+                      zh-tw: 責任分配
+                      zh-cn: 責任分配
+                      en: Areas of Responsibility
+                  url: /principles/areas_responsibility
+                - page:
+                      zh-tw: 管理KPI及OKR
+                      zh-cn: 管理KPI及OKR
+                      en: Management KPI & OKR
+                  url: /principles/management_kpi_okr
+    - title:
+          zh-tw: 人資管理
+          zh-cn: 人資管理
+          en: People
+      url: /people/people
+      subfolderitems:
+          - page:
+                zh-tw: ":moneybag: 績效薪資制度"
+                zh-cn: ":moneybag: 績效薪資制度"
+                en: ":moneybag: Performance-Based Compensation"
+            url: /people/compensation
+            subsubfolderitems:
+                - page:
+                      zh-tw: "全職工程師薪水"
+                      zh-cn: "全職工程師薪水"
+                      en: "Full-Time Engineering Levels"
+                  url: /people/engineering_level
+                - page:
+                      zh-tw: "全職設計師薪水"
+                      zh-cn: "全職設計師薪水"
+                      en: "Full-Time Designer Levels"
+                  url: /people/designer_level
+                - page:
+                      zh-tw: "特案兼職費用"
+                      zh-cn: "特案兼職費用"
+                      en: "Project-Based/Part-Time Engineering Levels"
+                  url: /people/projectbased_level
+          - page:
+                zh-tw: ":cookie: 員工福利"
+                zh-cn: ":cookie: 員工福利"
+                en: ":cookie: Benefits"
+            url: /people/benefits
+            subsubfolderitems:
+                - page:
+                      zh-tw: 團隊活動
+                      zh-cn: 團隊活動
+                      en: Team Events
+                  url: /people/team_events
+          - page:
+                zh-tw: ":computer: 學習培訓"
+                zh-cn: ":computer: 學習培訓"
+                en: ":computer: Learning & Training"
+            url: /people/learning_training
+            subsubfolderitems:
+                - page:
+                      zh-tw: 全端培訓計劃
+                      zh-cn: 全端培訓計劃
+                      en: Full Stack Training Program
+                  url: /people/fullstack_training
+                - page:
+                      zh-tw: 線上資源
+                      zh-cn: 線上資源
+                      en: Online Resources
+                  url: /people/online_resources
+                - page:
+                      zh-tw: 讀書會
+                      zh-cn: 讀書會
+                      en: Book Club
+                  url: /people/bookclub
+          - page:
+                zh-tw: ":alarm_clock: 規範及合約"
+                zh-cn: ":alarm_clock: 規範及合約"
+                en: ":alarm_clock: Policies & Legal"
+            url: /people/policy_legal
+            subsubfolderitems:
+                - page:
+                      zh-tw: 保密協議
+                      zh-cn: 保密協議
+                      en: Non-Disclosure Agreement (NDA)
+                  url: /people/nda
+                - page:
+                      zh-tw: 聘用協議
+                      zh-cn: 聘用協議
+                      en: Retainer Agreement (RA)
+                  url: /people/ra
+                - page:
+                      zh-tw: 員工協議
+                      zh-cn: 員工協議
+                      en: Employment Agreement (EA)
+                  url: /people/ea
+                - page:
+                      zh-tw: "工作時間"
+                      zh-cn: "工作時間"
+                      en: "Working Hours"
+                  url: /people/work_hours
+                - page:
+                      zh-tw: "給假原則"
+                      zh-cn: "給假原則"
+                      en: "Vacation Policy (PTO)"
+                  url: /people/pto
+                - page:
+                      zh-tw: 職場性騷擾政策
+                      zh-cn: 職場性騷擾政策
+                      en: Workplace Policy
+                  url: /people/workplace_policy
+                - page:
+                      zh-tw: 補貼規範
+                      zh-cn: 補貼規範
+                      en: Reimbursement Policy
+                  url: /people/reimbursement_policy
+          - page:
+                zh-tw: ":memo: 入職流程"
+                zh-cn: ":memo: 入職流程"
+                en: ":memo: Onboarding"
+            url: /people/onboarding
+          - page:
+                zh-tw: ":fire: 績效評估"
+                zh-cn: ":fire: 績效評估"
+                en: ":fire: General Performance Review"
+            url: /people/general_performance_review
+    - title:
+          zh-tw: 徵才
+          zh-cn: 徵才
+          en: Recruiting
+      url: /recruit/recruit
+      subfolderitems:
+          - page:
+                zh-tw: ":bar_chart: 申請數據"
+                zh-cn: ":bar_chart: 申請數據"
+                en: ":bar_chart: Application Data"
+            url: /recruit/application_data
+          - page:
+                zh-tw: ":handshake: 職缺"
+                zh-cn: ":handshake: 職缺"
+                en: ":handshake: Open Positions"
+            url: /recruit/open_positions
+            subsubfolderitems:
+                - page:
+                      zh-tw: "全端軟體工程師"
+                      zh-cn: "全端軟體工程師"
+                      en: "Full Stack Developer"
+                  url: /recruit/jd_fullstackdev
+                - page:
+                      zh-tw: "前端軟體工程師"
+                      zh-cn: "前端軟體工程師"
+                      en: "Front End Developer"
+                  url: /recruit/jd_frontenddev
+                - page:
+                      zh-tw: "後端軟體工程師"
+                      zh-cn: "後端軟體工程師"
+                      en: "Back End Developer"
+                  url: /recruit/jd_backenddev
+                - page:
+                      zh-tw: 全端軟體工程師(特案)
+                      zh-cn: 全端軟體工程師(特案)
+                      en: Full Stack (Project-Based)
+                  url: /recruit/jd_projectbased
+                - page:
+                      zh-tw: 網頁設計師
+                      zh-cn: 網頁設計師
+                      en: UI/UX Web/App Designer
+                  url: /recruit/jd_designer
+                - page:
+                      zh-tw: "SEO Specialist (Digital Marketing)"
+                      zh-cn: "SEO Specialist (Digital Marketing)"
+                      en: "SEO Specialist (Digital Marketing)"
+                  url: /recruit/jd_seo
+          - page:
+                zh-tw: ":hourglass_flowing_sand: 工程師面試過程"
+                zh-cn: ":hourglass_flowing_sand: 工程師面試過程"
+                en: ":hourglass_flowing_sand: Developer Interview Process"
+            url: /recruit/interview_process
+            subsubfolderitems:
+                - page:
+                      zh-tw: "申請職缺問卷（5分鐘"
+                      zh-cn: "申請職缺問卷（5分鐘"
+                      en: "Job Application Survey"
+                  url: /recruit/survey
+                - page:
+                      zh-tw: "選項A選項A：加速申請 - 線上測驗（2.5小時）"
+                      zh-cn: "選項A：加速申請 - 線上測驗（2.5小時）"
+                      en: "A：Accelerated Take-Home Exam"
+                  url: /recruit/takehome
+                  subsubsubfolderitems:
+                      - page:
+                            zh-tw: "線上測驗指南"
+                            zh-cn: "線上測驗指南"
+                            en: "Web Developer Exam"
+                        url: /recruit/webdev
+                      - page:
+                            zh-tw: "測驗分數評估"
+                            zh-cn: "測驗分數評估"
+                            en: "Exam Rubric"
+                        url: /recruit/exam_rubric
+                      - page:
+                            zh-tw: "全端測驗樣本"
+                            zh-cn: "全端測驗樣本"
+                            en: "Full Stack Sample Exam"
+                        url: /recruit/sample_fullstackdev
+                      - page:
+                            zh-tw: "前端測驗樣本"
+                            zh-cn: "前端測驗樣本"
+                            en: "Front-End Sample Exam"
+                        url: /recruit/sample_frontenddev
+                      - page:
+                            zh-tw: "後端測驗樣本"
+                            zh-cn: "後端測驗樣本"
+                            en: "Back-End Sample Exam"
+                        url: /recruit/sample_backenddev
+                - page:
+                      zh-tw: "選項B：傳統方案 - 實際白板考試（2天）"
+                      zh-cn: "選項B：傳統方案 - 實際白板考試（2天）"
+                      en: "B：Traditional Whiteboard Interview"
+                  url: /recruit/whiteboard
+                - page:
+                      zh-tw: "選項C：資歷查核 - 取代技術測驗（5分鐘）"
+                      zh-cn: "選項C：資歷查核 - 取代技術測驗（5分鐘）"
+                      en: "C：Technical Reference Check"
+                  url: /recruit/referencecheck
+          - page:
+                zh-tw: ":bulb: 入職訓練"
+                zh-cn: ":bulb: 入職訓練"
+                en: ":bulb: Onboarding Training"
+            url: /recruit/onboarding
+          - page:
+                zh-tw: ":handshake: 性別平等就業機會"
+                zh-cn: ":handshake: 性別平等就業機會"
+                en: ":handshake: Equal Opportunity Employment"
+            url: /recruit/women
+          - page:
+                zh-tw: ":unlock: 源貢獻"
+                zh-cn: ":unlock: 源貢獻"
+                en: ":unlock: Open Source Contribution"
+            url: /recruit/open_sourced
+          - page:
+                zh-tw: ":hatched_chick: 實習生計劃 : 學生及職場新人"
+                zh-cn: ":hatched_chick: 實習生計劃 : 學生及職場新人"
+                en: ":hatched_chick: Students & New Graduates"
+            url: /recruit/students
+          - page:
+                zh-tw: ":moneybag: 推薦獎金"
+                zh-cn: ":moneybag: 推薦獎金"
+                en: ":moneybag: Referral Program"
+            url: /recruit/referral
+    - title:
+          zh-tw: 工程開發
+          zh-cn: 工程開發
+          en: Engineering
+      url: /engineering/engineering
+      subfolderitems:
+          - page:
+                zh-tw: ":hammer: 工程師入職流程"
+                zh-cn: ":hammer: 工程師入職流程"
+                en: ":hammer: Engineer Onboarding"
+            url: /engineering/onboarding
+            subsubfolderitems:
+                - page:
+                      zh-tw: "破壞性更改"
+                      zh-cn: "破壞性更改"
+                      en: "Breaking Changes"
+                  url: /engineering/breaking_changes
+                - page:
+                      zh-tw: "Git管理規範"
+                      zh-cn: "Git管理規範"
+                      en: "Git Rules"
+                  url: /engineering/git_rules
+          - page:
+                zh-tw: ":zap: 技術架構"
+                zh-cn: ":zap: 技術架構"
+                en: ":zap: Tech Stack"
+            url: /engineering/tech_stack
+            subsubfolderitems:
+                - page:
+                      zh-tw: "生產架構"
+                      zh-cn: "生產架構"
+                      en: "Production Infrastructure"
+                  url: /engineering/prod_infra
+                - page:
+                      zh-tw: 使用者分析
+                      zh-cn: 使用者分析
+                      en: User Analytics
+                  url: /engineering/analytics
+                - page:
+                      zh-tw: 桌面程式架構
+                      zh-cn: 桌面程式架構
+                      en: Desktop App Stack
+                  url: /engineering/desktop_stack
+                - page:
+                      zh-tw: 即時網路架構
+                      zh-cn: 即時網路架構
+                      en: Realtime Web Stack
+                  url: /engineering/realtime_stack
+                - page:
+                      zh-tw: "開發環境"
+                      zh-cn: "開發環境"
+                      en: "開發環境"
+                  url: /engineering/devenv
+          - page:
+                zh-tw: ":hamburger: 前端架構"
+                zh-cn: ":hamburger: 前端架構"
+                en: ":hamburger: Front-End Stack"
+            url: /engineering/frontend_stack
+            subsubfolderitems:
+                - page:
+                      zh-tw: "SSR前端架構"
+                      zh-cn: "SSR前端架構"
+                      en: "Server Side Rendering"
+                  url: /engineering/ssr
+                - page:
+                      zh-tw: AMP前端架構
+                      zh-cn: AMP前端架構
+                      en: Accelerated Mobile Pages
+                  url: /engineering/amp
+                - page:
+                      zh-tw: PWA前端架構
+                      zh-cn: PWA前端架構
+                      en: Progressive Web Application
+                  url: /engineering/pwa
+                - page:
+                      zh-tw: 手機應用程式架構
+                      zh-cn: 手機應用程式架構
+                      en: Mobile Application Framework
+                  url: /engineering/mobile
+                - page:
+                      zh-tw: UI設計原則
+                      zh-cn: UI設計原則
+                      en: UI Design
+                  url: /engineering/ui_design
+                - page:
+                      zh-tw: HTML5架構
+                      zh-cn: HTML5架構
+                      en: HMTL5 Framework
+                  url: /engineering/html5
+                - page:
+                      zh-tw: 國際化
+                      zh-cn: 國際化
+                      en: Internationalization
+                  url: /engineering/internationalization
+                - page:
+                      zh-tw: 數學公式前端
+                      zh-cn: 數學公式前端
+                      en: Math Latex
+                  url: /engineering/math
+          - page:
+                zh-tw: ":cow: 後端架構"
+                zh-cn: ":cow: 後端架構"
+                en: ":cow: Back-End Stack"
+            url: /engineering/backend_stack
+            subsubfolderitems:
+                - page:
+                      zh-tw: 使用者轉介架構
+                      zh-cn: 使用者轉介架構
+                      en: User Referral
+                  url: /engineering/referral
+                - page:
+                      zh-tw: 資料庫架構
+                      zh-cn: 資料庫架構
+                      en: Database-as-a-Service
+                  url: /engineering/db
+                - page:
+                      zh-tw: 過濾資料
+                      zh-cn: 過濾資料
+                      en: Filtering and Querying
+                  url: /engineering/filtering
+          - page:
+                zh-tw: ":rocket: 工作速率"
+                zh-cn: ":rocket: 工作速率"
+                en: ":rocket: Velocity of Work"
+            url: /engineering/velocity_work
+            subsubfolderitems:
+                - page:
+                      zh-tw: "產品開發流程"
+                      zh-cn: "產品開發流程"
+                      en: "Product Cycle"
+                  url: /engineering/product_cycle
+                - page:
+                      zh-tw: "計畫Scrum會議"
+                      zh-cn: "計畫Scrum會議"
+                      en: "Scrum Planning Meetings"
+                  url: /engineering/scrum_meeting
+                - page:
+                      zh-tw: "每日報告"
+                      zh-cn: "每日報告"
+                      en: "Daily Updates"
+                  url: /engineering/daily_scrum
+                - page:
+                      zh-tw: "問題追中"
+                      zh-cn: "問題追中"
+                      en: "Issue Tracking"
+                  url: /engineering/issue_tracking
+                - page:
+                      zh-tw: "紀錄工作時間"
+                      zh-cn: "紀錄工作時間"
+                      en: "Time Tracking"
+                  url: /engineering/time_tracking
+          - page:
+                zh-tw: ":thumbsup: 績效評估"
+                zh-cn: ":thumbsup: 績效評估"
+                en: ":thumbsup: Performance Review"
+            url: /engineering/performance_review
+          - page:
+                zh-tw: ":link: 程式代碼規範"
+                zh-cn: ":link: 程式代碼規範"
+                en: ":link: Code Styles"
+            url: /engineering/code_styles
+          - page:
+                zh-tw: ":bangbang: 程式代碼審核"
+                zh-cn: ":bangbang: 程式代碼審核"
+                en: ":bangbang: Code Review"
+            url: /engineering/code_review
+          - page:
+                zh-tw: ":warning: 品質管制及測試"
+                zh-cn: ":warning: 品質管制及測試"
+                en: ":warning: Quality Control & Testing"
+            url: /engineering/qc_testing
+            subsubfolderitems:
+                - page:
+                      zh-tw: JS測試
+                      zh-cn: JS測試
+                      en: JavaScript Testing
+                  url: /engineering/js_testing
+                - page:
+                      zh-tw: 前端測試
+                      zh-cn: 前端測試
+                      en: Front-End Testing
+                  url: /engineering/frontend_testing
+          - page:
+                zh-tw: ":muscle: 網頁可靠性"
+                zh-cn: ":muscle: 網頁可靠性"
+                en: ":muscle: DevOps & Site Reliability"
+            url: /engineering/devops_sre
+    - title:
+          zh-tw: 產品研發流程
+          zh-cn: 產品研發流程
+          en: Product
+      url: /product/product
+      subfolderitems:
+          - page:
+                zh-tw: ":art: 設計流程"
+                zh-cn: ":art: 設計流程"
+                en: ":art: Design"
+            url: /product/design
+            subsubfolderitems:
+                - page:
+                      zh-tw: ":rainbow: 顏色"
+                      zh-cn: ":rainbow: 顏色"
+                      en: ":rainbow: Colors"
+                  url: /product/color
+                - page:
+                      zh-tw: ":a: 字體"
+                      zh-cn: ":a: 字體"
+                      en: ":a: Fonts"
+                  url: /product/font
+                - page:
+                      zh-tw: ":balloon: 設計表"
+                      zh-cn: ":balloon: 設計表"
+                      en: ":balloon: Style Guides"
+                  url: /product/style_guide
+          - page:
+                zh-tw: ":oncoming_automobile: 產品研發流程"
+                zh-cn: ":oncoming_automobile: 產品研發流程"
+                en: ":oncoming_automobile: Roadmap"
+            url: /product/roadmap
+            subsubfolderitems:
+                - page:
+                      zh-tw: 教育科技
+                      zh-cn: 教育科技
+                      en: EdTech
+                  url: /product/edtech
+    - title:
+          zh-tw: 業務行銷流程
+          zh-cn: 業務行銷流程
+          en: Growth
+      url: /growth/growth
+      subfolderitems:
+          - page:
+                zh-tw: ":rocket: 搜尋引擎最佳化"
+                zh-cn: ":rocket: 搜尋引擎最佳化"
+                en: ":rocket: SEO"
+            url: /growth/seo

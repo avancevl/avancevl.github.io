@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+yapf = "*"
+autopep8 = "*"
+
+[packages]
+requests = "*"
+beautifulsoup4 = "*"
+pyyaml = "*"
+python-frontmatter = "*"
+opencc-python-reimplemented = "*"
+
+[requires]
+python_version = "3.7"

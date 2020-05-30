@@ -1,0 +1,105 @@
+@charset "UTF-8";
+
+// // Color
+@import "components/color-variables";
+@import "components/color-classes";
+
+// // Variables;
+// @import "components/variables";
+
+// // Reset
+// @import "components/normalize";
+/************Customization****************/
+$off-black: rgba(0, 0, 0, 0.87) !default;
+// 1. Colors
+// ==========================================================================
+
+$primary-color: color("materialize-red", "lighten-2") !default;
+$primary-color-light: lighten($primary-color, 15%) !default;
+$primary-color-dark: darken($primary-color, 15%) !default;
+
+$secondary-color: color("teal", "lighten-1") !default;
+$success-color: color("green", "base") !default;
+$error-color: color("red", "base") !default;
+$link-color: color("light-blue", "darken-1") !default;
+// 9. Dropdown
+// ==========================================================================
+
+$dropdown-bg-color: #fff !default;
+$dropdown-hover-bg-color: #eee !default;
+$dropdown-color: $secondary-color !default;
+$dropdown-item-height: 50px !default;
+// 14. Side Navigation
+// ==========================================================================
+
+$sidenav-width: 300px !default;
+$sidenav-font-size: 14px !default;
+$sidenav-font-color: rgba(0, 0, 0, 0.87) !default;
+$sidenav-bg-color: #fff !default;
+$sidenav-padding: 16px !default;
+$sidenav-item-height: 48px !default;
+$sidenav-line-height: $sidenav-item-height !default;
+// Raised buttons
+$button-raised-background: $secondary-color !default;
+$button-raised-background-hover: lighten(
+    $button-raised-background,
+    5%
+) !default;
+$button-raised-color: #fff !default;
+// Flat buttons
+$button-flat-color: #343434 !default;
+$button-flat-disabled-color: lighten(#999, 10%) !default;
+$medium-screen: 992px !default;
+$medium-and-down: "only screen and (max-width : #{$medium-screen})" !default;
+/* 2dp elevation modified*/
+.z-depth-1 {
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
+        0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+}
+.z-depth-1-half {
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12),
+        0 3px 1px -1px rgba(0, 0, 0, 0.2);
+}
+/* This is needed for some mobile phones to display the Google Icon font properly */
+.material-icons {
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "liga";
+}
+i,
+[class^="mdi-"],
+[class*="mdi-"],
+i.material-icons {
+    display: inline-block;
+    float: left;
+    font-size: 24px;
+}
+
+// components
+// @import "components/global";
+// @import "components/badges";
+// @import "components/icons-material-design";
+// @import "components/grid";
+// @import "components/navbar";
+// @import "components/typography";
+// @import "components/transitions";
+// @import "components/cards";
+// @import "components/toast";
+// @import "components/tabs";
+// @import "components/tooltip";
+// @import "components/buttons";
+@import "components/dropdown";
+// @import "components/waves";
+// @import "components/modal";
+// @import "components/collapsible";
+// @import "components/chips";
+// @import "components/materialbox";
+// @import "components/forms/forms";
+// @import "components/table_of_contents";
+@import "components/sidenav";
+// @import "components/preloader";
+// @import "components/slider";
+// @import "components/carousel";
+// @import "components/tapTarget";
+// @import "components/pulse";
+// @import "components/datepicker";
+// @import "components/timepicker";

@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+.page-header {
+	background-color: #000037;
+	background-image: none;
+}
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #005f9d;
+}
+.btn#page-btn {
+	color: #000037;
+	border-color: #000037;
+
+	&:hover {
+		color: rgba(255, 255, 255, 0.8);
+	    text-decoration: none;
+	    background-color: #000037;
+	}
+}
+.page-header {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.main-nav {
+	padding-top: 50px;
+}
+.active {
+	color: #ff6f61;
+}

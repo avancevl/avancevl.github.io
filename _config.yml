@@ -1,0 +1,71 @@
+theme: jekyll-theme-cayman
+plugins:
+    - jemoji
+title: AVL
+description: 加速孵化新創 Startup Incubator
+google_analytics: UA-140600686-5
+splash_btn_text: 查看職缺
+job_form_url: https://forms.gle/uuvw3TYH2YpZvT5m9
+job_form_url_en: ""
+job_form_url_zh-cn: ""
+job_form_url_zh-tw: ""
+exam_submit_form_url: https://forms.gle/LW9UAo2YWpUrgFLq6
+link_jd_culture: "/principles/principles.html"
+link_jd_benefits: "/people/benefits.html"
+link_jd_salary: "/people/engineering_level.html"
+link_jd_projectfee: "/people/projectbased_level.html"
+link_jd_interview_process: "/recruit/interview_process.html"
+link_jd_expectations: "/principles/values.html"
+link_team: "/team.html"
+link_onboarding: "/recruit/onboarding.html"
+link_fullstack_training: "/people/fullstack_training.html"
+link_sample_fullstackdev: "/recruit/sample_fullstackdev.html"
+link_engineering: "/engineering/engineering.html"
+user_g: G
+user_d: D
+exclude:
+    - _main/
+    - i18n.py
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - Pipfile
+    - Pipfile.lock
+    - get-pip.py
+    - run.sh
+#https://github.com/letrastudio/jekyll-i18n/blob/master/_config.yml
+sass:
+    sass_dir: _sass
+locales:
+    en:
+        baseurl: "/en"
+        name: English
+        lang: en
+    zh-tw:
+        baseurl: "/zh-tw"
+        name: 繁體
+        lang: zh-tw
+    zh-cn:
+        baseurl: /zh-cn
+        name: 简体
+        lang: zh-cn
+collections:
+    pages:
+        output: true
+        permalink: "/:path"
+    default:
+        output: true
+        permalink: "/:path"
+# defaults:
+#     - scope:
+#           path: "_pages/default"
+#       values:
+#           permalink: "/:path"
+# permalink: "/:path"
+
+i18n.py:
+    mainPath: "./_main"
+    tag: "a"
+    attrname: "name"
+    falias: "_pages"
+    default_lang: "en"

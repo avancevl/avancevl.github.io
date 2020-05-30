@@ -1,0 +1,21 @@
+{% for locale in site.locales %}
+  {% assign locale_object = locale[1] %}
+  <li lang="{{ locale_object.lang }}" class="language-plaintext highlighter-rouge">
+
+    {%if page.url != "/" %}
+      {% assign url_first_lang = page.url | split: "/" %}
+      {% if url_first_lang[1] != page.lang %}
+        <!--root folder no lang page-->
+        {% assign locale_object_lang = locale_object.lang | prepend: "/" %}
+        <a aria-current="true" class="lang" href="{{ page.url | prepend:locale_object_lang }}">{{ locale_object.name }}</a>
+      {% else %}
+        {% assign page_lang = page.lang | prepend: "/" %}
+        {% assign locale_object_lang = locale_object.lang | prepend: "/" %}
+        <a href="{{ page.url | replace_first: page_lang, locale_object_lang | prepend: site.baseurl }}" class="lang" aria-current="true">{{ locale_object.name }}</a>
+      {% endif %}
+    {% else %}
+      {% assign page_lang = locale_object.lang  | prepend: "/" %}
+      <a href="{{ page_lang | prepend: site.baseurl }}" class="lang" hreflang="{{ locale_object.lang }}">{{ locale_object.name }}</a>
+    {% endif %}
+  </li>
+{% endfor %}

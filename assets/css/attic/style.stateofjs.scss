@@ -1,0 +1,61 @@
+---
+---
+
+@import "{{ site.theme }}";
+body {
+    background-color: #22252a;
+}
+.page-header {
+    background-color: #22252a;
+    background-image: none;
+}
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+    color: #ffffff;
+}
+.btn#page-btn {
+    color: #e0e4e4;
+    border-color: #e0e4e4;
+    background-color: #22252a;
+
+    &:hover {
+        color: #fc6969;
+        border-color: #fc6969;
+        background-color: #22252a;
+    }
+}
+.page-header {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.main-nav {
+    padding-top: 30px;
+}
+.active {
+    color: #fc6969;
+}
+a {
+    color: #41c7c7;
+}
+a.lang {
+    color: #22252a;
+}
+a:hover {
+    color: #fc6969;
+}
+a:active {
+    color: #fc6969;
+}
+.main-content {
+    color: #e0e4e4;
+}
+.main-content pre {
+    background-color: #e0e4e4;
+}
+.main-content hr {
+    border: #2a2d33;
+}
