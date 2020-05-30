@@ -84,8 +84,6 @@ locales:
 -   使命/ 30 年
 -   高難度、大膽目標
 
-<br>
-
 ## 顧問團隊
 
 我們有合作的夥伴來自：
@@ -182,8 +180,6 @@ locales:
 -   使命/ 30 年
 -   高难度、大胆目标
 
-<br>
-
 ## 顾问团队
 
 我们有合作的伙伴来自：
@@ -278,8 +274,6 @@ We run our team according to the following rhythm:
 -   Mission / 30 years
 -   Big Hairy Audacious Goal (BHAG)
 <!-- Our BHAG is to become the most popular X for Y in Z industry. For this to happen, we need to be best are making A much more B. -->
-
-<br>
 
 ## Our Advisors & Investors
 

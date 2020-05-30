@@ -74,8 +74,6 @@ We run our team according to the following rhythm:
 -   Big Hairy Audacious Goal (BHAG)
 <!-- Our BHAG is to become the most popular X for Y in Z industry. For this to happen, we need to be best are making A much more B. -->
 
-<br>
-
 ## Our Advisors & Investors
 
 Consultants we have worked with or are currently working with, formally and informally, include:
