@@ -11,7 +11,7 @@
           {% assign urls = item.url %}
         {% endif %}
         {% if page.url == item_url %}
-          <a href="{{ site.baseurl }}{{ urls }}" class="active">{{ item.title[page.lang] }}</a>
+          <a href="{{ site.baseurl }}{{ urls }}" class="active thisa">{{ item.title[page.lang] }}</a>
         {% else %}
           <a href="{{ site.baseurl }}{{ urls }}" class="nav">{{ item.title[page.lang] }}</a>
         {% endif %}
@@ -32,7 +32,7 @@
             <li>
               <b>
                 {% if page.url == item_url %}
-                  <a href="{{ site.baseurl }}{{ urls }}" class="active">{{ entry.page[page.lang] }}</a>
+                  <a href="{{ site.baseurl }}{{ urls }}" class="active thisa">{{ entry.page[page.lang] }}</a>
                 {% else %}
                   <a href="{{ site.baseurl }}{{ urls }}" class="nav">{{ entry.page[page.lang] }}</a>
                 {% endif %}
@@ -54,7 +54,7 @@
                     <li>
                       <b>
                         {% if page.url == item_url %}
-                          <a href="{{ site.baseurl }}{{ urls }}" class="active">{{ subentry.page[page.lang] }}</a>
+                          <a href="{{ site.baseurl }}{{ urls }}" class="active thisa">{{ subentry.page[page.lang] }}</a>
                         {% else %}
                           <a href="{{ site.baseurl }}{{ urls }}" class="nav">{{ subentry.page[page.lang] }}</a>
                         {% endif %}
@@ -76,7 +76,7 @@
                             <li>
                               <b>
                                 {% if page.url == item_url %}
-                                  <a href="{{ site.baseurl }}{{ urls }}" class="active">{{ subsubentry.page[page.lang] }}</a>
+                                  <a href="{{ site.baseurl }}{{ urls }}" class="active thisa">{{ subsubentry.page[page.lang] }}</a>
                                 {% else %}
                                   <a href="{{ site.baseurl }}{{ urls }}" class="nav">{{ subsubentry.page[page.lang] }}</a>
                                 {% endif %}
