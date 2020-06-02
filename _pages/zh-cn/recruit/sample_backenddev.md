@@ -7,7 +7,7 @@ description: 後端測驗樣本
 
 
 
-[立即申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[立即申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 [检阅考试指示]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
 [测验分数评估]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 

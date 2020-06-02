@@ -13,7 +13,7 @@ description: Take-Home Exam
 1. [Front-End Developer]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_frontenddev.html)
 1. [Back-End Developer]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_backenddev.html)
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 [Exam Rubric]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 Below are links to Full Stack, Front-End, and Back-End Developer exams. Please familiarize yourself with the exam requirements and technology stacks prior to the exam date.

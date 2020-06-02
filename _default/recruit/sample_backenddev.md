@@ -7,7 +7,7 @@ description: Take-home Exam
 
 
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 [View Instructions]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
 [View Rubric]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 

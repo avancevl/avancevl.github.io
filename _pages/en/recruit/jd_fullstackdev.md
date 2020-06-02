@@ -13,7 +13,7 @@ description: Full-Time
 
 <br>
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 ## Description
 - [**Salary Levels**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_salary}}): Annual salary starting at NT$108W for Senior Engineers.
@@ -47,7 +47,7 @@ description: Full-Time
 
 <br>
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 
 <br>

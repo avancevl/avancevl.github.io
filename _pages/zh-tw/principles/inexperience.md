@@ -25,7 +25,7 @@ description: 職場新人
 ### [學生實習生]({{ site.baseurl }}/{{ page.lang }}/recruit/students.html){:target="_blank"}
 兼職|遙控器|台北
 
-[應用]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[應用]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 
 <br>

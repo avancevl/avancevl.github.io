@@ -13,7 +13,7 @@ description: 工程師線上測驗指南 — 考前準備
 1. [前端软体工程师]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_frontenddev.html)
 1. [后端​​软体工程师]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_backenddev.html)
 
-[立即申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[立即申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 [测验分数评估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 

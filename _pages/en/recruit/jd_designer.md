@@ -13,7 +13,7 @@ description: Full, Part-Time
 
 <br>
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 ## Description
 - [**Salary Levels**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_salary}})
@@ -48,6 +48,6 @@ description: Full, Part-Time
 
 <br>
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>

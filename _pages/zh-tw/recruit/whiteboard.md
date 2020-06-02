@@ -18,7 +18,7 @@ description: 選項B
 
 我們**強烈鼓勵**候選人改為通過**[加速實地考試]({{ site.baseurl }}/{{ page.lang }}/recruit/takehome.html)** 進行申請。整個技術評估過程僅需2.5個小時，而不是2天。
 
-[立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[立即申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 

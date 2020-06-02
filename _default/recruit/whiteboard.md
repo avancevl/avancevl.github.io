@@ -17,7 +17,7 @@ Our traditional software engineer whiteboard interview process is **2 full days*
 
 We **highly encourage** candidates to apply through our **[Accelerated Take Home Exam]({{ site.baseurl }}/{{ page.lang }}/recruit/takehome.html)** instead. The entire technical evaluation process is only 2.5 hours, instead of 2 full days.
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 

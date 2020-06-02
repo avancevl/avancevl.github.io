@@ -13,7 +13,7 @@ description: 全職
 
 <br>
 
-[現在就申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[現在就申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 ## 工作資料
 - [**薪資**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_salary}}): 資深全端網頁工程師年薪108～180萬。

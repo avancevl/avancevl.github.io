@@ -117,7 +117,7 @@ def rfileDate(filepath, setlang, tag, attrname):
     return article_lang
 
 
-def resetLangfMeta(article_lang, key, lang):
+def resetLangfMeta(article_lang, key, lang, job_lang):
     metadatas = yaml.load(
         article_lang[key][0].replace("---", ""), Loader=yaml.FullLoader)
 
@@ -130,7 +130,9 @@ def resetLangfMeta(article_lang, key, lang):
         '---\n\n'
     ]
     story = '\n'.join(lang_metadata)
-    return story+article_lang[key][1]
+    job_form_url = "job_form_url_"+job_lang
+    article = article_lang[key][1].replace("job_form_url", job_form_url)
+    return story+article
 
 
 def creatFiles(article_lang, path, filename, falias):
@@ -162,9 +164,8 @@ def creatFiles(article_lang, path, filename, falias):
         with open(filepath, "w") as fp:
             if key in article_lang.keys():  # [tw ,cn]
                 # print("setlang1:"+key)
-                for item in article_lang[key]:
-                    # print("filename:", filename)
-                    fp.write(str(item))
+                fp.write(resetLangfMeta(
+                    article_lang, key, key, key))
             else:
                 if key == default_lang:
                     # print("setlang2:"+key)
@@ -175,7 +176,7 @@ def creatFiles(article_lang, path, filename, falias):
                         # print("setlang:"+key2)
                         if key2 in article_lang.keys():  # [tw ,cn]
                             fp.write(resetLangfMeta(
-                                article_lang, key2, default_lang))
+                                article_lang, key2, default_lang, default_lang))
                             break
 
                 else:
@@ -183,7 +184,7 @@ def creatFiles(article_lang, path, filename, falias):
                     if key in article_lang.keys():
                         # print("setlang3:"+key)
                         fp.write(resetLangfMeta(
-                            article_lang, default_lang, key))
+                            article_lang, default_lang, key, key))
                     else:
                         # print("setlang4:"+key)
                         # no default lang <a name="en"> and no lang article_lang key
@@ -193,7 +194,7 @@ def creatFiles(article_lang, path, filename, falias):
                             if key2 in article_lang.keys():  # [tw ,cn]
                                 # print("setlang4:"+key2)
                                 fp.write(resetLangfMeta(
-                                    article_lang, key2, key))
+                                    article_lang, key2, key, key))
 
                                 break
 

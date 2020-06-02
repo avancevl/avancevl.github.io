@@ -11,7 +11,7 @@ description: 我們如何面試工程師
 
 | # | 階段 | 時間 | 評估 |
 | --- | --- | --- | --- |
-| 1 | [線上申請]({{ site.job_form_url }}){:target="_blank"} | 5分鐘 | 團隊文化融合 |
+| 1 | [線上申請]({{ site.job_form_url_zh-tw }}){:target="_blank"} | 5分鐘 | 團隊文化融合 |
 | 2 | 技術測驗 | 2.5小時 | 技術面 |
 | 3 | 電話面試 | 30分鐘 | 個性 |
 | 4 | 本人面試 | 1小時 | 個性 |
@@ -45,5 +45,5 @@ description: 我們如何面試工程師
 
 <br>
 
-[現在申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[現在申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 

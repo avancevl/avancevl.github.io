@@ -11,7 +11,7 @@ description: How we resolve conflict within the team.
 
 In a survey, we asked over 100 candidates about their ideal company culture.
 
-[View Survey]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[View Survey]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 
 We asked:

@@ -29,7 +29,7 @@ description: 選項C
 
 如果资历查核都没问题，我们会直接依照查核的薪资加至少5%。
 
-[立即申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[立即申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 

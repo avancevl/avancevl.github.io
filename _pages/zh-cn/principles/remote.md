@@ -13,7 +13,7 @@ description: 遠端工作
 
 在一项调查中，我们向100多名候选人询问了他们理想的公司。
 
-[查看调查]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[查看调查]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 
 我们问：
@@ -32,7 +32,7 @@ description: 遠端工作
 
 在同一调查中，我们询问位置是否便利或办公室装饰是否漂亮。
 
-[查看调查]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[查看调查]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 我们问：
 

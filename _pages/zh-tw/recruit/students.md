@@ -63,7 +63,7 @@ Stanford 和 MIT 校友的定期回饋，獲得真實經驗，幫助發展未來
 
 這是您參與 Made in Taiwan 新創團隊並做出貢獻的機會。 您會受到挑戰執行出色的結果。 如果您積極進取，勤奮敬業，技術精湛，
 
-[加入我們]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[加入我們]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 
 #### **實習多久？**

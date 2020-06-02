@@ -25,4 +25,4 @@ If our culture and opportunity appeals to you, please apply to our intern progra
 ### [Student Intern]({{ site.baseurl }}/{{ page.lang }}/recruit/students.html){:target="_blank"}
 Part Time | Remote | Taipei
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}

@@ -35,7 +35,7 @@ description: 職缺
 
 `资深工程师` `初级工程师`
 
-[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -45,7 +45,7 @@ description: 職缺
 
 `资深工程师` `初级工程师`
 
-[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -55,7 +55,7 @@ description: 職缺
 
 `资深工程师` `初级工程师`
 
-[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -66,7 +66,7 @@ description: 職缺
 
 `资深工程师` `初级工程师`
 
-[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -76,7 +76,7 @@ description: 職缺
 
 `初级工程师`
 
-[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -86,7 +86,7 @@ description: 職缺
 
 `初级工程师`
 
-[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -100,7 +100,7 @@ description: 職缺
 
 `初级设计师`
 
-[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -112,7 +112,7 @@ description: 職缺
 
 `实习生`
 
-[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -124,7 +124,7 @@ description: 職缺
 
 `特案`
 
-[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 

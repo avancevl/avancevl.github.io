@@ -13,7 +13,7 @@ description: 全職、特案
 
 <br>
 
-[現在就申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[現在就申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 ## 工作資料
 - [**團隊文化**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_culture }}): 矽谷新創文化。
@@ -55,7 +55,7 @@ description: 全職、特案
 
 <br>
 
-[現在就申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[現在就申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 

@@ -13,7 +13,7 @@ description: 工程師線上測驗指南 — 考前準備
 1. [前端軟體工程師]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_frontenddev.html)
 1. [後端軟體工程師]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_backenddev.html)
 
-[立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[立即申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 [測驗分數評估]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 

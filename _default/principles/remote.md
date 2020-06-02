@@ -13,7 +13,7 @@ description: Work from home. Work from anywhere in the world.
 
 In a survey, we asked over 100 candidates about their ideal company. 
 
-[View Survey]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[View Survey]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 
 We asked:
@@ -32,7 +32,7 @@ Almost half of candidates prefer working remotely at home.
 
 In the same survey, we asked whether convenient location or office with nice decor.
 
-[View Survey]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[View Survey]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 We asked:
 

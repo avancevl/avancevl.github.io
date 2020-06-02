@@ -11,7 +11,7 @@ description: Only 5-minutes.
 | Problems | 13 |
 | Applicants | 400+ (02/17/2020)|
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 ## Survey Results
 

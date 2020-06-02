@@ -11,7 +11,7 @@ description: 團隊互動
 
 在一項調查中，我們向100多名候選人詢問了他們理想的公司文化。
 
-[查看調查]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[查看調查]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 
 我們問：

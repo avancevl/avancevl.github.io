@@ -13,7 +13,7 @@ description: Project-Based/Part-Time
 
 <br>
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 ## Description
 - [**Fee**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_projectfee}}): NT$10-100W per project.
@@ -45,7 +45,7 @@ description: Project-Based/Part-Time
 
 <br>
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 

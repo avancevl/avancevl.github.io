@@ -74,7 +74,7 @@ We believe individuals should be rewarded fairly and transparently for their per
 
 In a survey, we asked over 100 candidates about their ideal company. 
 
-[View Survey]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[View Survey]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 
 We asked:

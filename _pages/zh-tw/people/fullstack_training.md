@@ -21,7 +21,7 @@ description: 全端培訓計劃
 
 這樣想吧：你**一邊領薪水，一邊學習、進步，提高自己的能力**。
 
-[立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[立即申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 
 ## 為何學全端？

@@ -13,7 +13,7 @@ description: 全職
 
 <br>
 
-[现在就申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[现在就申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 ## 工作资料
 - [**薪资**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_salary}}): 资深全端网页工程师年薪108～180万。
@@ -46,7 +46,7 @@ description: 全職
 
 <br>
 
-[现在就申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[现在就申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 

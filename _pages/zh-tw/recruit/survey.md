@@ -11,7 +11,7 @@ description: 5分鐘
 | 問卷題目 | 13題 |
 | 申請人數 | 400+位 (02/17/2020)|
 
-[開始申請職缺]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[開始申請職缺]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 ## 問卷重要問題結合
 

@@ -21,7 +21,7 @@ We are lean and value speed. We believe effective collaboration is based on mutu
 
 Think of it this way: **you're paid to learn and improve yourself**.
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 ## Why Full Stack?
 

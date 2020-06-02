@@ -11,7 +11,7 @@ description: 我们如何面试工程师
 
 | # | 阶段 | 时间 | 评估 |
 | --- | --- | --- | --- |
-| 1 | [线上申请]({{ site.job_form_url }}){:target="_blank"} | 5分钟 | 团队文化融合 |
+| 1 | [线上申请]({{ site.job_form_url_zh-cn }}){:target="_blank"} | 5分钟 | 团队文化融合 |
 | 2 | 技术测验 | 2.5小时 | 技术面 |
 | 3 | 电话面试 | 30分钟 | 个性 |
 | 4 | 本人面试 | 1小时 | 个性 |
@@ -45,5 +45,5 @@ description: 我们如何面试工程师
 
 <br>
 
-[现在申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[现在申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 

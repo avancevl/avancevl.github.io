@@ -35,7 +35,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 `Lead Engineer`  `Senior Engineer`  `Junior Engineer`
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -45,7 +45,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 `Senior Engineer` `Junior Engineer`
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -55,7 +55,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 `Senior Engineer`
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -66,7 +66,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 `Senior Engineer`
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -76,7 +76,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 `Junior Engineer`
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -86,7 +86,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 `Junior Engineer`
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -100,7 +100,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 `Junior Designer`
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -112,7 +112,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 `Intern`
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -124,6 +124,6 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 `Project-Based`
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>

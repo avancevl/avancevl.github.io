@@ -18,7 +18,7 @@ description: 選項B
 
 我们**强烈鼓励**候选人改为通过**[加速实地考试]({{ site.baseurl }}/{{ page.lang }}/recruit/takehome.html)** 进行申请。整个技术评估过程仅需2.5个小时，而不是2天。
 
-[立即申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[立即申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 

@@ -11,7 +11,7 @@ description: Pick your preferred interview method.
 
 | # | Stage | Time Duration | Evaluation |
 | --- | --- | --- | --- |
-| 1 | [Online Application]({{ site.job_form_url }}){:target="_blank"} | 5 min | Cultural Fit |
+| 1 | [Online Application]({{ site.job_form_url_en }}){:target="_blank"} | 5 min | Cultural Fit |
 | 2 | Technical Evaluation | 2.5 hour | Technical |
 | 3 | Phone Interview | 30 min | Personality |
 | 4 | In-Person Interview | 1 hour | Personality |
@@ -45,4 +45,4 @@ If you already have an exploding offer, please let us know and we can expediate 
 
 <br>
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}

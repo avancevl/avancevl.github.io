@@ -29,6 +29,6 @@ This option is non-objective and highly subjective, and thus only reserved for h
 
 If we decied to proceed with an offer based on your references alone, we will automatically **match your current or previous salary (with proof) at least 5% or higher.**
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>

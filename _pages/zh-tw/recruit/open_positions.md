@@ -35,7 +35,7 @@ description: 職缺
 
 `資深工程師`  `初級工程師`
 
-[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -45,7 +45,7 @@ description: 職缺
 
 `資深工程師` `初級工程師`
 
-[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -55,7 +55,7 @@ description: 職缺
 
 `資深工程師` `初級工程師`
 
-[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -66,7 +66,7 @@ description: 職缺
 
 `資深工程師`
 
-[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -76,7 +76,7 @@ description: 職缺
 
 `初級工程師`
 
-[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -86,7 +86,7 @@ description: 職缺
 
 `初級工程師`
 
-[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -100,7 +100,7 @@ description: 職缺
 
 `初級設計師`
 
-[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -112,7 +112,7 @@ description: 職缺
 
 `實習生`
 
-[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -124,7 +124,7 @@ description: 職缺
 
 `特案`
 
-[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 
 <br>
