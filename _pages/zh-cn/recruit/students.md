@@ -64,7 +64,7 @@ You will receive compensation based on OKR performance as bonus, scholarship, or
 
 This is your opportunity to contribute in a startup. You will be challenged. You are expected to execute excellent results. If you’re proactive, hardworking, and highly skilled,
 
-[Join Us]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
+[Join Us]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 #### asdf
 

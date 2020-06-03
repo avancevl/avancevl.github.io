@@ -17,6 +17,15 @@ tag = c_i18n['tag']
 attrname = c_i18n['attrname']
 falias = c_i18n['falias']
 default_lang = c_i18n['default_lang']
+job_form = {}
+for item in _config[0]:
+    for lang in setlang:
+        key = "job_form_url_"+lang
+        if key in _config[0].keys():
+            job_form[key] = key
+        else:
+            defalul_job_url = "job_form_url_"+default_lang
+            job_form[key] = defalul_job_url
 
 
 def setlangFile(metadata, value, lang_content):
@@ -130,7 +139,7 @@ def resetLangfMeta(article_lang, key, lang, job_lang):
         '---\n\n'
     ]
     story = '\n'.join(lang_metadata)
-    job_form_url = "job_form_url_"+job_lang
+    job_form_url = job_form["job_form_url_"+job_lang]
     article = article_lang[key][1].replace("job_form_url", job_form_url)
     return story+article
 
@@ -184,7 +193,7 @@ def creatFiles(article_lang, path, filename, falias):
                     if key in article_lang.keys():
                         # print("setlang3:"+key)
                         fp.write(resetLangfMeta(
-                            article_lang, default_lang, key, key))
+                            article_lang, default_lang, key, default_lang))
                     else:
                         # print("setlang4:"+key)
                         # no default lang <a name="en"> and no lang article_lang key
@@ -194,7 +203,7 @@ def creatFiles(article_lang, path, filename, falias):
                             if key2 in article_lang.keys():  # [tw ,cn]
                                 # print("setlang4:"+key2)
                                 fp.write(resetLangfMeta(
-                                    article_lang, key2, key, key))
+                                    article_lang, key2, key, default_lang))
 
                                 break
 
