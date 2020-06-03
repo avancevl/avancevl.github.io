@@ -261,6 +261,12 @@ toc:
                 zh-cn: ":art: 设计師面試過程"
                 en: ":art: Designer Interview Process"
             url: /recruit/interview_process_designer
+            subsubfolderitems:
+                - page:
+                      zh-tw: "設計師測驗"
+                      zh-cn: "设计师测验"
+                      en: "Designer Exam"
+                  url: /recruit/exam_designer
           - page:
                 zh-tw: ":hourglass_flowing_sand: 工程師面試過程"
                 zh-cn: ":hourglass_flowing_sand: 工程師面試過程"
@@ -268,8 +274,8 @@ toc:
             url: /recruit/interview_process
             subsubfolderitems:
                 - page:
-                      zh-tw: "申請職缺問卷（5分鐘"
-                      zh-cn: "申請職缺問卷（5分鐘"
+                      zh-tw: "申請職缺問卷（5分鐘）"
+                      zh-cn: "申請職缺問卷（5分鐘）"
                       en: "Job Application Survey"
                   url: /recruit/survey
                 - page:
