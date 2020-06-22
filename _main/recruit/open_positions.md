@@ -103,7 +103,7 @@ locales:
 
 ## 設計師
 
-### [網頁設計師](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
+### [網頁設計師]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_designer.html)
 
 `全職` `兼職` `遠端`
 
@@ -227,7 +227,7 @@ locales:
 
 ## 设计师
 
-### [网页设计师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
+### [网页设计师]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_designer.html)
 
 `全职` `兼职` `远端`
 
@@ -350,7 +350,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 ## Design
 
-### [Graphic UX Designer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
+### [Graphic UX Designer]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_designer.html)
 
 `Full-Time` `Part-Time`  `Remote`
 

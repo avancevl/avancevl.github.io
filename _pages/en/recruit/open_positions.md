@@ -94,7 +94,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 ## Design
 
-### [Graphic UX Designer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
+### [Graphic UX Designer]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_designer.html)
 
 `Full-Time` `Part-Time`  `Remote`
 

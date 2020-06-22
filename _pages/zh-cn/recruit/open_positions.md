@@ -94,7 +94,7 @@ description: 職缺
 
 ## 设计师
 
-### [网页设计师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
+### [网页设计师]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_designer.html)
 
 `全职` `兼职` `远端`
 
