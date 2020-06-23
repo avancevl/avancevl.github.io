@@ -106,7 +106,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 ## Internship
 
-### [UI/UX Designer Intern](https://www.avancevl.com/student){:target="_blank"}
+### [UI/UX Design Intern](https://www.avancevl.com/student){:target="_blank"}
 
 `Summer Internship` `Part-Time`  `Remote`
 
