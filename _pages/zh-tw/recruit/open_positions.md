@@ -106,7 +106,7 @@ description: 職缺
 
 ## 實習生
 
-### [全端實習生](https://www.avancevl.com/students){:target="_blank"}
+### [網頁設計實習生](https://www.avancevl.com/student){:target="_blank"}
 
 `暑期實習`  `兼職` `遠端`
 

@@ -115,7 +115,7 @@ locales:
 
 ## 實習生
 
-### [全端實習生](https://www.avancevl.com/students){:target="_blank"}
+### [網頁設計實習生](https://www.avancevl.com/student){:target="_blank"}
 
 `暑期實習`  `兼職` `遠端`
 
@@ -239,7 +239,7 @@ locales:
 
 ## 实习生
 
-### [全端实习生](https://www.avancevl.com/students){:target="_blank"}
+### [网页设计实习生](https://www.avancevl.com/student){:target="_blank"}
 
 `暑期实习` `兼职` `远端`
 
@@ -362,7 +362,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 ## Internship
 
-### [Full Stack Student Intern Engineer](https://www.avancevl.com/students){:target="_blank"}
+### [UI/UX Designer Intern](https://www.avancevl.com/student){:target="_blank"}
 
 `Summer Internship` `Part-Time`  `Remote`
 

@@ -106,7 +106,7 @@ description: 職缺
 
 ## 实习生
 
-### [全端实习生](https://www.avancevl.com/students){:target="_blank"}
+### [网页设计实习生](https://www.avancevl.com/student){:target="_blank"}
 
 `暑期实习` `兼职` `远端`
 
