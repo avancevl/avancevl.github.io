@@ -101,7 +101,6 @@ locales:
 -   麻省理工電腦科學學院
 -   三星
 -   史丹佛電腦科學學院
--   創建
 -   騰訊
 
 <br>
@@ -197,7 +196,6 @@ locales:
 -   麻省理工电脑科学学院
 -   三星
 -   史丹佛电脑科学学院
--   创建
 -   腾讯
 
 <br>
@@ -292,7 +290,6 @@ Consultants we have worked with or are currently working with, formally and info
 -   MIT Computer Science
 -   Samsung
 -   Stanford Computer Science
--   Transcend
 -   Tencent
 
 <br>

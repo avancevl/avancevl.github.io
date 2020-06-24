@@ -91,7 +91,6 @@ Consultants we have worked with or are currently working with, formally and info
 -   MIT Computer Science
 -   Samsung
 -   Stanford Computer Science
--   Transcend
 -   Tencent
 
 <br>
