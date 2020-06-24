@@ -18,7 +18,7 @@ locales:
 
 # 關於我們
 
-我們是麻省理工學院工程師與史丹佛電機碩士創辦的台北[精益新創](https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A "精益創業定義"){:target="\_blank"} startup 公司，專門創造有用的軟體。在紐約、西雅圖、芝加哥、香港、上海，擁有投資銀行、科技公司、對沖基金、管理諮詢顧問的大型企業經驗。也在矽谷和亞洲有金融科技創業成功的紀錄。團隊在香港、台北、西雅圖、芝加哥、巴黎。目前首創台灣第一個與眾不同的孵化 incubuation 團隊，加速 accelerate 內部自己創造的新點子，快速的執行市場實驗，有成長也有盈利。我們重視創造影響力 impact 而不只是生產力 productivity。
+我們是麻省理工學院工程師與史丹佛電機碩士創辦的台北[精益新創](https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A "精益創業定義"){:target="\_blank"} startup 公司，專門創造有用的軟體。在紐約、西雅圖、芝加哥、香港、上海，擁有投資銀行、科技公司、對沖基金、管理諮詢顧問的大型企業經驗。也在矽谷和亞洲有金融科技創業成功的紀錄。**團隊在香港、台灣、西雅圖、芝加哥、巴黎。**目前首創台灣第一個與眾不同的孵化 incubuation 團隊，加速 accelerate 內部自己創造的新點子，快速的執行市場實驗，有成長也有盈利。我們重視創造影響力 impact 而不只是生產力 productivity。
 
 <br>
 
@@ -114,7 +114,7 @@ locales:
 
 # 关于我们
 
-我们是麻省理工学院工程师与史丹佛电机硕士创办的台北[精益新创](https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%9B%8A%E5%88% 9B%E4%B8%9A "精益创业定义"){:target="\_blank"} startup 公司，专门创造有用的软体。在纽约、西雅图、芝加哥、香港、上海，拥有投资银行、科技公司、对冲基金、管理咨询顾问的大型企业经验。也在矽谷和亚洲有金融科技创业成功的纪录。团队在香港、台北、西雅图、芝加哥、巴黎。目前首创台湾第一个与众不同的孵化 incubuation 团队，加速 accelerate 内部自己创造的新点子，快速的执行市场实验，有成长也有盈利。我们重视创造影响力 impact 而不只是生产力 productivity。
+我们是麻省理工学院工程师与史丹佛电机硕士创办的台北[精益新创](https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%9B%8A%E5%88% 9B%E4%B8%9A "精益创业定义"){:target="\_blank"} startup 公司，专门创造有用的软体。在纽约、西雅图、芝加哥、香港、上海，拥有投资银行、科技公司、对冲基金、管理咨询顾问的大型企业经验。也在矽谷和亚洲有金融科技创业成功的纪录。**团队在香港、湾、西雅图、芝加哥、巴黎。**目前首创第一个与众不同的孵化 incubuation 团队，加速 accelerate 内部自己创造的新点子，快速的执行市场实验，有成长也有盈利。我们重视创造影响力 impact 而不只是生产力 productivity。
 
 <br>
 
@@ -210,7 +210,7 @@ locales:
 
 # About Us
 
-We are a team of entrepreneurs from MIT and Stanford. We studied engineering as undergraduates and worked in the world of banking, tech, and consulting in New York, Seattle, San Francisco, Chicago, and Shanghai before building startups in Silicon Valley. Our team is currently based in Hong Kong, Taipei, Seattle, Chicago, and Paris. We create, build, and implement experiments quickly for profitable ideas. We make useful software. We value creating impact over being productive.
+We are a team of entrepreneurs from MIT and Stanford. We studied engineering as undergraduates and worked in the world of banking, tech, and consulting in New York, Seattle, San Francisco, Chicago, and Shanghai before building startups in Silicon Valley. Our team is currently based in **Hong Kong, Taiwan, Seattle, Chicago, and Paris**. We create, build, and implement experiments quickly for profitable ideas. We make useful software. We value creating impact over being productive.
 
 ## Values
 

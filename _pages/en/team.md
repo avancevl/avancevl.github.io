@@ -9,7 +9,7 @@ description: Talent wins games, but teamwork and intelligence win championships.
 
 # About Us
 
-We are a team of entrepreneurs from MIT and Stanford. We studied engineering as undergraduates and worked in the world of banking, tech, and consulting in New York, Seattle, San Francisco, Chicago, and Shanghai before building startups in Silicon Valley. Our team is currently based in Hong Kong, Taipei, Seattle, Chicago, and Paris. We create, build, and implement experiments quickly for profitable ideas. We make useful software. We value creating impact over being productive.
+We are a team of entrepreneurs from MIT and Stanford. We studied engineering as undergraduates and worked in the world of banking, tech, and consulting in New York, Seattle, San Francisco, Chicago, and Shanghai before building startups in Silicon Valley. Our team is currently based in **Hong Kong, Taiwan, Seattle, Chicago, and Paris**. We create, build, and implement experiments quickly for profitable ideas. We make useful software. We value creating impact over being productive.
 
 ## Values
 
