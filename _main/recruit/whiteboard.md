@@ -7,8 +7,8 @@ locales:
         title: "傳統方案 - 實際白板考試"
         description: 選項B
     zh-cn:
-        title: "傳統方案 - 實際白板考試"
-        description: 選項B
+        title: "传统方案 - 实际白板考试"
+        description: 选项B
     en:
         title: Traditional Whiteboard Interview
         description: "Testing algorithms and efficiency."

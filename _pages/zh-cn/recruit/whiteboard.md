@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 傳統方案 - 實際白板考試
+title: 传统方案 - 实际白板考试
 lang: zh-cn
-description: 選項B
+description: 选项B
 ---
 
 

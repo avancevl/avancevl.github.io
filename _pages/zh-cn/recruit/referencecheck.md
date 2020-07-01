@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 資歷查核 - 取代技術測驗
+title: 资历查核 - 取代技术测验
 lang: zh-cn
-description: 選項C
+description: 选项C
 ---
 
 

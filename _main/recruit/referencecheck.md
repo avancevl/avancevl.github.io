@@ -7,8 +7,8 @@ locales:
         title: "資歷查核 - 取代技術測驗"
         description: 選項C
     zh-cn:
-        title: "資歷查核 - 取代技術測驗"
-        description: 選項C
+        title: "资历查核 - 取代技术测验"
+        description: 选项C
     en:
         title: Technical Reference Check
         description: "For very senior hires."
