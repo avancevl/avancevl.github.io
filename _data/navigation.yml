@@ -228,27 +228,27 @@ toc:
             subsubfolderitems:
                 - page:
                       zh-tw: "全端軟體工程師"
-                      zh-cn: "全端軟體工程師"
+                      zh-cn: "全端软体工程师"
                       en: "Full Stack Developer"
                   url: /recruit/jd_fullstackdev
                 - page:
                       zh-tw: "前端軟體工程師"
-                      zh-cn: "前端軟體工程師"
+                      zh-cn: "前端软体工程师"
                       en: "Front End Developer"
                   url: /recruit/jd_frontenddev
                 - page:
                       zh-tw: "後端軟體工程師"
-                      zh-cn: "後端軟體工程師"
+                      zh-cn: "后端软体工程师"
                       en: "Back End Developer"
                   url: /recruit/jd_backenddev
                 - page:
                       zh-tw: 全端軟體工程師(特案)
-                      zh-cn: 全端軟體工程師(特案)
+                      zh-cn: 全端软体工程师(特案)
                       en: Full Stack (Project-Based)
                   url: /recruit/jd_projectbased
                 - page:
                       zh-tw: 網頁設計師
-                      zh-cn: 網頁設計師
+                      zh-cn: 网页设计师
                       en: UI/UX Web/App Designer
                   url: /recruit/jd_designer
                 - page:
@@ -275,48 +275,48 @@ toc:
             subsubfolderitems:
                 - page:
                       zh-tw: "申請職缺問卷（5分鐘）"
-                      zh-cn: "申請職缺問卷（5分鐘）"
+                      zh-cn: "申请职缺问卷（5分钟）"
                       en: "Job Application Survey"
                   url: /recruit/survey
                 - page:
-                      zh-tw: "選項A選項A：加速申請 - 線上測驗（2.5小時）"
-                      zh-cn: "選項A：加速申請 - 線上測驗（2.5小時）"
+                      zh-tw: "選項A：加速申請 - 線上測驗（2.5小時）"
+                      zh-cn: "选项A：加速申请 - 线上测验（2.5小时）"
                       en: "A：Accelerated Take-Home Exam"
                   url: /recruit/takehome
                   subsubsubfolderitems:
                       - page:
                             zh-tw: "線上測驗指南"
-                            zh-cn: "線上測驗指南"
+                            zh-cn: "线上测验指南"
                             en: "Web Developer Exam"
                         url: /recruit/webdev
                       - page:
                             zh-tw: "測驗分數評估"
-                            zh-cn: "測驗分數評估"
+                            zh-cn: "测验分数评估"
                             en: "Exam Rubric"
                         url: /recruit/exam_rubric
                       - page:
                             zh-tw: "全端測驗樣本"
-                            zh-cn: "全端測驗樣本"
+                            zh-cn: "全端测验样本"
                             en: "Full Stack Sample Exam"
                         url: /recruit/sample_fullstackdev
                       - page:
                             zh-tw: "前端測驗樣本"
-                            zh-cn: "前端測驗樣本"
+                            zh-cn: "前端测验样本"
                             en: "Front-End Sample Exam"
                         url: /recruit/sample_frontenddev
                       - page:
                             zh-tw: "後端測驗樣本"
-                            zh-cn: "後端測驗樣本"
+                            zh-cn: "后端测验样本"
                             en: "Back-End Sample Exam"
                         url: /recruit/sample_backenddev
                 - page:
                       zh-tw: "選項B：傳統方案 - 實際白板考試（2天）"
-                      zh-cn: "選項B：傳統方案 - 實際白板考試（2天）"
+                      zh-cn: "选项B：传统方案 - 实际白板考试（2天）"
                       en: "B：Traditional Whiteboard Interview"
                   url: /recruit/whiteboard
                 - page:
                       zh-tw: "選項C：資歷查核 - 取代技術測驗（5分鐘）"
-                      zh-cn: "選項C：資歷查核 - 取代技術測驗（5分鐘）"
+                      zh-cn: "选项C：资历查核 - 取代技术测验（5分钟）"
                       en: "C：Technical Reference Check"
                   url: /recruit/referencecheck
           - page:
@@ -336,12 +336,12 @@ toc:
             url: /recruit/open_sourced
           - page:
                 zh-tw: ":hatched_chick: 實習生計劃 : 學生及職場新人"
-                zh-cn: ":hatched_chick: 實習生計劃 : 學生及職場新人"
+                zh-cn: ":hatched_chick: 实习生计划 : 学生及职场新人"
                 en: ":hatched_chick: Students & New Graduates"
             url: /recruit/students
           - page:
                 zh-tw: ":moneybag: 推薦獎金"
-                zh-cn: ":moneybag: 推薦獎金"
+                zh-cn: ":moneybag: 推荐奖金"
                 en: ":moneybag: Referral Program"
             url: /recruit/referral
     - title:
@@ -352,7 +352,7 @@ toc:
       subfolderitems:
           - page:
                 zh-tw: ":hammer: 工程師入職流程"
-                zh-cn: ":hammer: 工程師入職流程"
+                zh-cn: ":hammer: 工程师入职流程"
                 en: ":hammer: Engineer Onboarding"
             url: /engineering/onboarding
             subsubfolderitems:
