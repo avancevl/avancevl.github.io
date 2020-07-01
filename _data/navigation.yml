@@ -28,28 +28,28 @@ toc:
       subfolderitems:
           - page:
                 zh-tw: ":100: 團隊期望"
-                zh-cn: ":100: 團隊期望"
+                zh-cn: ":100: 团队期望"
                 en: ":100: Expectations"
             url: /principles/expectations
             subsubfolderitems:
                 - page:
                       zh-tw: "有效溝通"
-                      zh-cn: "有效溝通"
+                      zh-cn: "有效沟通"
                       en: "Effective Communication"
                   url: /principles/communication
                 - page:
                       zh-tw: "團隊互動"
-                      zh-cn: "團隊互動"
+                      zh-cn: "团队互动"
                       en: "Team Dynamics"
                   url: /principles/team_dynamics
                 - page:
                       zh-tw: "會議流程"
-                      zh-cn: "會議流程"
+                      zh-cn: "会议流程"
                       en: "Protocol for Meetings"
                   url: /principles/meetings
                 - page:
                       zh-tw: "書面交流"
-                      zh-cn: "書面交流"
+                      zh-cn: "书面交流"
                       en: "Written Communication"
                   url: /principles/written_communication
                 - page:
@@ -59,7 +59,7 @@ toc:
                   url: /principles/deliverables
                 - page:
                       zh-tw: "對外會議"
-                      zh-cn: "對外會議"
+                      zh-cn: "对外会议"
                       en: "External Meetings"
                   url: /principles/external_meetings
           - page:
@@ -75,12 +75,12 @@ toc:
                   url: /principles/agile
                 - page:
                       zh-tw: "遠端工作"
-                      zh-cn: "遠端工作"
+                      zh-cn: "远端工作"
                       en: "Remote"
                   url: /principles/remote
                 - page:
                       zh-tw: 職場新人
-                      zh-cn: 職場新人
+                      zh-cn: 职场新人
                       en: No Experience Required
                   url: /principles/inexperience
           - page:
@@ -211,18 +211,18 @@ toc:
             url: /people/general_performance_review
     - title:
           zh-tw: 徵才
-          zh-cn: 徵才
+          zh-cn: 征才
           en: Recruiting
       url: /recruit/recruit
       subfolderitems:
           - page:
                 zh-tw: ":bar_chart: 申請數據"
-                zh-cn: ":bar_chart: 申請數據"
+                zh-cn: ":bar_chart: 申请数据"
                 en: ":bar_chart: Application Data"
             url: /recruit/application_data
           - page:
                 zh-tw: ":handshake: 職缺"
-                zh-cn: ":handshake: 職缺"
+                zh-cn: ":handshake: 职缺"
                 en: ":handshake: Open Positions"
             url: /recruit/open_positions
             subsubfolderitems:
@@ -533,7 +533,7 @@ toc:
             url: /engineering/devops_sre
     - title:
           zh-tw: 產品研發流程
-          zh-cn: 產品研發流程
+          zh-cn: 产品研发流程
           en: Product
       url: /product/product
       subfolderitems:
@@ -560,7 +560,7 @@ toc:
                   url: /product/style_guide
           - page:
                 zh-tw: ":oncoming_automobile: 產品研發流程"
-                zh-cn: ":oncoming_automobile: 產品研發流程"
+                zh-cn: ":oncoming_automobile: 产品研发流程"
                 en: ":oncoming_automobile: Roadmap"
             url: /product/roadmap
             subsubfolderitems:
