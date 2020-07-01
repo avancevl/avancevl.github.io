@@ -7,8 +7,8 @@ locales:
         title: 前端測驗樣本
         description: 前端測驗樣本
     zh-cn:
-        title: 前端測驗樣本
-        description: 前端測驗樣本
+        title: 前端测验样本
+        description: 前端测验样本
     en:
         title: Front-End Sample Exam
         description: "Take-Home"

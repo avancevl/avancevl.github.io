@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 加速申請 - 線上測驗
+title: 加速申请 - 线上测验
 lang: zh-cn
-description: 選項A
+description: 选项A
 ---
 
 

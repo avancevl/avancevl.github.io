@@ -7,8 +7,8 @@ locales:
         title: 全端測驗樣本
         description: 全端測驗樣本
     zh-cn:
-        title: 全端測驗樣本
-        description: 全端測驗樣本
+        title: 全端测验样本
+        description: 全端测验样本
     en:
         title: Full Stack Sample Exam
         description: "Take-Home"

@@ -7,8 +7,8 @@ locales:
         title: "加速申請 - 線上測驗"
         description: 選項A
     zh-cn:
-        title: "加速申請 - 線上測驗"
-        description: 選項A
+        title: "加速申请 - 线上测验"
+        description: 选项A
     en:
         title: Accelerated Take-Home Exam
         description: "Evaluation based on real work."

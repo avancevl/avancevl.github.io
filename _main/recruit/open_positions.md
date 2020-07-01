@@ -7,8 +7,8 @@ locales:
         title: 職缺
         description: 職缺
     zh-cn:
-        title: 職缺
-        description: 職缺
+        title: 职缺
+        description: 职缺
     en:
         title: Open Positions
         description: "We are always hiring for talent."

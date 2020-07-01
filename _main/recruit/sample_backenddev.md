@@ -7,8 +7,8 @@ locales:
         title: 後端測驗樣本
         description: 後端測驗樣本
     zh-cn:
-        title: 後端測驗樣本
-        description: 後端測驗樣本
+        title: 后端测验样本
+        description: 后端测验样本
     en:
         title: Back-End Sample Exams
         description: "Take-home Exam"

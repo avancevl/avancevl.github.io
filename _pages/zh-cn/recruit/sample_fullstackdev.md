@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 全端測驗樣本
+title: 全端测验样本
 lang: zh-cn
-description: 全端測驗樣本
+description: 全端测验样本
 ---
 
 

@@ -7,8 +7,8 @@ locales:
         title: 工程師線上測驗指南 — 考前準備
         description: 工程師線上測驗指南 — 考前準備
     zh-cn:
-        title: 工程師線上測驗指南 — 考前準備
-        description: 工程師線上測驗指南 — 考前準備
+        title: 工程师线上测验指南 — 考前准备
+        description: 工程师线上测验指南 — 考前准备
     en:
         title: Web Developer Exam
         description: "Take-Home Exam"
