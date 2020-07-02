@@ -139,74 +139,74 @@ toc:
                   url: /people/team_events
           - page:
                 zh-tw: ":computer: 學習培訓"
-                zh-cn: ":computer: 學習培訓"
+                zh-cn: ":computer: 学习培训"
                 en: ":computer: Learning & Training"
             url: /people/learning_training
             subsubfolderitems:
                 - page:
                       zh-tw: 全端培訓計劃
-                      zh-cn: 全端培訓計劃
+                      zh-cn: 全端培训计划
                       en: Full Stack Training Program
                   url: /people/fullstack_training
                 - page:
                       zh-tw: 線上資源
-                      zh-cn: 線上資源
+                      zh-cn: 线上资源
                       en: Online Resources
                   url: /people/online_resources
                 - page:
                       zh-tw: 讀書會
-                      zh-cn: 讀書會
+                      zh-cn: 读书会
                       en: Book Club
                   url: /people/bookclub
           - page:
                 zh-tw: ":alarm_clock: 規範及合約"
-                zh-cn: ":alarm_clock: 規範及合約"
+                zh-cn: ":alarm_clock: 规范及合约"
                 en: ":alarm_clock: Policies & Legal"
             url: /people/policy_legal
             subsubfolderitems:
                 - page:
                       zh-tw: 保密協議
-                      zh-cn: 保密協議
+                      zh-cn: 保密协议
                       en: Non-Disclosure Agreement (NDA)
                   url: /people/nda
                 - page:
                       zh-tw: 聘用協議
-                      zh-cn: 聘用協議
+                      zh-cn: 聘用协议
                       en: Retainer Agreement (RA)
                   url: /people/ra
                 - page:
                       zh-tw: 員工協議
-                      zh-cn: 員工協議
+                      zh-cn: 员工协议
                       en: Employment Agreement (EA)
                   url: /people/ea
                 - page:
                       zh-tw: "工作時間"
-                      zh-cn: "工作時間"
+                      zh-cn: "工作时间"
                       en: "Working Hours"
                   url: /people/work_hours
                 - page:
                       zh-tw: "給假原則"
-                      zh-cn: "給假原則"
+                      zh-cn: "给假原则"
                       en: "Vacation Policy (PTO)"
                   url: /people/pto
                 - page:
                       zh-tw: 職場性騷擾政策
-                      zh-cn: 職場性騷擾政策
+                      zh-cn: 职场性骚扰政策
                       en: Workplace Policy
                   url: /people/workplace_policy
                 - page:
                       zh-tw: 補貼規範
-                      zh-cn: 補貼規範
+                      zh-cn: 补充规范
                       en: Reimbursement Policy
                   url: /people/reimbursement_policy
           - page:
                 zh-tw: ":memo: 入職流程"
-                zh-cn: ":memo: 入職流程"
+                zh-cn: ":memo: 入职流程"
                 en: ":memo: Onboarding"
             url: /people/onboarding
           - page:
                 zh-tw: ":fire: 績效評估"
-                zh-cn: ":fire: 績效評估"
+                zh-cn: ":fire: 绩效评估"
                 en: ":fire: General Performance Review"
             url: /people/general_performance_review
     - title:
@@ -321,17 +321,17 @@ toc:
                   url: /recruit/referencecheck
           - page:
                 zh-tw: ":bulb: 入職訓練"
-                zh-cn: ":bulb: 入職訓練"
+                zh-cn: ":bulb: 入职训练"
                 en: ":bulb: Onboarding Training"
             url: /recruit/onboarding
           - page:
                 zh-tw: ":handshake: 性別平等就業機會"
-                zh-cn: ":handshake: 性別平等就業機會"
+                zh-cn: ":handshake: 性别平等就业机会"
                 en: ":handshake: Equal Opportunity Employment"
             url: /recruit/women
           - page:
                 zh-tw: ":unlock: 源貢獻"
-                zh-cn: ":unlock: 源貢獻"
+                zh-cn: ":unlock: 源贡献"
                 en: ":unlock: Open Source Contribution"
             url: /recruit/open_sourced
           - page:
@@ -346,7 +346,7 @@ toc:
             url: /recruit/referral
     - title:
           zh-tw: 工程開發
-          zh-cn: 工程開發
+          zh-cn: 工程开发
           en: Engineering
       url: /engineering/engineering
       subfolderitems:
@@ -358,23 +358,23 @@ toc:
             subsubfolderitems:
                 - page:
                       zh-tw: "破壞性更改"
-                      zh-cn: "破壞性更改"
+                      zh-cn: "破坏性改变"
                       en: "Breaking Changes"
                   url: /engineering/breaking_changes
                 - page:
                       zh-tw: "Git管理規範"
-                      zh-cn: "Git管理規範"
+                      zh-cn: "Git管理规范"
                       en: "Git Rules"
                   url: /engineering/git_rules
           - page:
                 zh-tw: ":zap: 技術架構"
-                zh-cn: ":zap: 技術架構"
+                zh-cn: ":zap: 技术架构"
                 en: ":zap: Tech Stack"
             url: /engineering/tech_stack
             subsubfolderitems:
                 - page:
                       zh-tw: "生產架構"
-                      zh-cn: "生產架構"
+                      zh-cn: "生产架构"
                       en: "Production Infrastructure"
                   url: /engineering/prod_infra
                 - page:
@@ -384,22 +384,22 @@ toc:
                   url: /engineering/analytics
                 - page:
                       zh-tw: 桌面程式架構
-                      zh-cn: 桌面程式架構
+                      zh-cn: 桌面程序架构
                       en: Desktop App Stack
                   url: /engineering/desktop_stack
                 - page:
                       zh-tw: 即時網路架構
-                      zh-cn: 即時網路架構
+                      zh-cn: 即时网路架构
                       en: Realtime Web Stack
                   url: /engineering/realtime_stack
                 - page:
                       zh-tw: "開發環境"
                       zh-cn: "開發環境"
-                      en: "開發環境"
+                      en: "开发环境"
                   url: /engineering/devenv
           - page:
                 zh-tw: ":hamburger: 前端架構"
-                zh-cn: ":hamburger: 前端架構"
+                zh-cn: ":hamburger: 前端架构"
                 en: ":hamburger: Front-End Stack"
             url: /engineering/frontend_stack
             subsubfolderitems:
@@ -539,7 +539,7 @@ toc:
       subfolderitems:
           - page:
                 zh-tw: ":art: 設計流程"
-                zh-cn: ":art: 設計流程"
+                zh-cn: ":art: 设计流程"
                 en: ":art: Design"
             url: /product/design
             subsubfolderitems:
@@ -571,12 +571,12 @@ toc:
                   url: /product/edtech
     - title:
           zh-tw: 業務行銷流程
-          zh-cn: 業務行銷流程
+          zh-cn: 业务行销流程
           en: Growth
       url: /growth/growth
       subfolderitems:
           - page:
                 zh-tw: ":rocket: 搜尋引擎最佳化"
-                zh-cn: ":rocket: 搜尋引擎最佳化"
+                zh-cn: ":rocket: 搜寻引擎最佳化"
                 en: ":rocket: SEO"
             url: /growth/seo
