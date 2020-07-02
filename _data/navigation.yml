@@ -54,7 +54,7 @@ toc:
                   url: /principles/written_communication
                 - page:
                       zh-tw: "執行SOP"
-                      zh-cn: "執行SOP"
+                      zh-cn: "执行SOP"
                       en: "SOP Deliverables Etiquette"
                   url: /principles/deliverables
                 - page:
@@ -64,7 +64,7 @@ toc:
                   url: /principles/external_meetings
           - page:
                 zh-tw: ":chart_with_upwards_trend: 執行策略"
-                zh-cn: ":chart_with_upwards_trend: 執行策略"
+                zh-cn: ":chart_with_upwards_trend: 执行策略"
                 en: ":chart_with_upwards_trend: Execution Strategy"
             url: /principles/strategy
             subsubfolderitems:
@@ -91,7 +91,7 @@ toc:
             subsubfolderitems:
                 - page:
                       zh-tw: 責任分配
-                      zh-cn: 責任分配
+                      zh-cn: 责任分配
                       en: Areas of Responsibility
                   url: /principles/areas_responsibility
                 - page:
@@ -101,40 +101,40 @@ toc:
                   url: /principles/management_kpi_okr
     - title:
           zh-tw: 人資管理
-          zh-cn: 人資管理
+          zh-cn: 人资管理
           en: People
       url: /people/people
       subfolderitems:
           - page:
                 zh-tw: ":moneybag: 績效薪資制度"
-                zh-cn: ":moneybag: 績效薪資制度"
+                zh-cn: ":moneybag: 绩效薪资制度"
                 en: ":moneybag: Performance-Based Compensation"
             url: /people/compensation
             subsubfolderitems:
                 - page:
                       zh-tw: "全職工程師薪水"
-                      zh-cn: "全職工程師薪水"
+                      zh-cn: "全职工程师薪水"
                       en: "Full-Time Engineering Levels"
                   url: /people/engineering_level
                 - page:
                       zh-tw: "全職設計師薪水"
-                      zh-cn: "全職設計師薪水"
+                      zh-cn: "全职设计师薪水"
                       en: "Full-Time Designer Levels"
                   url: /people/designer_level
                 - page:
                       zh-tw: "特案兼職費用"
-                      zh-cn: "特案兼職費用"
+                      zh-cn: "特案兼职费用"
                       en: "Project-Based/Part-Time Engineering Levels"
                   url: /people/projectbased_level
           - page:
                 zh-tw: ":cookie: 員工福利"
-                zh-cn: ":cookie: 員工福利"
+                zh-cn: ":cookie: 员工福利"
                 en: ":cookie: Benefits"
             url: /people/benefits
             subsubfolderitems:
                 - page:
                       zh-tw: 團隊活動
-                      zh-cn: 團隊活動
+                      zh-cn: 团队活动
                       en: Team Events
                   url: /people/team_events
           - page:
