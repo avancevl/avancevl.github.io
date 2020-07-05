@@ -126,10 +126,8 @@ We want to work with talented individuals and are **always actively hiring**.
 
 ## Community
 
-Help us support the open source, startup, developer communites in Taiwan by following:
+Help us support the remote, startup developer communites by following:
 
--   [Startup Jobs Taiwan :rocket:](https://021tw.github.io/){:target="\_blank"}
--   [Full Stack Developers Taiwan :star:](https://stacktw.github.io/){:target="\_blank"}
 -   [Remote Developers Jobs :palm_tree:](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
     -   [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
     -   [Facebook](https://www.facebook.com/groups/489046765360247/){:target="\_blank"}
