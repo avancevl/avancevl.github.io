@@ -394,8 +394,8 @@ toc:
                   url: /engineering/realtime_stack
                 - page:
                       zh-tw: "開發環境"
-                      zh-cn: "開發環境"
-                      en: "开发环境"
+                      zh-cn: "开发环境"
+                      en: Development Environment
                   url: /engineering/devenv
           - page:
                 zh-tw: ":hamburger: 前端架構"
@@ -405,63 +405,63 @@ toc:
             subsubfolderitems:
                 - page:
                       zh-tw: "SSR前端架構"
-                      zh-cn: "SSR前端架構"
+                      zh-cn: "SSR前端架构"
                       en: "Server Side Rendering"
                   url: /engineering/ssr
                 - page:
                       zh-tw: AMP前端架構
-                      zh-cn: AMP前端架構
+                      zh-cn: AMP前端架构
                       en: Accelerated Mobile Pages
                   url: /engineering/amp
                 - page:
                       zh-tw: PWA前端架構
-                      zh-cn: PWA前端架構
+                      zh-cn: PWA前端架构
                       en: Progressive Web Application
                   url: /engineering/pwa
                 - page:
                       zh-tw: 手機應用程式架構
-                      zh-cn: 手機應用程式架構
+                      zh-cn: 手机应用程式架构
                       en: Mobile Application Framework
                   url: /engineering/mobile
                 - page:
                       zh-tw: UI設計原則
-                      zh-cn: UI設計原則
+                      zh-cn: UI设计原则
                       en: UI Design
                   url: /engineering/ui_design
                 - page:
                       zh-tw: HTML5架構
-                      zh-cn: HTML5架構
+                      zh-cn: HTML5架构
                       en: HMTL5 Framework
                   url: /engineering/html5
                 - page:
                       zh-tw: 國際化
-                      zh-cn: 國際化
+                      zh-cn: 国际化
                       en: Internationalization
                   url: /engineering/internationalization
                 - page:
                       zh-tw: 數學公式前端
-                      zh-cn: 數學公式前端
+                      zh-cn: 数学公式前端
                       en: Math Latex
                   url: /engineering/math
           - page:
                 zh-tw: ":cow: 後端架構"
-                zh-cn: ":cow: 後端架構"
+                zh-cn: ":cow: 后端架构"
                 en: ":cow: Back-End Stack"
             url: /engineering/backend_stack
             subsubfolderitems:
                 - page:
                       zh-tw: 使用者轉介架構
-                      zh-cn: 使用者轉介架構
+                      zh-cn: 使用者转介架构
                       en: User Referral
                   url: /engineering/referral
                 - page:
                       zh-tw: 資料庫架構
-                      zh-cn: 資料庫架構
+                      zh-cn: 资料库架构
                       en: Database-as-a-Service
                   url: /engineering/db
                 - page:
                       zh-tw: 過濾資料
-                      zh-cn: 過濾資料
+                      zh-cn: 过滤资料
                       en: Filtering and Querying
                   url: /engineering/filtering
           - page:
@@ -472,7 +472,7 @@ toc:
             subsubfolderitems:
                 - page:
                       zh-tw: "產品開發流程"
-                      zh-cn: "產品開發流程"
+                      zh-cn: "产品开发流程"
                       en: "Product Cycle"
                   url: /engineering/product_cycle
                 - page:
@@ -487,32 +487,32 @@ toc:
                   url: /engineering/daily_scrum
                 - page:
                       zh-tw: "問題追中"
-                      zh-cn: "問題追中"
+                      zh-cn: "问题追踪"
                       en: "Issue Tracking"
                   url: /engineering/issue_tracking
                 - page:
                       zh-tw: "紀錄工作時間"
-                      zh-cn: "紀錄工作時間"
+                      zh-cn: "纪录工作时间"
                       en: "Time Tracking"
                   url: /engineering/time_tracking
           - page:
                 zh-tw: ":thumbsup: 績效評估"
-                zh-cn: ":thumbsup: 績效評估"
+                zh-cn: ":thumbsup: 绩效评估"
                 en: ":thumbsup: Performance Review"
             url: /engineering/performance_review
           - page:
                 zh-tw: ":link: 程式代碼規範"
-                zh-cn: ":link: 程式代碼規範"
+                zh-cn: ":link: 程式代码规范"
                 en: ":link: Code Styles"
             url: /engineering/code_styles
           - page:
                 zh-tw: ":bangbang: 程式代碼審核"
-                zh-cn: ":bangbang: 程式代碼審核"
+                zh-cn: ":bangbang: 程式代码审核"
                 en: ":bangbang: Code Review"
             url: /engineering/code_review
           - page:
                 zh-tw: ":warning: 品質管制及測試"
-                zh-cn: ":warning: 品質管制及測試"
+                zh-cn: ":warning: 品质管制及测试"
                 en: ":warning: Quality Control & Testing"
             url: /engineering/qc_testing
             subsubfolderitems:
@@ -523,12 +523,12 @@ toc:
                   url: /engineering/js_testing
                 - page:
                       zh-tw: 前端測試
-                      zh-cn: 前端測試
+                      zh-cn: 前端测试
                       en: Front-End Testing
                   url: /engineering/frontend_testing
           - page:
                 zh-tw: ":muscle: 網頁可靠性"
-                zh-cn: ":muscle: 網頁可靠性"
+                zh-cn: ":muscle: 网页可靠性"
                 en: ":muscle: DevOps & Site Reliability"
             url: /engineering/devops_sre
     - title:
