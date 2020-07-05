@@ -545,17 +545,17 @@ toc:
             subsubfolderitems:
                 - page:
                       zh-tw: ":rainbow: 顏色"
-                      zh-cn: ":rainbow: 顏色"
+                      zh-cn: ":rainbow: 颜色"
                       en: ":rainbow: Colors"
                   url: /product/color
                 - page:
                       zh-tw: ":a: 字體"
-                      zh-cn: ":a: 字體"
+                      zh-cn: ":a: 字体"
                       en: ":a: Fonts"
                   url: /product/font
                 - page:
                       zh-tw: ":balloon: 設計表"
-                      zh-cn: ":balloon: 設計表"
+                      zh-cn: ":balloon: 设计表"
                       en: ":balloon: Style Guides"
                   url: /product/style_guide
           - page:
