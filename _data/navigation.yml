@@ -252,10 +252,20 @@ toc:
                       en: UI/UX Web/App Designer
                   url: /recruit/jd_designer
                 - page:
-                      zh-tw: "SEO Specialist (Digital Marketing)"
-                      zh-cn: "SEO Specialist (Digital Marketing)"
-                      en: "SEO Specialist (Digital Marketing)"
+                      zh-tw: "數位行銷專案人員"
+                      zh-cn: "数位行销专案人员"
+                      en: "Digital Marketing, SEO/SEM Specialist"
                   url: /recruit/jd_seo
+                - page:
+                      zh-tw: "MBA實習生"
+                      zh-cn: "MBA实习生"
+                      en: "MBA Intern"
+                  url: /recruit/jd_mba
+                - page:
+                      zh-tw: "MBA實習生"
+                      zh-cn: "MBA实习生"
+                      en: "Executive Assistant"
+                  url: /recruit/jd_exec_assistant
           - page:
                 zh-tw: ":art: 設計師面試過程"
                 zh-cn: ":art: 设计師面試過程"

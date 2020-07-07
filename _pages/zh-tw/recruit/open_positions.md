@@ -136,6 +136,15 @@ description: 職缺
 
 [申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
+<br>
+
+### [行政助理實習生]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_exec_assistant.html)
+
+`兼職`  `遠端`
+
+`特案`
+
+[申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 

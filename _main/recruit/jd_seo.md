@@ -4,13 +4,13 @@ title: Digital Marketing Specialist
 description: SEO & Social Media
 locales:
     zh-tw:
-        title: 數位行銷專員
+        title: 數位行銷專案人員
         description: 全職、特案
     zh-cn:
-        title: 數位行銷專員
-        description: 全職、特案
+        title: 数位行销专案人员
+        description: 全职、特案
     en:
-        title: Digital Marketing Specialist
+        title: Digital Marketing, SEO/SEM Specialist
         description: "Full, Part-Time"
 ---
 

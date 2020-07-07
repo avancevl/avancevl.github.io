@@ -138,3 +138,13 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 [Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
+
+### [Executive Assistant Intern]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_exec_assistant.html)
+
+`Part-Time`  `Remote`
+
+`Project-Based`
+
+[Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
+
+<br>

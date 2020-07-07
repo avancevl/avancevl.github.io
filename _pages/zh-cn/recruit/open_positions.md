@@ -139,3 +139,13 @@ description: 职缺
 
 <br>
 
+### [行政助理实习生]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_exec_assistant.html)
+
+`兼职` `兼职` `远端`
+
+`特案`
+
+[申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+

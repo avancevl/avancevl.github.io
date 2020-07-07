@@ -145,6 +145,15 @@ locales:
 
 [申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
+<br>
+
+### [行政助理實習生]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_exec_assistant.html)
+
+`兼職`  `遠端`
+
+`特案`
+
+[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -282,6 +291,16 @@ locales:
 
 <br>
 
+### [行政助理实习生]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_exec_assistant.html)
+
+`兼职` `兼职` `远端`
+
+`特案`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
 <a name="en"></a>
 
 ## We are always hiring.
@@ -407,6 +426,16 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 ## Project-Based & Part-time
 
 ### [Full Stack Student Intern Engineer]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_projectbased.html)
+
+`Part-Time`  `Remote`
+
+`Project-Based`
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [Executive Assistant Intern]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_exec_assistant.html)
 
 `Part-Time`  `Remote`
 

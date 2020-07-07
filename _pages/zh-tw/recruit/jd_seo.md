@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 數位行銷專員
+title: 數位行銷專案人員
 lang: zh-tw
 description: 全職、特案
 ---
