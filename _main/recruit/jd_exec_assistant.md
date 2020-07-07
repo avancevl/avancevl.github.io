@@ -4,7 +4,7 @@ title: Executive Assistant
 description: SEO & Social Media
 locales:
     zh-tw:
-        title: 行政助理實
+        title: 行政助理
         description: 全職、特案、習生
     zh-cn:
         title: 行政助理
