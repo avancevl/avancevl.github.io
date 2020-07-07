@@ -125,6 +125,16 @@ locales:
 
 <br>
 
+### [MBA實習生](https://www.avancevl.com/student){:target="_blank"}
+
+`暑期實習`  `兼職` `遠端`
+
+`實習生`
+
+[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
 ## 特案/兼職
 
 ### [全端實習生]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_projectbased.html)
@@ -190,6 +200,7 @@ locales:
 
 [申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
+
 <br>
 
 <!--
@@ -240,6 +251,16 @@ locales:
 ## 实习生
 
 ### [网页设计实习生](https://www.avancevl.com/student){:target="_blank"}
+
+`暑期实习` `兼职` `远端`
+
+`实习生`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [MBA实习生](https://www.avancevl.com/student){:target="_blank"}
 
 `暑期实习` `兼职` `远端`
 
@@ -363,6 +384,17 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 ## Internship
 
 ### [UI/UX Design Intern](https://www.avancevl.com/student){:target="_blank"}
+
+`Summer Internship` `Part-Time`  `Remote`
+
+`Intern`
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+
+<br>
+
+### [MBA Intern](https://www.avancevl.com/student){:target="_blank"}
 
 `Summer Internship` `Part-Time`  `Remote`
 

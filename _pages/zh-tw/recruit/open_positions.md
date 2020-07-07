@@ -116,6 +116,16 @@ description: 職缺
 
 <br>
 
+### [MBA實習生](https://www.avancevl.com/student){:target="_blank"}
+
+`暑期實習`  `兼職` `遠端`
+
+`實習生`
+
+[申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
 ## 特案/兼職
 
 ### [全端實習生]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_projectbased.html)

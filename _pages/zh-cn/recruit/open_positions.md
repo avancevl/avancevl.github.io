@@ -57,6 +57,7 @@ description: 职缺
 
 [申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
 
+
 <br>
 
 <!--
@@ -107,6 +108,16 @@ description: 职缺
 ## 实习生
 
 ### [网页设计实习生](https://www.avancevl.com/student){:target="_blank"}
+
+`暑期实习` `兼职` `远端`
+
+`实习生`
+
+[申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [MBA实习生](https://www.avancevl.com/student){:target="_blank"}
 
 `暑期实习` `兼职` `远端`
 

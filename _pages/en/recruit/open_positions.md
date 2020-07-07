@@ -114,6 +114,17 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
+
+<br>
+
+### [MBA Intern](https://www.avancevl.com/student){:target="_blank"}
+
+`Summer Internship` `Part-Time`  `Remote`
+
+`Intern`
+
+[Apply]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
+
 <br>
 
 ## Project-Based & Part-time
