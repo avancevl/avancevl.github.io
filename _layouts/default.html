@@ -1,112 +1,112 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+    <head>
 
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
+        {% if site.google_analytics %}
+            <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+            <script>
                 window.dataLayer = window.dataLayer || [];
                 function gtag(){dataLayer.push(arguments);}
                 gtag('js', new Date());
                 gtag('config', '{{ site.google_analytics }}');
             </script>
-    {% endif %}
-    <meta charset="UTF-8">
-    <title>{{ page.title }}{{" "}}|{{" "}}{{ site.data.language[page.lang].TITLE_AVL }}</title>
-    {% seo title=false %}
+        {% endif %}
+        <meta charset="UTF-8">
+        <title>{{ page.title }}{{" "}}|{{" "}}{{ site.data.language[page.lang].TITLE_AVL }}</title>
+        {% seo title=false %}
 
-    <meta content="width=device-width, initial-scale=1" name="viewport">
-    <meta content="#157878" name="theme-color">
-    <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <!-- <link href="https://static.wixstatic.com/media/877134_2808539891304c078530373769485c0d%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/877134_2808539891304c078530373769485c0d%7Emv2.png" rel="shortcut icon" type="image/png"> -->
-    <link href="{{'/assets/img/favicon.png' | append: site.baseurl }}" rel="shortcut icon" type="image/png">
-    <!-- Compiled and minified CSS -->
-    <script crossorigin="anonymous" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <!-- Compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <meta content="#157878" name="theme-color">
+        <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <!-- <link href="https://static.wixstatic.com/media/877134_2808539891304c078530373769485c0d%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/877134_2808539891304c078530373769485c0d%7Emv2.png" rel="shortcut icon" type="image/png"> -->
+        <link href="{{'/assets/img/favicon.png' | append: site.baseurl }}" rel="shortcut icon" type="image/png">
+        <!-- Compiled and minified CSS -->
+        <script crossorigin="anonymous" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+        <!-- Compiled and minified JavaScript -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+        <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-  </head>
+    </head>
 
-  <body>
+    <body>
 
-    <header class="page-header" role="banner">
-      <div class="nav-but">
-        <a class="sidenav-trigger top-nav" data-target="slide-out" href="#">
-          <i class="material-icons">menu</i>
-        </a>
-        <a class="dropdown-trigger btn droplang nav-droplang" data-target="dropdown2" href="#">
-          <i class="material-icons">language</i>
-        </a>
-        <!-- Dropdown Structure -->
-        <ul class="dropdown-content" id="dropdown2">
-          {% include droplang.html %}
-        </ul>
-      </div>
+        <header class="page-header" role="banner">
+            <div class="nav-but">
+                <a class="sidenav-trigger top-nav" data-target="slide-out" href="#">
+                    <i class="material-icons">menu</i>
+                </a>
+                <a class="dropdown-trigger btn droplang nav-droplang" data-target="dropdown2" href="#">
+                    <i class="material-icons">language</i>
+                </a>
+                <!-- Dropdown Structure -->
+                <ul class="dropdown-content" id="dropdown2">
+                    {% include droplang.html %}
+                </ul>
+            </div>
 
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.description }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+            <h1 class="project-name">{{ page.title | default: site.title | default: site.description }}</h1>
+            <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
-      <a href="{{ site.baseurl }}/{{page.lang}}/recruit/open_positions.html" class="btn" id="header-btn">{{ site.data.language[page.lang].VIEW_JOB_OPENINGS }}</a>
-    </header>
+            <a href="{{ site.baseurl }}/{{page.lang}}/recruit/open_positions.html" class="btn" id="header-btn">{{ site.data.language[page.lang].VIEW_JOB_OPENINGS }}</a>
+        </header>
 
-    <main class="main-content" id="content" role="main">
+        <main class="main-content" id="content" role="main">
 
-      <div class="container-content">
-        <article class="maincontent">{{ content }}</article>
-        <div class="side-navbar side-navbar-down">
-          <div class="nav-list">{% include sidenav.html %}</div>
-        </div>
-      </div>
+            <div class="container-content">
+                <article class="maincontent">{{ content }}</article>
+                <div class="side-navbar side-navbar-down">
+                    <div class="nav-list">{% include sidenav.html %}</div>
+                </div>
+            </div>
 
 
-      <footer class="site-footer">
-        <span class="site-footer-owner">
-          <b>{{ site.data.language[page.lang].TITLE_AVL }}</b>
-        </span>
-        <span class="site-footer-owner">{{ site.data.language[page.lang].ALL_REMOTE_STARTUP_IN }}<a style="text-decoration: none"></a>
-        </span>
-        <span class="site-footer-owner">{{ site.data.language[page.lang].FOLLOW_US }}
-          |
-          <a href="https://www.facebook.com/Avance-Venture-Lab-108024397337673" style="text-decoration: none" target="_blank">Facebook</a>
-          |
-          <a href="https://www.instagram.com/avanceventurelab" style="text-decoration: none" target="_blank">Instagram</a>
-          |
-          <a href="https://www.linkedin.com/company/14631105" style="text-decoration: none" target="_blank">LinkedIn</a>
-          |
-          <a href="https://github.com/avancevl" style="text-decoration: none" target="_blank">GitHub</a>
-        </span>
-        <span class="site-footer-owner">
-          <a href="mailto:hr@avancevl.com" style="text-decoration: none">{{ site.data.language[page.lang].CONTACT_US }}</a>
-        </span>
-        <br>
-        <span class="site-footer-owner">
-          <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>
-          is maintained by
-          <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        <span class="site-footer-credits">This page was generated by
-          <a href="https://pages.github.com">GitHub Pages</a>.</span>
-      </footer>
-    </main>
-    <!--mobile nav list-->
-    <nav class="sidenav sidenav-style side-navbar-down" id="slide-out">
-      <div class="sidenav-header">
-        <a class="dropdown-trigger btn droplang" data-target="dropdown1" href="#">
-          <i class="material-icons">language</i>
-        </a>
-        <!-- Dropdown Structure -->
-        <ul class="dropdown-content" id="dropdown1">
-          {% include droplang.html %}
-        </ul>
-      </div>
-      <div class="nav-list">
-        {% include sidenav.html %}
-      </div>
-    </nav>
+            <footer class="site-footer">
+                <span class="site-footer-owner">
+                    <b>{{ site.data.language[page.lang].TITLE_AVL }}</b>
+                </span>
+                <span class="site-footer-owner">{{ site.data.language[page.lang].ALL_REMOTE_STARTUP_IN }}<a style="text-decoration: none"></a>
+                </span>
+                <span class="site-footer-owner">{{ site.data.language[page.lang].FOLLOW_US }}
+                    |
+                    <a href="https://www.facebook.com/Avance-Venture-Lab-108024397337673" style="text-decoration: none" target="_blank">Facebook</a>
+                    |
+                    <a href="https://www.instagram.com/avanceventurelab" style="text-decoration: none" target="_blank">Instagram</a>
+                    |
+                    <a href="https://www.linkedin.com/company/14631105" style="text-decoration: none" target="_blank">LinkedIn</a>
+                    |
+                    <a href="https://github.com/avancevl" style="text-decoration: none" target="_blank">GitHub</a>
+                </span>
+                <span class="site-footer-owner">
+                    <a href="mailto:hr@avancevl.com" style="text-decoration: none">{{ site.data.language[page.lang].CONTACT_US }}</a>
+                </span>
+                <br>
+                <span class="site-footer-owner">
+                    <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>
+                    is maintained by
+                    <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+                <span class="site-footer-credits">This page was generated by
+                    <a href="https://pages.github.com">GitHub Pages</a>.</span>
+            </footer>
+        </main>
+        <!--mobile nav list-->
+        <nav class="sidenav sidenav-style side-navbar-down" id="slide-out">
+            <div class="sidenav-header">
+                <a class="dropdown-trigger btn droplang" data-target="dropdown1" href="#">
+                    <i class="material-icons">language</i>
+                </a>
+                <!-- Dropdown Structure -->
+                <ul class="dropdown-content" id="dropdown1">
+                    {% include droplang.html %}
+                </ul>
+            </div>
+            <div class="nav-list">
+                {% include sidenav.html %}
+            </div>
+        </nav>
 
-    {% include analytics.html %}
-    <script>
+        {% include analytics.html %}
+        <script>
             //select langauge
             document.addEventListener('DOMContentLoaded', function() {
                 var elems = document.querySelectorAll('.dropdown-trigger');
@@ -154,6 +154,7 @@
                 event.preventDefault();
                 $(this).siblings("ul").toggle( "slow");
             });
+            $('table').addClass('responsive-table');
         </script>
-  </body>
+    </body>
 </html>

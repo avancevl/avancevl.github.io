@@ -54,3 +54,47 @@ Help us support the open source, startup, developer communites in Taiwan by foll
 1. Edit markdown files in `_main` folder, **DO NOT** edit files in `_page` folder.
 1. Run `python3 i18n.py` to generate language specific markdown files in `_page` folder.
 1. Commit and push to deploy to [avancevl.github.io](https://avancevl.github.io)
+
+# How to add new language
+
+Configuration
+Locales are configured in `_config.yml` adding Malaysian (my):
+
+    locales:
+        en:
+            baseurl: "/en"
+            name: English
+            lang: en
+        zh-tw:
+            baseurl: "/zh-tw"
+            name: 繁體
+            lang: zh-tw
+        zh-cn:
+            baseurl: /zh-cn
+            name: 简体
+            lang: zh-cn
+        my:
+            baseurl: /my
+            name: Malaysian
+            lang: my
+
+Edit markdown files use language tag `<a name="my"></a>` after Malaysian(my) content in _main folder, and you can set the predefined variables at the beginning of the archive between triple-dashed lines(see below for a reference).
+
+    ---
+    layout: default
+    title: AVL Handbook
+    description: For All Remote Teams
+    locales:
+        zh-tw:
+            title: AVL手冊
+            description: 全遠端工作團隊
+        zh-cn:
+            title: AVL手册
+            description: 全远端工作团队
+        en:
+            title: AVL Handbook
+            description: For All Remote Teams
+        my:
+            title: Buku Panduan AVL
+            description: Untuk Semua Pasukan Jauh
+    ---

@@ -73,7 +73,79 @@ i.material-icons {
     float: left;
     font-size: 24px;
 }
+// 18. Tables
+// ==========================================================================
 
+$table-border-color: rgba(233, 234, 236, 1) !default;
+$table-striped-color: rgba(242, 242, 242, 0.5) !default;
+// Responsive Table
+@media #{$medium-and-down} {
+    table.responsive-table {
+        width: 100%;
+        border-collapse: collapse;
+        border-spacing: 0;
+        display: block;
+        position: relative;
+
+        td:empty:before {
+            content: "\00a0";
+        }
+
+        th,
+        td {
+            margin: 0;
+            vertical-align: top;
+        }
+
+        th {
+            text-align: left;
+        }
+        thead {
+            display: block;
+            float: left;
+
+            tr {
+                display: block;
+                padding: 0 10px 0 0;
+
+                th::before {
+                    content: "\00a0";
+                }
+            }
+        }
+        tbody {
+            display: block;
+            width: auto;
+            position: relative;
+            overflow-x: auto;
+            white-space: nowrap;
+
+            tr {
+                display: inline-block;
+                vertical-align: top;
+            }
+        }
+        th {
+            display: block;
+            text-align: right;
+        }
+        td {
+            display: block;
+            min-height: 1.25em;
+            text-align: left;
+        }
+        tr {
+            border-bottom: none;
+            padding: 0 10px;
+        }
+
+        /* sort out borders */
+        thead {
+            border: 0;
+            border-right: 1px solid $table-border-color;
+        }
+    }
+}
 // components
 // @import "components/global";
 // @import "components/badges";
@@ -94,7 +166,7 @@ i.material-icons {
 // @import "components/chips";
 // @import "components/materialbox";
 // @import "components/forms/forms";
-// @import "components/table_of_contents";
+@import "components/table_of_contents";
 @import "components/sidenav";
 // @import "components/preloader";
 // @import "components/slider";
