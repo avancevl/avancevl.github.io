@@ -49,6 +49,10 @@ locales:
         baseurl: /zh-cn
         name: 简体
         lang: zh-cn
+    my:
+        baseurl: /my
+        name: Orang Malaysia
+        lang: my
 collections:
     pages:
         output: true
