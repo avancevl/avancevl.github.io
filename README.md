@@ -116,7 +116,7 @@ Edit translation menu file `navigation.yml` in \_data folder, if there is no set
 
 ## Language
 
-Set layout language file `navigation.yml` in \_data folder, if there is no setting, use the default language.
+Set layout language file `language.yml` in \_data folder, if there is no setting, use the default language.
 
     my:
         VIEW_JOB_OPENINGS: View Jobs
