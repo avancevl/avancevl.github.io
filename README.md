@@ -14,9 +14,9 @@ We incubate, accelerate, and implement ideas that our team create internally.
 
 We're a 100% remote company. Work from anywhere in the world.
 
-## Radical Transparency 
+## Radical Transparency
 
-We believe in radical transparency, where the best ideas win. As such, how we run the company is [open sourced to the world](https://github.com/avancevl/avancevl.github.io). In this central repository, you will find all the information you need to understand what it is like to work here. All the information available to our employees is also available to you. We encourage you to learn more about us here at this depository. 
+We believe in radical transparency, where the best ideas win. As such, how we run the company is [open sourced to the world](https://github.com/avancevl/avancevl.github.io). In this central repository, you will find all the information you need to understand what it is like to work here. All the information available to our employees is also available to you. We encourage you to learn more about us here at this depository.
 
 ## Work with the best people
 
@@ -27,15 +27,16 @@ We want to work with talented individuals and are **always actively hiring**.
 ## Open Feedback
 
 We welcome feedback.
-* Please make a [pull request](https://github.com/avancevl/avancevl.github.io/pull/new/master) to suggest improvements or add clarification.
-* Please create a [issue](https://github.com/avancevl/avancevl.github.io/issues/new) to ask questions.
+
+-   Please make a [pull request](https://github.com/avancevl/avancevl.github.io/pull/new/master) to suggest improvements or add clarification.
+-   Please create a [issue](https://github.com/avancevl/avancevl.github.io/issues/new) to ask questions.
 
 ## Community
 
 Help us support the open source, startup, developer communites in Taiwan by following:
 
-* [Startup Jobs Taiwan :rocket:](https://021tw.github.io/)
-* [Full Stack Developers Taiwan :star:](https://stacktw.github.io/)
+-   [Startup Jobs Taiwan :rocket:](https://021tw.github.io/)
+-   [Full Stack Developers Taiwan :star:](https://stacktw.github.io/)
 
 <br>
 
@@ -57,7 +58,8 @@ Help us support the open source, startup, developer communites in Taiwan by foll
 
 # How to add new language
 
-Configuration
+## Configuration
+
 Locales are configured in `_config.yml` adding Malaysian (my):
 
     locales:
@@ -78,7 +80,9 @@ Locales are configured in `_config.yml` adding Malaysian (my):
             name: Malaysian
             lang: my
 
-Edit markdown files use language tag `<a name="my"></a>` after Malaysian(my) content in _main folder, and you can set the predefined variables at the beginning of the archive between triple-dashed lines(see below for a reference).
+## Content
+
+Edit markdown files use language tag `<a name="my"></a>` after Malaysian(my) content in \_main folder, and you can set the predefined variables at the beginning of the archive between triple-dashed lines(see below for a reference).
 
     ---
     layout: default
@@ -98,3 +102,26 @@ Edit markdown files use language tag `<a name="my"></a>` after Malaysian(my) con
             title: Buku Panduan AVL
             description: Untuk Semua Pasukan Jauh
     ---
+
+## Navigation
+
+Edit translation menu file `navigation.yml` in \_data folder, if there is no setting, use the default language.
+
+    - page:
+        zh-tw: ":couple: 團隊"
+        zh-cn: ":couple: 团队"
+        en: ":couple: Team"
+        my: ":couple: pasukan"
+    url: /team
+
+## Language
+
+Set layout language file `navigation.yml` in \_data folder, if there is no setting, use the default language.
+
+    my:
+        VIEW_JOB_OPENINGS: View Jobs
+        SELECT_LANGUAGE: Language
+        ALL_REMOTE_STARTUP_IN: All Remote Startup Incubator
+        FOLLOW_US: Follow Us
+        CONTACT_US: Contact Us
+        TITLE_AVL: AVL Handbook

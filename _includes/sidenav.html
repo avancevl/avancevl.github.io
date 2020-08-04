@@ -10,10 +10,15 @@
           {% assign item_url = item.url %}
           {% assign urls = item.url %}
         {% endif %}
-        {% if page.url == item_url %}
-          <a href="{{ site.baseurl }}{{ urls }}" class="active thisa">{{ item.title[page.lang] }}</a>
+        {% if item.title[page.lang] == blank %}
+          {% assign item_title = item.title[site.i18n.default_lang] %}
         {% else %}
-          <a href="{{ site.baseurl }}{{ urls }}" class="nav">{{ item.title[page.lang] }}</a>
+          {% assign item_title = item.title[page.lang] %}
+        {% endif %}
+        {% if page.url == item_url %}
+          <a href="{{ site.baseurl }}{{ urls }}" class="active thisa">{{ item_title }}</a>
+        {% else %}
+          <a href="{{ site.baseurl }}{{ urls }}" class="nav">{{ item_title }}</a>
         {% endif %}
         <i class="material-icons">keyboard_arrow_right</i>
       </b>
@@ -29,12 +34,17 @@
               {% assign item_url = entry.url %}
               {% assign urls = entry.url %}
             {% endif %}
+            {% if entry.page[page.lang] == blank %}
+              {% assign entry_title = entry.page[site.i18n.default_lang] %}
+            {% else %}
+              {% assign entry_title = entry.page[page.lang] %}
+            {% endif %}
             <li>
               <b>
                 {% if page.url == item_url %}
-                  <a href="{{ site.baseurl }}{{ urls }}" class="active thisa">{{ entry.page[page.lang] }}</a>
+                  <a href="{{ site.baseurl }}{{ urls }}" class="active thisa">{{ entry_title }}</a>
                 {% else %}
-                  <a href="{{ site.baseurl }}{{ urls }}" class="nav">{{ entry.page[page.lang] }}</a>
+                  <a href="{{ site.baseurl }}{{ urls }}" class="nav">{{ entry_title }}</a>
                 {% endif %}
                 {% if entry.subsubfolderitems[0] %}
                   <i class="material-icons">keyboard_arrow_right</i>
@@ -51,12 +61,17 @@
                       {% assign item_url = subentry.url %}
                       {% assign urls = subentry.url %}
                     {% endif %}
+                    {% if subentry.page[page.lang] == blank %}
+                      {% assign subentry_title = subentry.page[site.i18n.default_lang] %}
+                    {% else %}
+                      {% assign subentry_title = subentry.page[page.lang] %}
+                    {% endif %}
                     <li>
                       <b>
                         {% if page.url == item_url %}
-                          <a href="{{ site.baseurl }}{{ urls }}" class="active thisa">{{ subentry.page[page.lang] }}</a>
+                          <a href="{{ site.baseurl }}{{ urls }}" class="active thisa">{{ subentry_title }}</a>
                         {% else %}
-                          <a href="{{ site.baseurl }}{{ urls }}" class="nav">{{ subentry.page[page.lang] }}</a>
+                          <a href="{{ site.baseurl }}{{ urls }}" class="nav">{{ subentry_title }}</a>
                         {% endif %}
                         {% if subentry.subsubsubfolderitems[0] %}
                           <i class="material-icons">keyboard_arrow_right</i>
@@ -73,12 +88,17 @@
                               {% assign item_url = subsubentry.url %}
                               {% assign urls = subsubentry.url %}
                             {% endif %}
+                            {% if subsubentry.page[page.lang] == blank %}
+                              {% assign subsubentry_title = subsubentry.page[site.i18n.default_lang] %}
+                            {% else %}
+                              {% assign subsubentry_title = subsubentry.page[page.lang] %}
+                            {% endif %}
                             <li>
                               <b>
                                 {% if page.url == item_url %}
-                                  <a href="{{ site.baseurl }}{{ urls }}" class="active thisa">{{ subsubentry.page[page.lang] }}</a>
+                                  <a href="{{ site.baseurl }}{{ urls }}" class="active thisa">{{ subsubentry_title }}</a>
                                 {% else %}
-                                  <a href="{{ site.baseurl }}{{ urls }}" class="nav">{{ subsubentry.page[page.lang] }}</a>
+                                  <a href="{{ site.baseurl }}{{ urls }}" class="nav">{{ subsubentry_title }}</a>
                                 {% endif %}
                               </b>
                             </li>

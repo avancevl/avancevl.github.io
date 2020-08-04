@@ -11,7 +11,7 @@ locales = _config[0]['locales']
 setlang = []
 for item in locales:
     setlang.append(locales[item]['lang'])
-c_i18n = _config[0]['i18n.py']
+c_i18n = _config[0]['i18n']
 mainPath = c_i18n['mainPath']
 tag = c_i18n['tag']
 attrname = c_i18n['attrname']
