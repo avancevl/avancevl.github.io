@@ -66,7 +66,7 @@ This is your opportunity to contribute in a startup. You will be challenged. You
 
 [Join Us]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
-#### asdf
+#### How long are the internships?
 
 We offer flexible internship lengths at a 12 week minimum.
 
