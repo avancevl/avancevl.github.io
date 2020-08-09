@@ -53,6 +53,10 @@ locales:
         baseurl: /my
         name: Orang Malaysia
         lang: my
+    ind:
+        baseurl: /my
+        name: Bahasa Indonesia
+        lang: ind
 collections:
     pages:
         output: true
