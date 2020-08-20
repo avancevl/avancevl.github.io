@@ -26,13 +26,13 @@ description: Full, Part-Time
 
 ## Salary Levels
 
-1. Level D0 - Intern (2－3萬)
-1. Level D1 - Junior Designer (3－4萬)
-1. Level D2 - Designer (4－5萬)
-1. Level D3 - Senior Designer (5－6萬)
-1. Level D4 - Principal Designer (6－8萬)
-1. Level D5 - Lead Designer (8-12萬)
-1. Level D6 - Chief Designer / Vice President (12+萬)
+1. Level D0 - Intern
+1. Level D1 - Junior Designer
+1. Level D2 - Designer
+1. Level D3 - Senior Designer
+1. Level D4 - Principal Designer
+1. Level D5 - Lead Designer
+1. Level D6 - Chief Designer / Vice President
 
 ## Job Description
 
