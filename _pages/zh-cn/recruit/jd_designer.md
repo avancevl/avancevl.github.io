@@ -23,16 +23,6 @@ description: 全職、特案
 
 <br>
 
-## 薪资制度
-
-1. Level D0 - Intern
-1. Level D1 - Junior Designer
-1. Level D2 - Designer
-1. Level D3 - Senior Designer
-1. Level D4 - Principal Designer
-1. Level D5 - Lead Designer
-1. Level D6 - Chief Designer / Vice President
-
 ## 工作需求
 
 ### 工作背景
