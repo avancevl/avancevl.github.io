@@ -25,3 +25,5 @@ locales:
 <a name="en"></a>
 
 # Latest Announcements
+
+Hi!
