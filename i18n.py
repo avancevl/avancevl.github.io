@@ -4,8 +4,9 @@ import frontmatter
 import yaml
 from shutil import copyfile
 
+
 # 讀取./_config.yml參數設定
-config_f = open('./_config.yml', "r")
+config_f = open('./_config.yml', "r", encoding="utf-8")
 _config = list(yaml.load_all(config_f, Loader=yaml.FullLoader))
 locales = _config[0]['locales']
 setlang = []
@@ -77,7 +78,7 @@ def rfileDate(filepath, setlang, tag, attrname):
             'zh-tw': [string, string]
         }
     """
-    f = open(filepath, "r")
+    f = open(filepath, "r", encoding="utf-8")
     soup = BeautifulSoup(f, 'html.parser')
 
     metadata = frontmatter.load(filepath).metadata
@@ -169,8 +170,8 @@ def creatFiles(article_lang, path, filename, falias):
         print("creat file to ===>'" + filepath + "'")
 
         if not os.path.isdir(_path):
-            os.mkdir(_path)
-        with open(filepath, "w") as fp:
+            os.makedirs(_path)
+        with open(filepath, "w", encoding="utf-8") as fp:
             if key in article_lang.keys():  # [tw ,cn]
                 # print("setlang1:"+key)
                 fp.write(resetLangfMeta(
@@ -210,7 +211,7 @@ def creatFiles(article_lang, path, filename, falias):
 
 print("尋找目錄============================================>")
 if not os.path.isdir("./"+falias):  # not _page folder mkdir
-    os.mkdir("./"+falias)
+    os.makedirs("./"+falias)
 # walk的方式則會將指定路徑底下所有的目錄與檔案都列出來(包含子目錄以及子目錄底下的檔案)
 allList = os.walk(mainPath)
 # 列出所有子目錄與子目錄底下所有的檔案
@@ -233,22 +234,26 @@ for root, dirs, files in allList:
 # 首頁預設語系
 # 檢查的檔案
 print("move files to _defalut==================================================>")
+# rmtree('./_default')
 df_filepath = "./" + falias + "/" + default_lang
 allList_page = os.walk(df_filepath)
 # 列出所有子目錄與子目錄底下所有的檔案
 for root, dirs, files in allList_page:
     for i in files:
-        if os.path.splitext(root + '/' + i)[-1] == '.md':
-            this_file = root + "/" + i
+        if os.path.splitext(os.path.join(root, i))[-1] == '.md':
+            this_file = os.path.join(root, i)
             # print("root:"+root)
+            # print(root.replace(
+            #     df_filepath, "./_default/"))
             move_path = root.replace(
-                df_filepath, "./_default/") if root == df_filepath else root.replace(df_filepath+"/", "./_default/")
-            move_file = move_path + '/' + i if move_path != "./_default/" else "./_default/"+i
+                df_filepath, "./_default") if root == df_filepath else root.replace(df_filepath, "./_default")
+            move_file = os.path.join(
+                move_path, i) if move_path != "./_default/" else "./_default/"+i
             # print("this_file:"+this_file)
             # print("move_path:"+move_path)
             print(this_file+" ===move_file===> "+move_file)
             if not os.path.isdir(move_path):
-                os.mkdir(move_path)
+                os.makedirs(move_path)
             copyfile(this_file, move_file)
 
 print("成功完成!============================================================>")

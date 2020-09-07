@@ -42,16 +42,39 @@ Help us support the open source, startup, developer communites in Taiwan by foll
 
 # How To Build
 
+## Environment build on Mac
+
 1. Install Homebrew
-    1. `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+
+    ```
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+    ```
+
 1. Install the latest version of Python3.
-    1. `brew install python`
+    ```
+    brew install python
+    ```
 1. Install `pip`.
     1. `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
     1. `python3 get-pip.py`
 1. Install Python packages.
     1. `pip install beautifulsoup4`
     1. `pip install python-frontmatter`
+
+## Environment build on Windows
+
+1. Pythone website download and install the latest version of Python3. https://www.python.org/downloads/
+
+2. Installing `pip`
+    ```
+    python get-pip.py
+    ```
+3. Install Python packages.
+    1. `pip install beautifulsoup4`
+    2. `pip install python-frontmatter`
+
+## Edit markdown and build
+
 1. Edit markdown files in `_main` folder, **DO NOT** edit files in `_page` folder.
 1. Run `python3 i18n.py` to generate language specific markdown files in `_page` folder.
 1. Commit and push to deploy to [avancevl.github.io](https://avancevl.github.io)
