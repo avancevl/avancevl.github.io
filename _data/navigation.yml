@@ -20,6 +20,11 @@ toc:
                 zh-cn: ":new: 最新公告"
                 en: ":new: Announcements"
             url: /announcements
+          - page:
+                zh-tw: ":interrobang: 常見問題"
+                zh-cn: ":interrobang: 常见问题"
+                en: ":interrobang: Frequently Asked Question"
+            url: /FAQ
     - title:
           zh-tw: 公司理念
           zh-cn: 公司理念
