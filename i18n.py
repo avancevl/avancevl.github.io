@@ -166,7 +166,8 @@ def creatFiles(article_lang, path, filename, falias):
         要不然的話就直接開檔案
         """
         _path = "./" + falias + "/" + key + "/" + path
-        filepath = _path + "/" + filename
+        filepath = os.path.join(_path, filename)
+        # if filepath == './_pages/en/\engineering/amp.md':
         print("creat file to ===>'" + filepath + "'")
 
         if not os.path.isdir(_path):
@@ -225,9 +226,9 @@ for root, dirs, files in allList:
 
     for i in files:
         if os.path.splitext(root + '/' + i)[-1] == '.md':
-            filepath = root + '/' + i
+            filepath = os.path.join(root, i)
             filename = i
-            path = root.replace(mainPath + "/", "") if root != mainPath else ""
+            path = root.replace(mainPath, "") if root != mainPath else ""
             article_lang = rfileDate(filepath, setlang, tag, attrname)
 
             creatFiles(article_lang, path, filename, falias)
