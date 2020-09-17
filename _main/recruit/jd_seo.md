@@ -10,7 +10,7 @@ locales:
         title: 数位行销专案人员
         description: 全职、特案
     en:
-        title: Digital Marketing, SEO/SEM Specialist
+        title: SEO/SEM Specialist
         description: "Full, Part-Time"
 ---
 

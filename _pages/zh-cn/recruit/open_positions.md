@@ -93,6 +93,24 @@ description: 职缺
 
 -->
 
+## 市场
+
+### [SEO专员]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_seo.html)
+
+`全职` `兼职` `远端`
+
+`SEO专员`
+
+[申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
+
+### [数位行销专员]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhack.html)
+
+`全职` `兼职` `远端`
+
+`数位行销专员`
+
+[申请]({{ site.job_form_url_zh-cn }}){: .btn#page-btn}{:target="_blank"}
+
 ## 设计师
 
 ### [网页设计师]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_designer.html)

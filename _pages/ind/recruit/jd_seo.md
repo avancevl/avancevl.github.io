@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Digital Marketing, SEO/SEM Specialist
+title: SEO/SEM Specialist
 lang: ind
 description: Full, Part-Time
 ---

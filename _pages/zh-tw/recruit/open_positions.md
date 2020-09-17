@@ -92,6 +92,25 @@ description: 職缺
 
 -->
 
+## 市場
+
+### [SEO專員]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_seo.html)
+
+`全職` `兼職` `遠端`
+
+`SEO專員`
+
+[申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
+
+### [數位行銷專員]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhack.html)
+
+`全職` `兼職` `遠端`
+
+`數位行銷專員`
+
+[申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
+
+
 ## 設計師
 
 ### [網頁設計師]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_designer.html)

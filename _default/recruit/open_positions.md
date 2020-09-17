@@ -92,6 +92,24 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 -->
 
+## Marketing
+
+### [SEO Specialist]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_seo.html)
+
+`Full-time` `Part-time` `Remote`
+
+`SEO Specialist`
+
+[Application]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
+
+### [Growth Hack]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhack.html)
+
+`Full-time` `Part-time` `Remote`
+
+`Growth Hack`
+
+[Application]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
+
 ## Design
 
 ### [Graphic UX Designer]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_designer.html)

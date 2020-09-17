@@ -101,6 +101,25 @@ locales:
 
 -->
 
+## 市場
+
+### [SEO專員]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_seo.html)
+
+`全職` `兼職` `遠端`
+
+`SEO專員`
+
+[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+### [數位行銷專員]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhack.html)
+
+`全職` `兼職` `遠端`
+
+`數位行銷專員`
+
+[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+
 ## 設計師
 
 ### [網頁設計師]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_designer.html)
@@ -245,6 +264,24 @@ locales:
 
 -->
 
+## 市场
+
+### [SEO专员]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_seo.html)
+
+`全职` `兼职` `远端`
+
+`SEO专员`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+### [数位行销专员]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhack.html)
+
+`全职` `兼职` `远端`
+
+`数位行销专员`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
 ## 设计师
 
 ### [网页设计师]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_designer.html)
@@ -387,6 +424,24 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 <br>
 
 -->
+
+## Marketing
+
+### [SEO Specialist]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_seo.html)
+
+`Full-time` `Part-time` `Remote`
+
+`SEO Specialist`
+
+[Application]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+### [Growth Hack]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhack.html)
+
+`Full-time` `Part-time` `Remote`
+
+`Growth Hack`
+
+[Application]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ## Design
 
