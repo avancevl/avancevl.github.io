@@ -111,7 +111,7 @@ locales:
 
 [申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-### [數位行銷專員]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhack.html)
+### [數位行銷專員]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhacker.html)
 
 `全職` `兼職` `遠端`
 
@@ -274,7 +274,7 @@ locales:
 
 [申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-### [数位行销专员]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhack.html)
+### [数位行销专员]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhacker.html)
 
 `全职` `兼职` `远端`
 
@@ -435,7 +435,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Application]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-### [Growth Hack]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhack.html)
+### [Growth Hack]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhacker.html)
 
 `Full-time` `Part-time` `Remote`
 

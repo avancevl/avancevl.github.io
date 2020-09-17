@@ -102,7 +102,7 @@ description: 職缺
 
 [申請]({{ site.job_form_url_zh-tw }}){: .btn#page-btn}{:target="_blank"}
 
-### [數位行銷專員]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhack.html)
+### [數位行銷專員]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhacker.html)
 
 `全職` `兼職` `遠端`
 

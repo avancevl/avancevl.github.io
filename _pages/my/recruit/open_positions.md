@@ -102,7 +102,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Application]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
-### [Growth Hack]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhack.html)
+### [Growth Hack]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_growthhacker.html)
 
 `Full-time` `Part-time` `Remote`
 
