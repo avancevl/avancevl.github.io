@@ -86,6 +86,7 @@ Manage our online marketing channels! You'll work closely with other team member
 1. Build our branding and impressions on social media channels.
 2. Help manage and develop strategies on different social channels, such as Facebook, LinkedIn, Instagram, and YouTube.
 3. Create lots of creative marketing content!
+
 ### Requirements
 - Minimum of 1 years' of social media marketing experience
 - Skilled in marketing content creation

@@ -277,6 +277,16 @@ toc:
                       en: "Paid AD Specialist"
                   url: /recruit/jd_adspecialist
                 - page:
+                      zh-tw: "資深產品經理"
+                      zh-cn: "资深产品经理"
+                      en: "PM Lead,Senior"
+                  url: /recruit/jd_pm_senior
+                - page:
+                      zh-tw: "初階產品經理"
+                      zh-cn: "初阶产品经理"
+                      en: "PM junior"
+                  url: /recruit/jd_pm_junior
+                - page:
                       zh-tw: "MBA實習生"
                       zh-cn: "MBA实习生"
                       en: "MBA Intern"
