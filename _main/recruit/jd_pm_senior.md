@@ -1,7 +1,7 @@
 ---
 layout: default
-title: UI/UX 網頁設計師
-description: Web/App Designer
+title: 資深產品經理
+description: PM Lead,Senior
 locales:
     zh-tw:
         title: 資深產品經理

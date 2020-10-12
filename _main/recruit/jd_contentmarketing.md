@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Digital Marketing Specialist
-description: SEO & Social Media
+title: Digital Content Marketing Curator (Copywriter)
+description: Full, Part-Time
 locales:
     zh-tw:
         title: 數位行銷內容製作

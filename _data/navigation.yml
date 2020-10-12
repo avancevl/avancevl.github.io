@@ -284,8 +284,18 @@ toc:
                 - page:
                       zh-tw: "初階產品經理"
                       zh-cn: "初阶产品经理"
-                      en: "PM junior"
+                      en: "PM Junior"
                   url: /recruit/jd_pm_junior
+                - page:
+                      zh-tw: "AI,ML初階專員"
+                      zh-cn: "AI,ML初阶专员"
+                      en: "AI,ML Specialist Junior"
+                  url: /recruit/jd_aiml_junior
+                - page:
+                      zh-tw: "AI,ML高階專員"
+                      zh-cn: "AI,ML高阶专员"
+                      en: "AI,ML Specialist Senior,Lead"
+                  url: /recruit/jd_aiml_senior
                 - page:
                       zh-tw: "MBA實習生"
                       zh-cn: "MBA实习生"
