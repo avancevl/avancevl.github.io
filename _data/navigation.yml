@@ -370,6 +370,11 @@ toc:
                       en: "C：Technical Reference Check"
                   url: /recruit/referencecheck
           - page:
+                zh-tw: ":art: 研究員面試過程"
+                zh-cn: ":art: 研究员面試過程"
+                en: ":art: Researcher Interview Process"
+            url: /recruit/exam_researcher
+          - page:
                 zh-tw: ":bulb: 入職訓練"
                 zh-cn: ":bulb: 入职训练"
                 en: ":bulb: Onboarding Training"
