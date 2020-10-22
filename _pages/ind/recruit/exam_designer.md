@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Designer Evaluation
+title: Designer Exam
 lang: ind
 description: Looking beyond the portfolio.
 ---
 
 
 
-# Instructions
+## Instructions
 
-## 1. Design a social media (Facebook, Instagram) ad (high fidelity) for PerfectScore or AVL.
+1. Design a social media (Facebook, Instagram) ad (high fidelity) for PerfectScore or AVL.
 
-## 2. Chooose and design a RWD wireframe app from the list below.
+2. Chooose and design a RWD wireframe app from the list below.
 
 #### E-Commerce Site
 
@@ -25,7 +25,6 @@ description: Looking beyond the portfolio.
 
 * Mobile
 
-
-# Criteria - What We Look For
+## Criteria - What We Look For
 
 [Designs We Like](https://docs.google.com/spreadsheets/d/1JFrMD5X5O_09hYCWGpeODBHy0OnA1UkQUuejtB0m54w/edit?usp=sharing){: .btn#page-btn}{:target="_blank"}
