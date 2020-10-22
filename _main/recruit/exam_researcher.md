@@ -36,14 +36,6 @@ locales:
 * Point of Sales
 * Online Store Front
 
-## How to Submit
-
-1. Put your 15 x 20 comparison table inside a Google Sheet, with the sheet titled "Competitive Analysis".
-2. Put your pain points inside the same Google Sheet, in a separate sheet titlted "Pain Points".
-3. Put your name and industry you've chosen in the title of the Google Sheet, e.g. "[name] - [industry]"
-4. Share your Google Sheet with hr@avancevl.com.
-5. Send us an email at hr@avancevl.com notifying us of your completion.
-
 ## Evaluation Criteria
 
 * All detailed instructions followed
@@ -51,3 +43,11 @@ locales:
 * Ability to list all the major product features.
 * Ability to identify non-trivial, insightful trends/patterns.
 * Ability to identify the main pain points.
+
+## How to Submit
+
+1. Put your 15 x 20 comparison table inside a Google Sheet, with the sheet titled "Competitive Analysis".
+2. Put your pain points inside the same Google Sheet, in a separate sheet titlted "Pain Points".
+3. Put your name and industry you've chosen in the title of the Google Sheet, e.g. "[name] - [industry]"
+4. Share your Google Sheet with hr@avancevl.com.
+5. Send us an email at hr@avancevl.com notifying us of your completion.
