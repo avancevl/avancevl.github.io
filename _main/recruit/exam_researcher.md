@@ -51,8 +51,9 @@ locales:
 
 ## How to Submit
 
+1. No time limit.
 1. Put your 15 x 20 comparison table inside a Google Sheet, with the sheet titled "Competitive Analysis".
 1. Put your pain points inside the same Google Sheet, in a separate sheet titlted "Pain Points".
 1. Put your name and industry you've chosen in the title of the Google Sheet, e.g. "[name] - [industry]"
-1. Share your Google Sheet with hr@avancevl.com.
-1. Send us an email at hr@avancevl.com notifying us of your completion.
+1. Share your Google Sheet with [hr@avancevl.com](mailto:hr@avancevl.com).
+1. Send us an email at [hr@avancevl.com](mailto:hr@avancevl.com) notifying us of your completion.
