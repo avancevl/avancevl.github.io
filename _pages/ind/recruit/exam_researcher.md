@@ -44,3 +44,7 @@ description: Doing Due Diligence.
 1. Put your name and industry you've chosen in the title of the Google Sheet, e.g. "[name] - [industry]"
 1. Share your Google Sheet with [hr@avancevl.com](mailto:hr@avancevl.com).
 1. Send us an email at [hr@avancevl.com](mailto:hr@avancevl.com) notifying us of your completion.
+1. Complete exam submission form below.
+
+[Exam Submission Form](https://forms.gle/fFAgKv7WB2NDq5Ah6){: .btn#page-btn}{:target="_blank"}
+s

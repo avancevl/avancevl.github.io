@@ -28,4 +28,4 @@ description: Attention to Detail.
 1. Share your Google Sheet with [hr@avancevl.com](mailto:hr@avancevl.com)
 1. Complete exam submission form below.
 
-[Exam Submission Form](https://forms.gle/LW9UAo2YWpUrgFLq6){: .btn#page-btn}{:target="_blank"}
+[Exam Submission Form](https://forms.gle/fFAgKv7WB2NDq5Ah6){: .btn#page-btn}{:target="_blank"}
