@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Researcher Exam
+title: QA/QC Engineer Exam
 lang: en
 description: Attention to Detail.
 ---

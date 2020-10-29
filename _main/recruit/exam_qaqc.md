@@ -4,13 +4,13 @@ title: QA/QC Engineer Exam
 description: "Attention to Detail."
 locales:
     zh-tw:
-        title: 研究員測驗
+        title: 測試工程師測驗
         description: 我們如何測驗研究員
     zh-cn:
-        title: 研究员测验
+        title: 测试工程师测验
         description: 我们如何测验研究员
     en:
-        title: Researcher Exam
+        title: QA/QC Engineer Exam
         description: "Attention to Detail."
 ---
 
