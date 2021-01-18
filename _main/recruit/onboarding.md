@@ -12,6 +12,9 @@ locales:
     en:
         title: Onboarding Training
         description: "Follow the steps below."
+    id:
+        title: Pelatihan Orientasi
+        description: "Ikuti langkah-langkah di bawah ini."
 ---
 
 <a name="zh-tw"></a>
@@ -40,7 +43,7 @@ locales:
 
 [入职流程]({{ site.baseurl }}/{{ page.lang }}/people/onboarding.html){: .btn#page-btn}
 
-<a name="cn"></a>
+<a name="en"></a>
 
 When you onboard, you will be given materials to review and complete the following steps:
 
@@ -48,7 +51,20 @@ When you onboard, you will be given materials to review and complete the followi
 1. Meet your teammates.
 1. Learn our [Principles]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_culture }}) and all work expectations.
 1. Tools and environment setup.
-1. If an engineer, know [Enigneering]({{ site.baseurl }}/{{ page.lang }}{{ site.link_engineering }}) expectations.
+1. If an engineer, know [Engineering]({{ site.baseurl }}/{{ page.lang }}{{ site.link_engineering }}) expectations.
 1. If you're a front-end or a back-end engineering, you will go through a 3-6 month **[Full Stack Training Program]({{ site.link_fullstack_training }})**.
 
 [Onboarding Process]({{ site.baseurl }}/{{ page.lang }}/people/onboarding.html){: .btn#page-btn}
+
+<a name="id"></a>
+
+Saat Anda bergabung, Anda akan diberikan bahan untuk meninjau dan menyelesaikan langkah-langkah berikut:
+
+1. Lengkapi [Formulir Pemeriksaan Referensi](https://forms.gle/Heimpw1gFko2k37Z6){:target="_blank"}
+1. Temui rekan satu tim Anda.
+1. Pelajari [Prinsip]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_culture }}) dan semua ekspektasi pekerjaan.
+1. Alat dan pengaturan lingkungan.
+1. Jika seorang insinyur, ketahui ekspektasi [Engineering]({{ site.baseurl }}/{{ page.lang }}{{ site.link_engineering }}).
+1. Jika Anda ahli front-end atau back-end, Anda akan menjalani 3-6 bulan  **[Program Pelatihan Full Stack]({{ site.link_fullstack_training }})**.
+
+[Proses Orientasi]({{ site.baseurl }}/{{ page.lang }}/people/onboarding.html){: .btn#page-btn}

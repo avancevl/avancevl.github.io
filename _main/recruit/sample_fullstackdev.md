@@ -12,6 +12,9 @@ locales:
     en:
         title: Full Stack Sample Exam
         description: "Take-Home"
+    id:
+        title: Ujian Sampel Full Stack
+        description: "Bawa Pulang"
 ---
 
 <a name="zh-tw"></a>
@@ -20,7 +23,7 @@ locales:
 [檢閱考試指示]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
 [測驗分數評估]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
-## 考試指示 
+## 考試指示
 
 請從前、後端考試，個選至少一個項目實作，依照前後端考試的指示及分數評估計算。
 
@@ -60,3 +63,20 @@ Please implement at least one feature from front and back-end exams each. Follow
 
 * [Front-End Exam]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_frontenddev.html)
 * [Back-End Exam]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_backenddev.html)
+
+<br>
+
+<a name="id"></a>
+
+<br>
+
+[Daftar Sekarang]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Lihat Instruksi]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
+[Lihat Rubrik]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
+
+## Petunjuk Ujian
+
+Harap terapkan setidaknya satu fitur dari masing-masing ujian depan dan belakang. Ikuti petunjuk dan rubrik di masing-masing ujian depan dan belakang.
+
+* [Ujian Front-End]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_frontenddev.html)
+* [Ujian Back-End]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_backenddev.html)

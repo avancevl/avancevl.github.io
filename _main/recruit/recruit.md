@@ -12,6 +12,9 @@ locales:
     en:
         title: Recruiting
         description: "Looking to hire the best talent around the world."
+    id:
+        title: Merekrut
+        description: "Mencari untuk merekrut talenta terbaik di seluruh dunia."
 ---
 
 <a name="zh-tw"></a>
@@ -73,3 +76,21 @@ We are a small, early-stage **software start-up**, founded by Stanford and MIT a
 Our team of founders, investors, and advisors has experience in engineering, entrepreneurship, finance, and consulting in **Silicon Valley** and **New York**.
 
 [View Opportunities]({{ site.baseurl }}/{{ page.lang }}/recruit/open_positions.html){: .btn#page-btn}
+
+<br>
+
+<a name="id"></a>
+
+Kami menginkubasi, mempercepat, dan menerapkan ide-ide yang dibuat oleh tim kami secara internal.
+
+## Jika Anda ingin menciptakan teknologi yang memecahkan masalah.
+
+Avance Venture Lab sedang mencari beberapa **pemikir brilian** untuk bergabung dalam perburuan dampak melalui teknologi.
+
+## Jika Anda lapar akan jejak Anda di era digital.
+
+Kami adalah perangkat lunak kecil tahap awal **start-up**, didirikan oleh alumni Stanford dan MIT, yang berbasis di Taipei. Kami berfokus pada membangun aplikasi konsumen dan bisnis yang memecahkan masalah nyata di industri besar **secara global**.
+
+Tim pendiri, investor, dan penasihat kami memiliki pengalaman dalam bidang teknik, kewirausahaan, keuangan, dan konsultasi di **Silicon Valley** dan **New York**.
+
+[Lihat Peluang]({{ site.baseurl }}/{{ page.lang }}/recruit/open_positions.html){: .btn#page-btn}

@@ -31,9 +31,9 @@ description: 全远端工作团队
 
 帮我们支持台湾开源软体，新创，及工程师社团：
 
--   [台湾新创工作机会社团 :rocket:](https://021tw.github.io/021tw.github.io/){:target="\_blank"}
--   [台湾全端工程师社团 :star:](https://stacktw.github.io/stacktw.github.io/){:target="\_blank"}
--   [远端软体工程师征才 :palm_tree:](https://www.linkedin.com/groups/10532717/){:target="\_blank"}
+- [台湾新创工作机会社团 :rocket:](https://021tw.github.io/021tw.github.io/){:target="\_blank"}
+- [台湾全端工程师社团 :star:](https://stacktw.github.io/stacktw.github.io/){:target="\_blank"}
+- [远端软体工程师征才 :palm_tree:](https://www.linkedin.com/groups/10532717/){:target="\_blank"}
 
 <br>
 
@@ -41,8 +41,8 @@ description: 全远端工作团队
 
 我们欢迎各位的建议：
 
--   请由[git pull request]({{ site.github.repository_url }}/pull/new/master)建议文件更改。
--   请由[git issue]({{ site.github.repository_url }}/issues/new)提出您的疑问。
+- 请由[git pull request]({{ site.github.repository_url }}/pull/new/master)建议文件更改。
+- 请由[git issue]({{ site.github.repository_url }}/issues/new)提出您的疑问。
 
 <br>
 

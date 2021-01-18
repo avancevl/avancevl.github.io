@@ -12,6 +12,9 @@ locales:
     en:
         title: Expectations
         description: "What is expected from everyone."
+    id:
+        title: Ekspektasi
+        description: "Apa yang diharapkan dari semua orang."
 ---
 
 <a name="zh-tw"></a>
@@ -347,7 +350,7 @@ locales:
 Great expectations create great capabilities.
 
 ### 1. Be Honest
-* We are built on trust — always be honest with your team and with yourself 
+* We are built on trust — always be honest with your team and with yourself
 * We do not tolerate dishonesty 
 * Truth — an accurate understanding of reality — is the essential foundation for producing good outcomes
 
@@ -375,7 +378,7 @@ Great expectations create great capabilities.
 ### 7. Seek and give feedback
 * Proactively seek and give feedback
 * Do not water down constructive  criticism; feedback is a dialogue
-* Be clear and exact when giving and receiving feedback; 
+* Be clear and exact when giving and receiving feedback;
 
 ### 8. Always be prepared
 * Be actively engaged and ready
@@ -391,7 +394,7 @@ Great expectations create great capabilities.
 * Examine your strongest convictions with humility
 * But know when to say “No.”
 
-### 11. Think 3 steps ahead 
+### 11. Think 3 steps ahead
 * Analyze critically, meticulously, methodically, and creatively
 
 ### 12. Simplify & prioritize
@@ -442,11 +445,11 @@ Great expectations create great capabilities.
 * Evaluate if an issue calls for debate, discussion, or teaching
 
 ### 21. Take calculated risks — do not let fear stop you
-* Seizing an opportunity requires risk 
+* Seizing an opportunity requires risk
 * A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty
 * Opportunity is missed by most people because it looks like work
 
-### 22. Start. Don’t stop. 
+### 22. Start. Don’t stop.
 * When it comes to being successful, grit and passion matter more than sheer ability
 * Reality + Dreams + Determination = A Successful Life
 * Discipline is the bridge between goals and accomplishment
@@ -484,7 +487,7 @@ Great expectations create great capabilities.
 ### 29. Adhere to the company mission and preserve our company culture
 * The company vision guides a start-up, and the culture and the mission drive start-ups  
 * The hallmark of the best start-ups is mission-driven employees  
-* Culture is a shared way of doing something with passion — it creates the foundation  for all future innovation. If you break the culture, you break the machine that creates your products. The stronger the culture, the less corporate process a company needs. When the culture is strong, you can trust everyone to do the right thing. People can be independent and autonomous. 
+* Culture is a shared way of doing something with passion — it creates the foundation  for all future innovation. If you break the culture, you break the machine that creates your products. The stronger the culture, the less corporate process a company needs. When the culture is strong, you can trust everyone to do the right thing. People can be independent and autonomous.
 
 ### 30. We are lean, frugal, and cost-conscious
 * We do not to spend money on things that don’t matter to customers.

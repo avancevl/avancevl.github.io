@@ -11,7 +11,10 @@ locales:
         description: 行销流程
     en:
         title: Growth
-        description: "How we grow users and revenue."
+				description: "How we grow users and revenue."
+		id:
+				title: Pertumbuhan
+				description: "Cara kami meningkatkan pengguna dan pendapatan."
 ---
 
 <a name="zh-tw"></a>
@@ -65,3 +68,31 @@ locales:
 <br>
 
 [Our Agile Process]({{ site.baseurl }}/{{ page.lang }}/principles/agile.html){: .btn#page-btn}
+
+<a name="id"></a>
+
+## Tumbuhkan Strategi
+
+* Pemasaran
+	* Saluran Masuk
+		* Youtube
+		* Sosial Media
+	* Saluran Keluar
+		* Sosial Media
+			* Facebook
+			* Instagram
+		* Google
+* Sales
+
+### KPI Pertumbuhan
+
+* Akuisisi Pengguna
+* Retensi Pengguna
+
+### Sumber Daya Online
+
+* [Strategi Aplikasi Manajemen Keuangan Pribadi](https://www.cbinsights.com/research/personal-finance-apps-strategies/){:target="_blank"}
+
+<br>
+
+[Proses Agile Kami]({{ site.baseurl }}/{{ page.lang }}/principles/agile.html){: .btn#page-btn}

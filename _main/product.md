@@ -3,20 +3,23 @@ layout: default
 title: 產品
 description: Product
 locales:
-    zh-tw:
-        title: 產品
-        description: 創造使用者要的東西
-    zh-cn:
-        title: 产品
-        description: 创造使用者要的东西
-    en:
-        title: Product
-        description: "Make something people want"
+  zh-tw:
+    title: 產品
+    description: 創造使用者要的東西
+  zh-cn:
+    title: 产品
+    description: 创造使用者要的东西
+  en:
+    title: Product
+    description: 'Make something people want'
+  id:
+    title: Produk
+    description: 'Buat sesuatu yang diinginkan orang'
 ---
 
 <a name="en"></a>
 
-Our mission is to **build something people want**. We cosntantly test out new product ideas with customers. Our product is only as good as our team. Therefore, we've dedicated to training our people to become the best versions of themselves. We believe in standard processes, openess, transparency, equal opportunity, learning new technologies, and keeping an optimistic outlook. We believe only in great working environments can great products be created. We look forward to the challenges that the market place brings each day. We measure our progress with [unit economics](https://gust.com/launch/blog/unit-economics){:target="\_blank"} to see if we're delivering products that the market cares about.
+Our mission is to **build something people want**. We constantly test out new product ideas with customers. Our product is only as good as our team. Therefore, we've dedicated to training our people to become the best versions of themselves. We believe in standard processes, openess, transparency, equal opportunity, learning new technologies, and keeping an optimistic outlook. We believe only in great working environments can great products be created. We look forward to the challenges that the market place brings each day. We measure our progress with [unit economics](https://gust.com/launch/blog/unit-economics){:target="\_blank"} to see if we're delivering products that the market cares about.
 
 <br>
 
@@ -61,5 +64,14 @@ Our mission is to **build something people want**. We cosntantly test out new pr
 <br>
 
 [一起创造奇迹]({{ site.baseurl }}/{{ page.lang }}/recruit/recruit.html){: .btn#page-btn}
+
+<br>
+<a name="id"></a>
+
+Misi kami adalah untuk **membangun sesuatu yang diinginkan orang**. Kami terus menguji ide produk baru dengan pelanggan. Produk kami hanya sebagus tim kami. Oleh karena itu, kami berdedikasi untuk melatih karyawan kami agar menjadi versi terbaik dari diri mereka sendiri. Kami percaya pada proses standar, keterbukaan, transparansi, kesempatan yang sama, mempelajari teknologi baru, dan menjaga pandangan optimis. Kami percaya hanya dalam lingkungan kerja yang bagus produk yang hebat dapat dibuat. Kami menantikan tantangan yang dibawa pasar setiap hari. Kami mengukur kemajuan kami dengan [unit ekonomi](https://gust.com/launch/blog/unit-economics){:target="\_blank"} untuk melihat apakah kami mengirimkan produk yang diminati pasar.
+
+<br>
+
+[Bergabunglah dengan Perjalanan Startup Kami]({{ site.baseurl }}/{{ page.lang }}/recruit/recruit.html){: .btn#page-btn}
 
 <br>

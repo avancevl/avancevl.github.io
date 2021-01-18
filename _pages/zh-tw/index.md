@@ -31,11 +31,11 @@ description: 全遠端工作團隊
 
 幫我們支持台灣開源軟體，新創，及工程師社團：
 
--   [台灣新創工作機會社團 :rocket:](https://021tw.github.io/021tw.github.io/){:target="\_blank"}
--   [台灣全端工程師社團 :star:](https://stacktw.github.io/stacktw.github.io/){:target="\_blank"}
--   [台灣遠端軟體工程師徵才 :palm_tree:](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
-    -   [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
-    -   [Facebook](https://www.facebook.com/groups/489046765360247/){:target="\_blank"}
+- [台灣新創工作機會社團 :rocket:](https://021tw.github.io/021tw.github.io/){:target="\_blank"}
+- [台灣全端工程師社團 :star:](https://stacktw.github.io/stacktw.github.io/){:target="\_blank"}
+- [台灣遠端軟體工程師徵才 :palm_tree:](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
+  - [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
+  - [Facebook](https://www.facebook.com/groups/489046765360247/){:target="\_blank"}
 
 <br>
 
@@ -43,8 +43,8 @@ description: 全遠端工作團隊
 
 我們歡迎各位的建議：
 
--   請由 [git pull request]({{ site.github.repository_url }}/pull/new/master)建議文件更改。
--   請由 [git issue]({{ site.github.repository_url }}/issues/new)投入您的疑問。
+- 請由 [git pull request]({{ site.github.repository_url }}/pull/new/master)建議文件更改。
+- 請由 [git issue]({{ site.github.repository_url }}/issues/new)投入您的疑問。
 
 <br>
 

@@ -12,6 +12,9 @@ locales:
     en:
         title: Open Source Contributions
         description: "See what Jekyl can do."
+    id:
+        title:  Kontribusi Sumber Terbuka
+        description: "Lihat apa yang bisa dilakukan Jekyl."
 ---
 
 <a name="zh-tw"></a>
@@ -51,7 +54,7 @@ locales:
 
 ### 功能4. 列出子頁面
 
-Somtimes，對於給定的頁面，您只希望能夠在markdown文件中列出子頁面，而無需明確拼寫URL。
+Sometimes，對於給定的頁面，您只希望能夠在markdown文件中列出子頁面，而無需明確拼寫URL。
 
 * 這可以用HTML-Liquid實現。
 * 如果我們將新的子頁面添加到導航樹中，則不必在markdown中更新HTML-Liquid。
@@ -142,7 +145,7 @@ Somtimes，對於給定的頁面，您只希望能夠在markdown文件中列出�
 
 ### 功能4. 列出子页面
 
-Somtimes，对于给定的页面，您只希望能够在markdown文件中列出子页面，而无需明确拼写URL。
+Sometimes，对于给定的页面，您只希望能够在markdown文件中列出子页面，而无需明确拼写URL。
 
 * 这可以用HTML-Liquid实现。
 * 如果我们将新的子页面添加到导航树中，则不必在markdown中更新HTML-Liquid。
@@ -212,7 +215,7 @@ Contribute to our efforts to open source the way our company is run by implement
 
 ### Feature 1. Fix Chinese Translation and Typos
 
-Chinese is our second language, so naturally there are going to be a lot of typos, mis-translations. We are committed to a binlingual environment, so we are grateful for any contributions on this front.
+Chinese is our second language, so naturally there are going to be a lot of typos, mis-translations. We are committed to a bilingual environment, so we are grateful for any contributions on this front.
 
 ### Feature 2. Where Am I?
 
@@ -224,14 +227,14 @@ The navigation bar should make it easy to navigate one level up and down the tre
 
 ### Feature 3. Easy Management and Toggling between Multiple Pages
 
-In order to stay true to our commitment as a English-Chinese binlingual company, we need to have both English and Chinese versions of our GitHub pages. Currently, we are splitting the English and Chinese texts into separate sections on the same marketdown page. Ideally, we can modify Jekyll to support:
+In order to stay true to our commitment as a English-Chinese bilingual company, we need to have both English and Chinese versions of our GitHub pages. Currently, we are splitting the English and Chinese texts into separate sections on the same marketdown page. Ideally, we can modify Jekyll to support:
 
 1. Easy toggling between Chinese and English versions of the same page.
 1. Easy management of markdown, HTML files in a clear directory structure so that we do not have to effectively maintain two versions of the same site.
 
 ### Feature 4. List Child Pages
 
-Somtimes, for a given page, you just want to be able to list the child pages in the markdown file without expliciting spelling out the URL.
+Sometimes, for a given page, you just want to be able to list the child pages in the markdown file without expliciting spelling out the URL.
 
 * This can be implemented in HTML-Liquid.
 * If we add a new child page to the navigation tree, we should not have to update teh HTML-Liquid in the markdown.
@@ -283,3 +286,89 @@ Shout out and thanks to our GitHub contributors:
 * [da21510](https://github.com/da21510){:target="_blank"}
 
 <br>
+<a name="id"></a>
+
+## Panggilan untuk Fitur
+
+Berkontribusi pada upaya kami untuk membuka sumber cara perusahaan kami dijalankan dengan menerapkan fitur-fitur keren Jekyll di bawah ini.
+
+* Diketahui oleh HR kami dan percepat proses wawancara Anda.
+* Berkontribusi pada Open Source [Jekyll komunitas](https://jekyllrb.com/){:target="_blank"}.
+* Bangun portofolio dan kehadiran GitHub Anda
+* Dapatkan pengakuan dengan berteriak.
+
+<br>
+
+[Fork GitHub](https://github.com/avancevl/avl.github.io){: .btn#page-btn}{:target="_blank"}.
+
+### Fitur 1. Perbaiki Terjemahan dan Salah Ketik Mandarin
+
+Bahasa Cina adalah bahasa kedua kami, jadi tentu saja akan ada banyak kesalahan ketik, salah terjemahan. Kami berkomitmen untuk lingkungan dwibahasa, jadi kami berterima kasih atas kontribusi apa pun di bidang ini.
+
+### Fitur 2. Dimana Saya?
+
+Kami ingin memiliki bilah navigasi kecil di bagian atas setiap halaman untuk menunjukkan di mana pengguna saat ini berada di pohon navigasi, mirip dengan gambar di bawah.
+
+> Kamu di sini: **徵才 Recruiting** > **職缺 Open Positions** > *全端軟體工程師 Full Stack Developer*
+
+Bilah navigasi harus memudahkan navigasi satu tingkat ke atas dan ke bawah pohon.
+
+### Manajemen Mudah dan Beralih antara Beberapa Halaman
+
+Untuk tetap setia pada komitmen kami sebagai perusahaan dwibahasa Inggris-Mandarin, kami perlu memiliki halaman GitHub versi bahasa Inggris dan Mandarin. Saat ini, kami membagi teks bahasa Inggris dan Mandarin menjadi beberapa bagian terpisah di halaman marketdown yang sama. Idealnya, kita dapat memodifikasi Jekyll untuk mendukung:
+
+1. Mudah beralih antara versi bahasa Mandarin dan Inggris dari halaman yang sama.
+1. Manajemen markdown yang mudah, file HTML dalam struktur direktori yang jelas sehingga kami tidak harus secara efektif mempertahankan dua versi dari situs yang sama.
+
+### Fitur 4. Daftar Halaman Anak
+
+Sometimes, for a given page, you just want to be able to list the child pages in the markdown file without expliciting spelling out the URL.
+
+* This can be implemented in HTML-Liquid.
+* If we add a new child page to the navigation tree, we should not have to update teh HTML-Liquid in the markdown.
+
+> 職缺 Open Positions
+> * 全端軟體工程師 Full Stack Developer
+> * 前端軟體工程師 Front End Developer
+> * 後端軟體工程師 Back End Developer
+
+### Fitur 5. Sembunyikan Halaman Anak dalam Navigasi
+
+Pohon navigasi peta situs kami semakin panjang dan panjang. Kami ingin semua sub-pohon diciutkan / disembunyikan, kecuali untuk halaman saat ini. Untuk halaman saat ini, menampilkan halaman anak tidak apa-apa.
+
+> * 介紹 Pengantar
+> * 公司理念 Prinsip
+> * 人資管理 Orang
+> * 徵才 Perekrutan
+> 	* 職缺 Posisi Terbuka
+> 	* 面試過程 Proses Wawancara
+> 	* 在家線上考試 Ujian Bawa Pulang
+> 	* **開源貢獻 Kontribusi Sumber Terbuka**
+> * 工程流程 Teknik
+
+### Fitur 6. Bilah Pencarian
+
+Karena dokumen bersumber terbuka kami semakin banyak, kami memerlukan bilah pencarian untuk membantu karyawan dan calon potensial menavigasi dokumen-dokumen ini.
+
+* Harus mendukung istilah pencarian bahasa Cina dan Inggris.
+* Hanya klien, tanpa server.
+
+### Pohon Navigasi Sisi Kiri / Lengket
+
+Saat ini, pohon navigasi ada di bagian bawah halaman kita. Beberapa di antaranya panjang dan membutuhkan banyak pengguliran untuk mencapai pohon. Akan sangat membantu jika memiliki pohon navigasi di sisi kiri halaman. Ini juga tidak boleh bergulir dengan halaman: itu harus tetap (lengket) ke sisi kiri.
+
+<br>
+
+## Bagaimana Berkontribusi
+
+1. Fork repo kami [here](https://github.com/avancevl/avancevl.github.io){:target="_blank"}.
+1. Kirimkan permintaan penarikan.
+1. Setujui dan digabungkan dalam 1 minggu.
+
+<br>
+
+## Terima kasih khusus
+
+Berteriak dan terima kasih kepada kontributor GitHub kami:
+* [0t2 (Jesse)](https://github.com/0t2){:target="_blank"}
+* [da21510](https://github.com/da21510){:target="_blank"}

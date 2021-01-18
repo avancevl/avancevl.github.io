@@ -12,6 +12,9 @@ locales:
     en:
         title: Students & New Graduates
         description: "No experience required."
+    id:
+        title: Mahasiswa & Lulusan Baru
+        description:  "Tidak perlu punya pengalaman."
 ---
 
 <a name="zh-tw"></a>
@@ -26,21 +29,21 @@ locales:
 ## 大學生和畢業生
 
 許多公司通常會將實習生視為非關鍵的免費勞力。我們不認同。
- 
+
 我們相信有許多聰明、有企圖心的學生被忽視。 在AVL，我們不注重大學名氣，或缺乏工作經驗，或沒有職場上的關係。
 
-我們重視肯努力學習，工作上表現積極有能力的學生，能帶給團隊出貢獻，無論背景或經驗。 我們希望為有才華、有動力的學生提供培訓機會  
- 
+我們重視肯努力學習，工作上表現積極有能力的學生，能帶給團隊出貢獻，無論背景或經驗。 我們希望為有才華、有動力的學生提供培訓機會
+
 如果您思慮敏捷、積極主動、勤奮，我們希望有機會與您合作。
 
 <br>
 
 ## 解決真正問題。幫助真正的人。
 
-> 實習生會有機會擁有自己的個案，直接影響公司產品。 
+> 實習生會有機會擁有自己的個案，直接影響公司產品。
 
-每位實習生都會受到指導並需要應對重要的技術挑戰。我們的實習 program 不會模擬工作環境。您會在實際的工作環境，是我們團隊的一份子。這表示我們期望您的表現像是全職員工一樣。Project Demo Day、論壇會、團隊活動和公司旅遊提供實習生更多的實際工作經驗和機會。 
- 
+每位實習生都會受到指導並需要應對重要的技術挑戰。我們的實習 program 不會模擬工作環境。您會在實際的工作環境，是我們團隊的一份子。這表示我們期望您的表現像是全職員工一樣。Project Demo Day、論壇會、團隊活動和公司旅遊提供實習生更多的實際工作經驗和機會。
+
 在AVL，您將：
 
 ### 體驗職場上的工作
@@ -102,7 +105,7 @@ Stanford 和 MIT 校友的定期回饋，獲得真實經驗，幫助發展未來
 #### **什麼時候聘請實習生？**
 ​
 
-我們提供全年實習。夏季是最多實習生的時候。 
+我們提供全年實習。夏季是最多實習生的時候。
 ​
 
 #### **實習生會去哪一個團隊/產品？**
@@ -134,7 +137,7 @@ If you’re intelligent, proactive, and hardworking, we want the opportunity to 
 
 ## Solve real challenges. Help real people.
 
-> Interns have the opportunity to own projects that directly and positively affect our business. 
+> Interns have the opportunity to own projects that directly and positively affect our business.
 
 Every intern receives mentorship and works on important technical challenges. Our internship is not intended to simulate working with us; you will be working as a respected peer. This means we expect you to perform as our full-time employees.
 
@@ -152,15 +155,15 @@ Do real startup work, create real production code. No wasted effort or “sample
 
 1. Gain real world experience working with the latest technology, tools, and the most robust software development and product management processes.
 1. Learn how to make integrated business decisions, conduct meetings, and present effectively.
-1. Learn non-engineering skills like marketing, sales, and analytics techniques necessary to run a business. 
+1. Learn non-engineering skills like marketing, sales, and analytics techniques necessary to run a business.
 
 ### HAVE OWNERSHIP
 
-You will get complete ownership of your own critical projects. You will be assigned personal OKRs and KPIs on weekly and monthly basis. 
+You will get complete ownership of your own critical projects. You will be assigned personal OKRs and KPIs on weekly and monthly basis.
 
 ### RECEIVE MENTORSHIP AND CAREER DEVELOPMENT
 
-Regular coaching feedback from Stanford and MIT alumni. Get real experiences to develop your future career direction. 
+Regular coaching feedback from Stanford and MIT alumni. Get real experiences to develop your future career direction.
 
 ### RECEIVE COMPENSATION
 
@@ -198,3 +201,90 @@ We offer year-round internships, though summer is the most popular. We hire on a
 
 ​We look at your background and preferences, factor in team bandwidth, and then assign you a team that will be the best fit for everyone involved.
 
+<br>
+
+<a name="id"></a>
+
+## ** Program MIT Pelatihan Magang yang Dibimbing **
+
+> Lakukan pekerjaan penting.
+> Ciptakan dampak yang berarti.
+
+## Untuk mahasiswa dan lulusan baru.
+
+Perusahaan sering memperlakukan pekerja magang sebagai tenaga kerja gratis untuk bagian non-vital proyek non-vital. Kami tidak setuju.
+
+Kami percaya bahwa ada banyak mahasiswa yang cerdas dan teguh yang diabaikan. Di AVL, kami tidak menghukum universitas mana yang Anda masuki, kurangnya pengalaman kerja, atau tidak memiliki koneksi di perusahaan.
+
+Kami menghargai kemampuan individu bertalenta untuk berkontribusi, apa pun latar belakang atau pengalaman mereka. Kami secara aktif memberikan kesempatan kepada siswa yang telah terbukti pandai melaksanakannya.
+
+Jika Anda cerdas, proaktif, dan pekerja keras, kami menginginkan kesempatan untuk bekerja dengan Anda.
+
+<br>
+
+## Pecahkan tantangan nyata. Bantu orang yang nyata.
+
+> Magang memiliki kesempatan untuk memiliki proyek yang secara langsung dan positif mempengaruhi bisnis kita.
+
+Setiap magang menerima bimbingan dan mengerjakan tantangan teknis penting. Magang kami tidak dimaksudkan untuk mensimulasikan bekerja dengan kami; Anda akan bekerja sebagai rekan yang dihormati. Ini berarti kami mengharapkan Anda untuk bekerja sebagai karyawan penuh waktu kami.
+
+Hari demo proyek, rangkaian pembicara, acara pembangunan tim, dan keterlibatan komunitas dirancang untuk memberi Anda pengalaman dan eksposur sebanyak mungkin, sebagai karyawan sungguhan.
+
+Di AVL, Anda akan:
+
+### PENGALAMAN BEKERJA NYATA
+
+Pelajari keterampilan praktis yang diinginkan pemberi kerja.
+
+Lakukan pekerjaan startup nyata, buat kode produksi nyata. Tidak ada usaha yang terbuang atau "proyek contoh".
+
+### PELAJARI MEMBANGUN LEAN STARTUP
+
+1. Dapatkan pengalaman dunia nyata bekerja dengan teknologi terbaru, alat bantu, dan pengembangan perangkat lunak serta proses manajemen produk yang paling canggih.
+1. Pelajari bagaimana membuat keputusan bisnis terintegrasi, melakukan pertemuan, dan presentasi secara efektif.
+1. Pelajari keterampilan non-teknik seperti pemasaran, penjualan, dan teknik analitik yang diperlukan untuk menjalankan bisnis.
+
+
+### MEMILIKI KEPEMILIKAN
+
+Anda akan mendapatkan kepemilikan penuh atas proyek penting Anda sendiri. Anda akan diberikan OKR dan KPI pribadi setiap minggu dan setiap bulan.
+
+### MENERIMA MENTORSHIP DAN PENGEMBANGAN KARIR
+
+Umpan balik pembinaan rutin dari Stanford dan alumni MIT. Dapatkan pengalaman nyata untuk mengembangkan arah karir masa depan Anda.
+
+### TERIMA KOMPENSASI
+
+Anda akan menerima kompensasi berdasarkan kinerja OKR sebagai bonus, beasiswa, atau tunjangan.
+
+<br>
+
+## PROGRAM MIT
+
+Ini adalah kesempatan Anda untuk berkontribusi dalam sebuah startup. Anda akan tertantang. Anda diharapkan untuk mendapatkan hasil yang luar biasa. Jika Anda proaktif, pekerja keras, dan sangat terampil,
+
+[Bergabunglah dengan Kami] ({{site.job_form_url}}) {: .btn # page-btn} {: target = "_ blank"}
+
+#### Berapa lama magang?
+
+Kami menawarkan masa magang yang fleksibel dengan minimal 12 minggu.
+
+#### Siapa yang bisa melamar?
+
+Kami mencari siswa pekerja keras yang dapat berkontribusi sebagai pemrogram perangkat lunak.
+
+#### Apakah Anda mempekerjakan pekerja magang setelah lulus?
+
+Tujuan utama program magang kami adalah memberi Anda kesempatan untuk mencari tahu apakah Anda ingin bekerja penuh waktu dengan kami setelah lulus. Kami mempekerjakan banyak mantan magang. Kami juga mempekerjakan banyak lulusan baru yang tidak magang dengan kami.
+
+#### Di mana magang?
+
+Kami mengizinkan kerja jarak jauh, dengan pertemuan dan acara langsung secara rutin.
+
+#### Kapan Anda mempekerjakan pekerja magang?
+
+Kami menawarkan magang sepanjang tahun, meskipun musim panas adalah yang paling populer. Kami mempekerjakan secara bergilir, menawarkan jam kerja yang fleksibel.
+
+#### Bagaimana magang ditempatkan dalam tim?
+
+Kami melihat latar belakang dan preferensi Anda, faktor bandwidth tim, dan kemudian menetapkan Anda tim yang paling cocok untuk semua orang yang terlibat.

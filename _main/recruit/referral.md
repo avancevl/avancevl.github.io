@@ -12,6 +12,9 @@ locales:
     en:
         title: Referral Program
         description: "Refer a friend."
+    id:
+        title: Program Rujukan
+        description: "Referensikan teman."
 ---
 
 <a name="zh-tw"></a>
@@ -35,3 +38,9 @@ locales:
 ## Referral Bonus
 
 We wish to work with any talented individuals. If you know someone who is smart, energaetic, proactive, and driven to succeed, please introduce us and receive referral bonus!
+
+<a name="id"></a>
+
+## Bonus Referensi
+
+Kami ingin bekerja dengan individu berbakat. Jika Anda mengenal seseorang yang cerdas, energik, proaktif, dan didorong untuk sukses, perkenalkan kami dan dapatkan bonus referensi!

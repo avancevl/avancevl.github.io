@@ -12,6 +12,9 @@ locales:
     en:
         title: Areas of Responsibility
         description: "Who is responsible for what."
+    id:
+        title: Area Tanggung Jawab
+        description: "Siapa yang bertanggung jawab untuk apa."
 ---
 
 <a name="zh-tw"></a>
@@ -56,3 +59,18 @@ locales:
 | Engineering | QC, production | {{ site.user_g }} |
 | HR | Recruiting, office | {{ site.user_d }} |
 | Admin | Fundraising, accounting, legal | {{ site.user_d }}, {{ site.user_g }} |
+
+<br>
+
+<a name="id"></a>
+
+## Tanggung Jawab Manajemen
+
+| Area | Tanggung Jawab | Pemilik |
+| --- | --- | --- |
+| Kustomer | Feedback, support, interviews | {{ site.user_d }} |
+| Growth | Marketing, sales, channel | {{ site.user_g }} |
+| Product | Daftar, Strategi, TA | {{ site.user_d }}, {{ site. user_g }} |
+| Engineering | QC, production | {{ site.user_g }} |
+| HR | Perekrutan, office | {{ site.user_d }} |
+| Admin | Penggalangan dana, akuntansi, hukum | {{ site.user_d }}, {{ site.user_g }} |

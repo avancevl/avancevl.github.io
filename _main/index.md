@@ -3,15 +3,18 @@ layout: default
 title: AVL Handbook
 description: For All Remote Teams
 locales:
-    zh-tw:
-        title: AVL手冊
-        description: 全遠端工作團隊
-    zh-cn:
-        title: AVL手册
-        description: 全远端工作团队
-    en:
-        title: AVL Handbook
-        description: For All Remote Teams
+  zh-tw:
+    title: AVL手冊
+    description: 全遠端工作團隊
+  zh-cn:
+    title: AVL手册
+    description: 全远端工作团队
+  en:
+    title: AVL Handbook
+    description: For All Remote Teams
+  id:
+    title: Buku Pegangan AVL
+    description: Untuk Semua Tim Jarak Jauh
 ---
 
 <!---
@@ -44,11 +47,11 @@ locales:
 
 幫我們支持台灣開源軟體，新創，及工程師社團：
 
--   [台灣新創工作機會社團 :rocket:](https://021tw.github.io/021tw.github.io/){:target="\_blank"}
--   [台灣全端工程師社團 :star:](https://stacktw.github.io/stacktw.github.io/){:target="\_blank"}
--   [台灣遠端軟體工程師徵才 :palm_tree:](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
-    -   [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
-    -   [Facebook](https://www.facebook.com/groups/489046765360247/){:target="\_blank"}
+- [台灣新創工作機會社團 :rocket:](https://021tw.github.io/021tw.github.io/){:target="\_blank"}
+- [台灣全端工程師社團 :star:](https://stacktw.github.io/stacktw.github.io/){:target="\_blank"}
+- [台灣遠端軟體工程師徵才 :palm_tree:](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
+  - [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
+  - [Facebook](https://www.facebook.com/groups/489046765360247/){:target="\_blank"}
 
 <br>
 
@@ -56,8 +59,8 @@ locales:
 
 我們歡迎各位的建議：
 
--   請由 [git pull request]({{ site.github.repository_url }}/pull/new/master)建議文件更改。
--   請由 [git issue]({{ site.github.repository_url }}/issues/new)投入您的疑問。
+- 請由 [git pull request]({{ site.github.repository_url }}/pull/new/master)建議文件更改。
+- 請由 [git issue]({{ site.github.repository_url }}/issues/new)投入您的疑問。
 
 <br>
 
@@ -87,9 +90,9 @@ locales:
 
 帮我们支持台湾开源软体，新创，及工程师社团：
 
--   [台湾新创工作机会社团 :rocket:](https://021tw.github.io/021tw.github.io/){:target="\_blank"}
--   [台湾全端工程师社团 :star:](https://stacktw.github.io/stacktw.github.io/){:target="\_blank"}
--   [远端软体工程师征才 :palm_tree:](https://www.linkedin.com/groups/10532717/){:target="\_blank"}
+- [台湾新创工作机会社团 :rocket:](https://021tw.github.io/021tw.github.io/){:target="\_blank"}
+- [台湾全端工程师社团 :star:](https://stacktw.github.io/stacktw.github.io/){:target="\_blank"}
+- [远端软体工程师征才 :palm_tree:](https://www.linkedin.com/groups/10532717/){:target="\_blank"}
 
 <br>
 
@@ -97,8 +100,8 @@ locales:
 
 我们欢迎各位的建议：
 
--   请由[git pull request]({{ site.github.repository_url }}/pull/new/master)建议文件更改。
--   请由[git issue]({{ site.github.repository_url }}/issues/new)提出您的疑问。
+- 请由[git pull request]({{ site.github.repository_url }}/pull/new/master)建议文件更改。
+- 请由[git issue]({{ site.github.repository_url }}/issues/new)提出您的疑问。
 
 <br>
 
@@ -128,9 +131,9 @@ We want to work with talented individuals and are **always actively hiring**.
 
 Help us support the remote, startup developer communites by following:
 
--   [Remote Developers Jobs :palm_tree:](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
-    -   [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
-    -   [Facebook](https://www.facebook.com/groups/489046765360247/){:target="\_blank"}
+- [Remote Developers Jobs :palm_tree:](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
+  - [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
+  - [Facebook](https://www.facebook.com/groups/489046765360247/){:target="\_blank"}
 
 <br>
 
@@ -138,7 +141,46 @@ Help us support the remote, startup developer communites by following:
 
 We always welcome feedback.
 
--   Please make a [pull request]({{ site.github.repository_url }}/pull/new/master) to suggest improvements or add clarification.
--   Please create a [issue]({{ site.github.repository_url }}/issues/new) to ask questions.
+- Please make a [pull request]({{ site.github.repository_url }}/pull/new/master) to suggest improvements or add clarification.
+- Please create a [issue]({{ site.github.repository_url }}/issues/new) to ask questions.
+
+<br>
+<a name="id"></a>
+## Semua Tim Jarak Jauh, Menetaskan Ide Baru
+
+Kami menginkubasi, mempercepat, dan menerapkan ide-ide yang dibuat oleh tim kami secara internal.
+
+<br>
+
+## Transparansi Radikal
+
+Kami percaya pada transparansi radikal, di mana ide terbaik menang. Begitulah cara kami menjalankan perusahaan [open source ke dunia]({{ site.github.repository_url }}). Di repositori pusat ini, Anda akan menemukan semua informasi yang Anda perlukan untuk memahami bagaimana rasanya bekerja di sini. Semua informasi yang tersedia untuk karyawan kami juga tersedia untuk Anda. Kami mendorong Anda untuk mempelajari lebih lanjut tentang kami di sini di penyimpanan ini.
+
+<br>
+
+## Bekerja dengan orang-orang terbaik
+
+Kami ingin bekerja dengan individu-individu berbakat dan **Selalu aktif merekrut**.
+
+[Jelajahi peluang]({{ site.baseurl }}/{{ page.lang }}/recruit/recruit.html){: .btn#page-btn}
+
+<br>
+
+## Komunitas
+
+Bantu kami mendukung komunitas pengembang startup jarak jauh dengan mengikuti:
+
+- [Remote Developers Jobs :palm_tree:](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
+  - [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
+  - [Facebook](https://www.facebook.com/groups/489046765360247/){:target="\_blank"}
+
+<br>
+
+## Buka Umpan Balik
+
+Kami selalu menerima umpan balik.
+
+- Tolong buat [pull request]({{ site.github.repository_url }}/pull/new/master) untuk menyarankan perbaikan atau menambahkan klarifikasi.
+- Harap buat [issue]({{ site.github.repository_url }}/issues/new) untuk menanyakan pertanyaan.
 
 <br>

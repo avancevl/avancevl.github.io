@@ -49,7 +49,7 @@ We are fact-based and driven by finding and solving the root cause. We are flat-
 
 ### 3. Team
 
-We only work with the best. Each of new hire is smarter than our last hire. We believe our team has waht it takes to execute quickly and methodically.
+We only work with the best. Each of new hire is smarter than our last hire. We believe our team has what it takes to execute quickly and methodically.
 
 ### 4. Business Model
 
@@ -96,3 +96,6 @@ Consultants we have worked with or are currently working with, formally and info
 <br>
 
 [Join us]({{ site.baseurl }}/{{ page.lang }}/recruit/recruit.html){: .btn#page-btn}
+
+<br>
+

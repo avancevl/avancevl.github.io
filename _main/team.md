@@ -3,22 +3,25 @@ layout: default
 title: 團隊
 description: Team
 locales:
-    zh-tw:
-        title: 團隊
-        description: 才華讓你贏得比賽，團隊及智慧讓你贏得冠軍。
-    zh-cn:
-        title: 团队
-        description: 才华让你赢得比赛，团队及智慧让你赢得冠军。
-    en:
-        title: Team
-        description: "Talent wins games, but teamwork and intelligence win championships."
+  zh-tw:
+    title: 團隊
+    description: 才華讓你贏得比賽，團隊及智慧讓你贏得冠軍。
+  zh-cn:
+    title: 团队
+    description: 才华让你赢得比赛，团队及智慧让你赢得冠军。
+  en:
+    title: Team
+    description: 'Talent wins games, but teamwork and intelligence win championships.'
+  id:
+    title: Tim
+    description: 'Bakat memenangkan pertandingan, tetapi kerja tim dan kecerdasan memenangkan kejuaraan.'
 ---
 
 <a name="zh-tw"></a>
 
 # 關於我們
 
-我們是麻省理工學院工程師與史丹佛電機碩士創辦的台北[精益新創](https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A "精益創業定義"){:target="\_blank"} startup 公司，專門創造有用的軟體。在紐約、西雅圖、芝加哥、香港、上海，擁有投資銀行、科技公司、對沖基金、管理諮詢顧問的大型企業經驗。也在矽谷和亞洲有金融科技創業成功的紀錄。**團隊在香港、台灣、西雅圖、芝加哥、巴黎。**目前首創台灣第一個與眾不同的孵化 incubuation 團隊，加速 accelerate 內部自己創造的新點子，快速的執行市場實驗，有成長也有盈利。我們重視創造影響力 impact 而不只是生產力 productivity。
+我們是麻省理工學院工程師與史丹佛電機碩士創辦的台北[精益新創](https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A '精益創業定義'){:target="\_blank"} startup 公司，專門創造有用的軟體。在紐約、西雅圖、芝加哥、香港、上海，擁有投資銀行、科技公司、對沖基金、管理諮詢顧問的大型企業經驗。也在矽谷和亞洲有金融科技創業成功的紀錄。**團隊在香港、台灣、西雅圖、芝加哥、巴黎。**目前首創台灣第一個與眾不同的孵化 incubuation 團隊，加速 accelerate 內部自己創造的新點子，快速的執行市場實驗，有成長也有盈利。我們重視創造影響力 impact 而不只是生產力 productivity。
 
 <br>
 
@@ -42,9 +45,9 @@ locales:
 
 我們的價值觀決定我們的工作方式，也是我們對用團隊的期望。
 
--   最重要的是要專注於有效的**成果**
--   我們相信快速的**精進**與極度的**透明**將帶來有影響力的結果。
--   我們比其他公司更重視**合作**和**效率**。
+- 最重要的是要專注於有效的**成果**
+- 我們相信快速的**精進**與極度的**透明**將帶來有影響力的結果。
+- 我們比其他公司更重視**合作**和**效率**。
 
 ## 秘製醬
 
@@ -74,34 +77,34 @@ locales:
 
 我們按照以下節奏管理團隊：
 
--   敏捷 Scrum /天
--   衝刺/週
--   KPI 和 1 對 1 的/月
--   OKRs /季度
--   年度計劃/年份
--   策略/ 3 年
--   願景/ 10 年
--   使命/ 30 年
--   高難度、大膽目標
+- 敏捷 Scrum /天
+- 衝刺/週
+- KPI 和 1 對 1 的/月
+- OKRs /季度
+- 年度計劃/年份
+- 策略/ 3 年
+- 願景/ 10 年
+- 使命/ 30 年
+- 高難度、大膽目標
 
 ## 顧問團隊
 
 我們有合作的夥伴來自：
 
--   阿里巴巴
--   亞馬遜
--   美國運通
--   蘋果電腦
--   戴爾電腦
--   臉書
--   富士康
--   谷歌
--   麥肯錫
--   微軟
--   麻省理工電腦科學學院
--   三星
--   史丹佛電腦科學學院
--   騰訊
+- 阿里巴巴
+- 亞馬遜
+- 美國運通
+- 蘋果電腦
+- 戴爾電腦
+- 臉書
+- 富士康
+- 谷歌
+- 麥肯錫
+- 微軟
+- 麻省理工電腦科學學院
+- 三星
+- 史丹佛電腦科學學院
+- 騰訊
 
 <br>
 
@@ -137,9 +140,9 @@ locales:
 
 我们的价值观决定我们的工作方式，也是我们对用团队的期望。
 
--   最重要的是要专注于有效的**成果**
--   我们相信快速的**精进**与极度的**透明**将带来有影响力的结果。
--   我们比其他公司更重视**合作**和**效率**。
+- 最重要的是要专注于有效的**成果**
+- 我们相信快速的**精进**与极度的**透明**将带来有影响力的结果。
+- 我们比其他公司更重视**合作**和**效率**。
 
 ## 秘制酱
 
@@ -169,34 +172,34 @@ locales:
 
 我们按照以下节奏管理团队：
 
--   敏捷 Scrum /天
--   冲刺/周
--   KPI 和 1 对 1 的/月
--   OKRs /季度
--   年度计划/年份
--   策略/ 3 年
--   愿景/ 10 年
--   使命/ 30 年
--   高难度、大胆目标
+- 敏捷 Scrum /天
+- 冲刺/周
+- KPI 和 1 对 1 的/月
+- OKRs /季度
+- 年度计划/年份
+- 策略/ 3 年
+- 愿景/ 10 年
+- 使命/ 30 年
+- 高难度、大胆目标
 
 ## 顾问团队
 
 我们有合作的伙伴来自：
 
--   阿里巴巴
--   亚马逊
--   美国运通
--   苹果电脑
--   戴尔电脑
--   脸书
--   富士康
--   谷歌
--   麦肯锡
--   微软
--   麻省理工电脑科学学院
--   三星
--   史丹佛电脑科学学院
--   腾讯
+- 阿里巴巴
+- 亚马逊
+- 美国运通
+- 苹果电脑
+- 戴尔电脑
+- 脸书
+- 富士康
+- 谷歌
+- 麦肯锡
+- 微软
+- 麻省理工电脑科学学院
+- 三星
+- 史丹佛电脑科学学院
+- 腾讯
 
 <br>
 
@@ -230,9 +233,9 @@ The necessary conditions for our team members:
 
 Our values govern how we behave. They describe our expectations from people we hire. They help guide us on how to behave in the organization and what to expect from others. Values are a framework for distributed decision making; they allow you to determine what to do without asking your manager.
 
--   It is most important to focus on **Results**
--   We trust **fast Iteration** and **radical Transperancy** will lead to Results.
--   Our emphasis on **Collaboration** and **Efficiency** distinguishes us from other companies.
+- It is most important to focus on **Results**
+- We trust **fast Iteration** and **radical Transperancy** will lead to Results.
+- Our emphasis on **Collaboration** and **Efficiency** distinguishes us from other companies.
 
 ## Secret Sauce
 
@@ -248,7 +251,7 @@ We are fact-based and driven by finding and solving the root cause. We are flat-
 
 ### 3. Team
 
-We only work with the best. Each of new hire is smarter than our last hire. We believe our team has waht it takes to execute quickly and methodically.
+We only work with the best. Each of new hire is smarter than our last hire. We believe our team has what it takes to execute quickly and methodically.
 
 ### 4. Business Model
 
@@ -262,36 +265,130 @@ We are currently self-funded. If you're interested in partnering or investing, p
 
 We run our team according to the following rhythm:
 
--   Agile Scrum / Day
--   Sprint / Week
--   KPIs & 1-on-1's / Month
--   OKRs / Quarter
--   Annual Plan / Year
--   Strategy / 3 years
--   Vision / 10 years
--   Mission / 30 years
--   Big Hairy Audacious Goal (BHAG)
+- Agile Scrum / Day
+- Sprint / Week
+- KPIs & 1-on-1's / Month
+- OKRs / Quarter
+- Annual Plan / Year
+- Strategy / 3 years
+- Vision / 10 years
+- Mission / 30 years
+- Big Hairy Audacious Goal (BHAG)
 <!-- Our BHAG is to become the most popular X for Y in Z industry. For this to happen, we need to be best are making A much more B. -->
 
 ## Our Advisors & Investors
 
 Consultants we have worked with or are currently working with, formally and informally, include:
 
--   Alibaba
--   Amazon.com
--   American Express
--   Apple
--   Dell
--   Facebook
--   Foxconn
--   Google
--   McKinsey
--   Microsoft
--   MIT Computer Science
--   Samsung
--   Stanford Computer Science
--   Tencent
+- Alibaba
+- Amazon.com
+- American Express
+- Apple
+- Dell
+- Facebook
+- Foxconn
+- Google
+- McKinsey
+- Microsoft
+- MIT Computer Science
+- Samsung
+- Stanford Computer Science
+- Tencent
 
 <br>
 
 [Join us]({{ site.baseurl }}/{{ page.lang }}/recruit/recruit.html){: .btn#page-btn}
+
+<br>
+
+<a name="id"></a>
+
+# Tentang kami
+
+Kami adalah tim pengusaha dari MIT dan Stanford. Kami belajar teknik sebagai sarjana dan bekerja di dunia perbankan, teknologi, dan konsultasi di New York, Seattle, San Francisco, Chicago, dan Shanghai sebelum membangun perusahaan rintisan di Silicon Valley. Tim kami saat ini berbasis di **Hong Kong, Taiwan, Seattle, Chicago, dan Paris**. Kami membuat, membangun, dan menerapkan eksperimen dengan cepat untuk mendapatkan ide yang menguntungkan. Kami membuat perangkat lunak yang berguna. Kami menghargai menciptakan dampak daripada menjadi produktif.
+
+## Nilai
+
+5 nilai kami adalah:
+
+1. **Hasil**
+1. **Pengulangan**
+1. **Transparansi**
+1. **Kolaborasi**
+1. **Efisiensi**
+
+Kondisi yang diperlukan untuk anggota tim kami:
+
+1. **Kejujuran**
+1. **Proaktif**
+1. **Energik**
+1. **Cerdas** (kejelasan dalam pikiran)
+1. **Pemain tim**
+
+Nilai-nilai kami mengatur cara kami berperilaku. Mereka menggambarkan harapan kami dari orang yang kami pekerjakan. Mereka membantu membimbing kita tentang bagaimana berperilaku dalam organisasi dan apa yang diharapkan dari orang lain. Nilai adalah kerangka kerja untuk pengambilan keputusan terdistribusi; mereka memungkinkan Anda untuk menentukan apa yang harus dilakukan tanpa bertanya kepada manajer Anda.
+
+- Yang paling penting adalah fokus pada **Hasil**
+- Kami percaya **Iterasi cepat** and **radical Transperancy** will lead to Results.
+- Penekanan kami pada **Kolaborasi** dan **Efisiensi** membedakan kami dari perusahaan lain
+
+## Saus rahasia
+
+Ada banyak faktor yang berkontribusi terhadap kesuksesan sebuah startup. Di bawah ini adalah lima dan bagaimana kami di AVL unggul di masing-masing:
+
+### 1. Pemilihan waktu
+
+Kita tidak bisa menentukan waktu pasar, karena tidak ada yang bisa memprediksi masa depan. Tapi kita bisa meminimalkan risiko kita dan memaksimalkan kemungkinan sukses kita. Kami mencoba menciptakan masa depan yang menguntungkan dan beruntung.
+
+### 2. Ide
+
+Kami berbasis fakta dan didorong dengan menemukan dan menyelesaikan akar masalah. Kami berstruktur datar dan meritokratis tanpa hierarki, di mana ide-ide terbaik menang.
+
+### 3. Tim
+
+Kami hanya bekerja dengan yang terbaik. Setiap karyawan baru lebih pintar dari karyawan terakhir kami. Kami yakin tim kami memiliki apa yang diperlukan untuk mengeksekusi dengan cepat dan metodis.
+
+### 4. Model bisnis
+
+Kami fokus pada profitabilitas, akuisisi pengguna yang efisien, dan pertumbuhan yang cepat.
+
+### 5. Pendanaan
+
+Kami saat ini mendanai sendiri. Jika Anda tertarik untuk bermitra atau berinvestasi, silakan hubungi kami.
+
+## Irama
+
+Kami menjalankan tim kami sesuai dengan ritme berikut:
+
+- Agile Scrum / Hari
+- Sprint / Minggu
+- KPIs & 1-on-1's / Month
+- OKRs / Quarter
+- Rencana tahunan / Tahun
+- Strategi / 3 tahun
+- Visi / 10 tahun
+- Misi / 30 tahun
+- Big Hairy Audacious Goal (BHAG)
+<!-- Our BHAG is to become the most popular X for Y in Z industry. For this to happen, we need to be best are making A much more B. -->
+
+## Penasihat & Investor Kami
+
+Konsultan yang pernah atau sedang bekerja dengan kami, secara formal dan informal, meliputi:
+
+- Alibaba
+- Amazon.com
+- American Express
+- Apple
+- Dell
+- Facebook
+- Foxconn
+- Google
+- McKinsey
+- Microsoft
+- MIT Computer Science
+- Samsung
+- Stanford Computer Science
+- Tencent
+
+<br>
+
+[Bergabunglah dengan kami]({{ site.baseurl }}/{{ page.lang }}/recruit/recruit.html){: .btn#page-btn}

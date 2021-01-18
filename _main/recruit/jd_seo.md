@@ -12,6 +12,9 @@ locales:
     en:
         title: SEO/SEM Specialist
         description: "Full, Part-Time"
+    id:
+        title: Pakar SEO/SEM
+        description: "Waktu Penuh, Paruh Waktu"
 ---
 
 <a name="zh-tw"></a>
@@ -42,7 +45,7 @@ locales:
 
 1. The implementation and the growth of paid and organic search marketing efforts.
 
-1. Increase reach and conversion across web properties. 負責付費搜索和自然搜索營銷的實施和增長，促進整個網絡媒體資源的 reach and conversion. 
+1. Increase reach and conversion across web properties. 負責付費搜索和自然搜索營銷的實施和增長，促進整個網絡媒體資源的 reach and conversion.
 
 1. Responsible for the execution of tactics associated with the management of paid keyword campaigns (PPC advertising), keyword, and organic Search Engine Optimization (SEO) strategies. 執行相關策略，包括策付費關鍵字廣告系列（PPC廣告），關鍵字和自然搜索引擎優化SEO策略管理。
 
@@ -93,7 +96,7 @@ locales:
 
 1. The implementation and the growth of paid and organic search marketing efforts.
 1. Increase reach and conversion across web properties.
-1. Responsible for the execution of tactics associated with the management of paid keyword campaigns (PPC advertising), keyword, and organic Search Engine Optimization (SEO) strategies. 
+1. Responsible for the execution of tactics associated with the management of paid keyword campaigns (PPC advertising), keyword, and organic Search Engine Optimization (SEO) strategies.
 1. Bonus: Proficiency in Google Analytics, Mixpanel, Heap, Segment, and/or Amplitude; social media and email marketing campaigns.
 
 ### Requirements
@@ -115,3 +118,49 @@ locales:
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
+
+<a name="id"></a>
+
+| **Jenis Pekerjaan** | Penuh Waktu, Paruh Waktu |
+| **Lokasi** | Jarak Jauh |
+| **Open Levels** | Junior |
+
+<br>
+
+[Daftar Sekarang]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+## Deskripsi
+- [**Tingkat Gaji**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_salary}})
+- [**Budaya Team**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_culture }}): Silicon Valley startup culture.
+- [**Keuntungan Karyawan**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_benefits }}): Remote work possible.
+- [**Proses Wawancara**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_interview_process }})
+- [**Ekspektasi**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_expectations }}): Integrity. Hard work. Team player.
+
+<br>
+
+## Deksripsi Tugas
+
+### Tanggung Jawab
+
+1. Penerapan dan pertumbuhan upaya pemasaran penelusuran berbayar dan organik.
+1. Meningkatkan jangkauan dan konversi di seluruh properti web.
+1. Bertanggung jawab atas pelaksanaan taktik yang terkait dengan pengelolaan kampanye kata kunci berbayar (iklan PPC), kata kunci, dan strategi Search Engine Optimization (SEO) organik.
+1. Bonus: Kemahiran dalam Google Analytics, Mixpanel, Heap, Segmen, dan / atau Amplitudo; media sosial dan kampanye pemasaran email.
+
+### Persyaratan
+- Pengalaman dalam SEO
+- Kemampuan bahasa Inggris asli, terutama menulis, agar efektif dalam penulisan salinan.
+- Membantu dalam pembuatan, pengeditan, pengelolaan, pengorganisasian, dan pengoptimalan konten web organisasi yang sedang berlangsung.
+- Lakukan SEO pada halaman di semua properti web untuk memastikan halaman diberi peringkat untuk kata kunci target.
+- Menerapkan praktik terbaik arsitektur informasi saat membangun area situs di masa mendatang dan merancang ulang halaman web dan situs mikro yang ada.
+- Laporkan peringkat kata kunci di seluruh area utama dan optimalkan konten yang sesuai untuk meningkatkan kehadiran kami di mesin pencari.
+- Kelola dan optimalkan kampanye iklan pencarian bayar per klik yang sedang berlangsung untuk area inti fokus pada tingkat merek, layanan, dan lokal.
+- Analisis dan laporkan perubahan dalam pertumbuhan terkait penelusuran, terus ulangi dan optimalkan kampanye pemasaran penelusuran berbayar dan organik berdasarkan data.
+- Melakukan analisis kata kunci untuk menentukan kata kunci mana yang menjadi target primer dan sekunder untuk peringkat di seluruh area web.
+- Menerapkan upaya pengoptimalan penelusuran lokal untuk aset web berbasis lokasi.
+- Lakukan penelitian kata kunci untuk menginformasikan peluang pembuatan konten web baru.
+- Bekerja sama dengan pemangku kepentingan utama untuk mendapatkan konten baru secara online untuk proyek baru dan memperbarui konten yang ada dengan mempertimbangkan praktik terbaik pemasaran mesin telusur.
+
+<br>
+
+[Daftar Sekarang]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}

@@ -41,7 +41,7 @@ description: 职缺
 
 ### [前端工程师]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_frontenddev.html)
 
-`全职` `兼职` `远端` 
+`全职` `兼职` `远端`
 
 `资深工程师` `初级工程师`
 

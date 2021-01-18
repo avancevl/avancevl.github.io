@@ -12,6 +12,9 @@ locales:
     en:
         title: SEO
         description: "Our SEO strategy."
+    id:
+        title: SEO
+        description: "Strategi SEO kami."
 ---
 
 <a name="en"></a>
