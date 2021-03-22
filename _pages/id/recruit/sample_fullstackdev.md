@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Full Stack Sample Exam
+title: Ujian Sampel Full Stack
 lang: id
-description: Take-Home
+description: Bawa Pulang
 ---
 
 
 
 <br>
 
-[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
-[View Instructions]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
-[View Rubric]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
+[Daftar Sekarang]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
+[Lihat Instruksi]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
+[Lihat Rubrik]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
-## Exam Instructions
+## Petunjuk Ujian
 
-Please implement at least one feature from front and back-end exams each. Follow the instructions and rubric in each of the front and back-end exams.
+Harap terapkan setidaknya satu fitur dari masing-masing ujian depan dan belakang. Ikuti petunjuk dan rubrik di masing-masing ujian depan dan belakang.
 
-* [Front-End Exam]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_frontenddev.html)
-* [Back-End Exam]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_backenddev.html)
+* [Ujian Front-End]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_frontenddev.html)
+* [Ujian Back-End]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_backenddev.html)

@@ -20,3 +20,6 @@ We are a small, early-stage **software start-up**, founded by Stanford and MIT a
 Our team of founders, investors, and advisors has experience in engineering, entrepreneurship, finance, and consulting in **Silicon Valley** and **New York**.
 
 [View Opportunities]({{ site.baseurl }}/{{ page.lang }}/recruit/open_positions.html){: .btn#page-btn}
+
+<br>
+

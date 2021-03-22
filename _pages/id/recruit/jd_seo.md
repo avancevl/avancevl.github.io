@@ -1,54 +1,52 @@
 ---
 layout: default
-title: SEO/SEM Specialist
+title: Pakar SEO/SEM
 lang: id
-description: Full, Part-Time
+description: Waktu Penuh, Paruh Waktu
 ---
 
 
 
-| **Employment Type** | Part-Time, Full-Time |
-| **Location** | Remote |
+| **Jenis Pekerjaan** | Penuh Waktu, Paruh Waktu |
+| **Lokasi** | Jarak Jauh |
 | **Open Levels** | Junior |
 
 <br>
 
-[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
+[Daftar Sekarang]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
-## Description
-- [**Salary Levels**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_salary}})
-- [**Team Culture**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_culture }}): Silicon Valley startup culture.
-- [**Employee Benefits**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_benefits }}): Remote work possible.
-- [**Interview Process**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_interview_process }})
-- [**Expectations**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_expectations }}): Integrity. Hard work. Team player.
-
-<br>
-
-## Job Description
-
-### Responsibilities
-
-1. The implementation and the growth of paid and organic search marketing efforts.
-1. Increase reach and conversion across web properties.
-1. Responsible for the execution of tactics associated with the management of paid keyword campaigns (PPC advertising), keyword, and organic Search Engine Optimization (SEO) strategies. 
-1. Bonus: Proficiency in Google Analytics, Mixpanel, Heap, Segment, and/or Amplitude; social media and email marketing campaigns.
-
-### Requirements
-- Experience in SEO
-- Native English ability, especially writing, in order to be effective in copy writing.
-- Assist in the ongoing creation, editing, management, organization, and optimization of organizational web content.
-- Conduct on-page SEO across all web properties to ensure pages are ranking for target keywords.
-- Implement information architecture best practices when building future site areas and re-architecting existing web pages and microsites.
-- Report on keyword rankings across key areas and optimize content accordingly to enhance our presence in search engines.
-- Manage and optimize ongoing pay-per-click search advertising campaigns for core areas of focus at the brand, service line and local levels.
-- Analyze and report on changes in search-related growth, constantly iterating and optimizing paid and organic search marketing campaigns based on data.
-- Conduct keyword analysis to determine which keywords are primary and secondary targets for ranking across web areas.
-- Implement local search optimization efforts for location-based web assets.
-- Perform keyword research to inform opportunities for new web content creation.
-- Work with key stakeholders to get new content online for new projects and make updates existing content updated with search engine marketing best practices in mind.
+## Deskripsi
+- [**Tingkat Gaji**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_salary}})
+- [**Budaya Team**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_culture }}): Silicon Valley startup culture.
+- [**Keuntungan Karyawan**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_benefits }}): Remote work possible.
+- [**Proses Wawancara**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_interview_process }})
+- [**Ekspektasi**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_expectations }}): Integrity. Hard work. Team player.
 
 <br>
 
-[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
+## Deksripsi Tugas
+
+### Tanggung Jawab
+
+1. Penerapan dan pertumbuhan upaya pemasaran penelusuran berbayar dan organik.
+1. Meningkatkan jangkauan dan konversi di seluruh properti web.
+1. Bertanggung jawab atas pelaksanaan taktik yang terkait dengan pengelolaan kampanye kata kunci berbayar (iklan PPC), kata kunci, dan strategi Search Engine Optimization (SEO) organik.
+1. Bonus: Kemahiran dalam Google Analytics, Mixpanel, Heap, Segmen, dan / atau Amplitudo; media sosial dan kampanye pemasaran email.
+
+### Persyaratan
+- Pengalaman dalam SEO
+- Kemampuan bahasa Inggris asli, terutama menulis, agar efektif dalam penulisan salinan.
+- Membantu dalam pembuatan, pengeditan, pengelolaan, pengorganisasian, dan pengoptimalan konten web organisasi yang sedang berlangsung.
+- Lakukan SEO pada halaman di semua properti web untuk memastikan halaman diberi peringkat untuk kata kunci target.
+- Menerapkan praktik terbaik arsitektur informasi saat membangun area situs di masa mendatang dan merancang ulang halaman web dan situs mikro yang ada.
+- Laporkan peringkat kata kunci di seluruh area utama dan optimalkan konten yang sesuai untuk meningkatkan kehadiran kami di mesin pencari.
+- Kelola dan optimalkan kampanye iklan pencarian bayar per klik yang sedang berlangsung untuk area inti fokus pada tingkat merek, layanan, dan lokal.
+- Analisis dan laporkan perubahan dalam pertumbuhan terkait penelusuran, terus ulangi dan optimalkan kampanye pemasaran penelusuran berbayar dan organik berdasarkan data.
+- Melakukan analisis kata kunci untuk menentukan kata kunci mana yang menjadi target primer dan sekunder untuk peringkat di seluruh area web.
+- Menerapkan upaya pengoptimalan penelusuran lokal untuk aset web berbasis lokasi.
+- Lakukan penelitian kata kunci untuk menginformasikan peluang pembuatan konten web baru.
+- Bekerja sama dengan pemangku kepentingan utama untuk mendapatkan konten baru secara online untuk proyek baru dan memperbarui konten yang ada dengan mempertimbangkan praktik terbaik pemasaran mesin telusur.
 
 <br>
+
+[Daftar Sekarang]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}

@@ -31,9 +31,9 @@ The necessary conditions for our team members:
 
 Our values govern how we behave. They describe our expectations from people we hire. They help guide us on how to behave in the organization and what to expect from others. Values are a framework for distributed decision making; they allow you to determine what to do without asking your manager.
 
--   It is most important to focus on **Results**
--   We trust **fast Iteration** and **radical Transperancy** will lead to Results.
--   Our emphasis on **Collaboration** and **Efficiency** distinguishes us from other companies.
+- It is most important to focus on **Results**
+- We trust **fast Iteration** and **radical Transperancy** will lead to Results.
+- Our emphasis on **Collaboration** and **Efficiency** distinguishes us from other companies.
 
 ## Secret Sauce
 
@@ -63,35 +63,35 @@ We are currently self-funded. If you're interested in partnering or investing, p
 
 We run our team according to the following rhythm:
 
--   Agile Scrum / Day
--   Sprint / Week
--   KPIs & 1-on-1's / Month
--   OKRs / Quarter
--   Annual Plan / Year
--   Strategy / 3 years
--   Vision / 10 years
--   Mission / 30 years
--   Big Hairy Audacious Goal (BHAG)
+- Agile Scrum / Day
+- Sprint / Week
+- KPIs & 1-on-1's / Month
+- OKRs / Quarter
+- Annual Plan / Year
+- Strategy / 3 years
+- Vision / 10 years
+- Mission / 30 years
+- Big Hairy Audacious Goal (BHAG)
 <!-- Our BHAG is to become the most popular X for Y in Z industry. For this to happen, we need to be best are making A much more B. -->
 
 ## Our Advisors & Investors
 
 Consultants we have worked with or are currently working with, formally and informally, include:
 
--   Alibaba
--   Amazon.com
--   American Express
--   Apple
--   Dell
--   Facebook
--   Foxconn
--   Google
--   McKinsey
--   Microsoft
--   MIT Computer Science
--   Samsung
--   Stanford Computer Science
--   Tencent
+- Alibaba
+- Amazon.com
+- American Express
+- Apple
+- Dell
+- Facebook
+- Foxconn
+- Google
+- McKinsey
+- Microsoft
+- MIT Computer Science
+- Samsung
+- Stanford Computer Science
+- Tencent
 
 <br>
 

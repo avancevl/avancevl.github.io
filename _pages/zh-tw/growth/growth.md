@@ -10,14 +10,14 @@ description: 行銷流程
 ## 成長策略
 
 * 營銷
-	* 入站通道
-		* YouTube
-		* 社交媒體
-	* 出站頻道
-		* 社交媒體
-			* Facebook
-			* Instagram的
-		* 谷歌
+  * 入站通道
+    * YouTube
+    * 社交媒體
+  * 出站頻道
+    * 社交媒體
+      * Facebook
+      * Instagram的
+    * 谷歌
 * 銷售
 
 ### 增長KPI

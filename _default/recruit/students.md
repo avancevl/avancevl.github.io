@@ -26,7 +26,7 @@ If you’re intelligent, proactive, and hardworking, we want the opportunity to 
 
 ## Solve real challenges. Help real people.
 
-> Interns have the opportunity to own projects that directly and positively affect our business. 
+> Interns have the opportunity to own projects that directly and positively affect our business.
 
 Every intern receives mentorship and works on important technical challenges. Our internship is not intended to simulate working with us; you will be working as a respected peer. This means we expect you to perform as our full-time employees.
 
@@ -44,15 +44,15 @@ Do real startup work, create real production code. No wasted effort or “sample
 
 1. Gain real world experience working with the latest technology, tools, and the most robust software development and product management processes.
 1. Learn how to make integrated business decisions, conduct meetings, and present effectively.
-1. Learn non-engineering skills like marketing, sales, and analytics techniques necessary to run a business. 
+1. Learn non-engineering skills like marketing, sales, and analytics techniques necessary to run a business.
 
 ### HAVE OWNERSHIP
 
-You will get complete ownership of your own critical projects. You will be assigned personal OKRs and KPIs on weekly and monthly basis. 
+You will get complete ownership of your own critical projects. You will be assigned personal OKRs and KPIs on weekly and monthly basis.
 
 ### RECEIVE MENTORSHIP AND CAREER DEVELOPMENT
 
-Regular coaching feedback from Stanford and MIT alumni. Get real experiences to develop your future career direction. 
+Regular coaching feedback from Stanford and MIT alumni. Get real experiences to develop your future career direction.
 
 ### RECEIVE COMPENSATION
 
@@ -89,3 +89,6 @@ We offer year-round internships, though summer is the most popular. We hire on a
 #### How are interns placed on teams?
 
 ​We look at your background and preferences, factor in team bandwidth, and then assign you a team that will be the best fit for everyone involved.
+
+<br>
+

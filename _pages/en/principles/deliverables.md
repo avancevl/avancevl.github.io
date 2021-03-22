@@ -21,4 +21,7 @@ description: Expectations for deliverables.
 
 ### 4. Speak intelligently about how your deliverables or tasks fit into the overall company mission
 * Every deliverable/task should be a step towards helping the team achieve our ultimate mission
-* Ask questions and make sure you know where the company is going from a big picture perspective
+* Ask questions and make sure you know where the company is going from a big picture perspective  
+
+<br>
+

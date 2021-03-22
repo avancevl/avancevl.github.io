@@ -3,18 +3,18 @@ layout: default
 title: 工程師線上測驗指南 — 考前準備
 description: Web Developer Exam
 locales:
-    zh-tw:
-        title: 工程師線上測驗指南 — 考前準備
-        description: 工程師線上測驗指南 — 考前準備
-    zh-cn:
-        title: 工程师线上测验指南 — 考前准备
-        description: 工程师线上测验指南 — 考前准备
-    en:
-        title: Web Developer Exam
-				description: "Take-Home Exam"
-		id:
-				title: Ujian Pengembang Web
-				description: "Ujian Bawa Pulang"
+  zh-tw:
+    title: 工程師線上測驗指南 — 考前準備
+    description: 工程師線上測驗指南 — 考前準備
+  zh-cn:
+    title: 工程师线上测验指南 — 考前准备
+    description: 工程师线上测验指南 — 考前准备
+  en:
+    title: Web Developer Exam
+    description: "Take-Home Exam"
+  id:
+    title: Ujian Pengembang Web
+    description: "Ujian Bawa Pulang"
 ---
 
 <a name="zh-tw"></a>
@@ -169,7 +169,7 @@ locales:
 1. 上传进度到 GitHub 或 GitLab。
 1. 时间到时，**请上架**，并提供网站 URL。
 1. 让你的网页跑一周。
-1. **请用以下的按钮【上传考试结果】。 **
+1. **请用以下的按钮【上传考试结果】。**
    1. 提供你的 GitHub 或 GitLab。
    1. 也提供网页上架的 live demo URL 网址。
 
@@ -283,26 +283,26 @@ Di bawah ini adalah tautan ke ujian Full Stack, Front-End, dan Back-End Develope
 ## Instruksi Ujian
 
 > **PENTING:**
-> Kami SANGAT menyarankan Anda menyiapkan server web langsung dengan halaman web statis kosong (misalnya Django, Rails, Node.js) ** SEBELUM ** ujian Anda. Ini akan menghemat banyak waktu selama ujian. (mis. Django, Rails, Node.js)
+> Kami SANGAT menyarankan Anda menyiapkan server web langsung dengan halaman web statis kosong (misalnya Django, Rails, Node.js) **SEBELUM** ujian Anda. Ini akan menghemat banyak waktu selama ujian. (mis. Django, Rails, Node.js)
 
 1. Skor penilaian online ini akan menentukan tingkat teknik (posisi) dan kisaran gaji Anda.
-1. Anda memiliki waktu ** 2,5 jam **.
+1. Anda memiliki waktu **2,5 jam**.
 1. Anda akan diberikan daftar fitur aplikasi web di awal ujian melalui email.
 1. **Pilih beberapa fitur.**
 
    1. Pilih beberapa fitur untuk diterapkan:
 
- 1. **Framework apa saja.** Anda memilih bahasa pemrograman dan framework.
-    1. Pilih bahasa dan kerangka kerja yang paling Anda kenal dan mahir.
-    1. Namun, kami terutama menggunakan **JS, Express, Node, dan React Redux**
-    1. **RWD.** Poin bonus untuk desain web / seluler yang sepenuhnya responsif dengan HTML / CSS.
-    1. Silakan gunakan dari berikut ini: JavaScript, Node, Express, React, Redux, HTML, CSS, Django, Rails, Vue, Ember, Backbone, MySQL, PostgreSQL, MongoDB
-    1. Jangan gunakan: Java / PHP / jQuery / ASP.NET / C #
+1. **Framework apa saja.** Anda memilih bahasa pemrograman dan framework.
+   1. Pilih bahasa dan kerangka kerja yang paling Anda kenal dan mahir.
+   1. Namun, kami terutama menggunakan **JS, Express, Node, dan React Redux**
+   1. **RWD.** Poin bonus untuk desain web / seluler yang sepenuhnya responsif dengan HTML / CSS.
+   1. Silakan gunakan dari berikut ini: JavaScript, Node, Express, React, Redux, HTML, CSS, Django, Rails, Vue, Ember, Backbone, MySQL, PostgreSQL, MongoDB
+   1. Jangan gunakan: Java / PHP / jQuery / ASP.NET / C #
 1. **Kualitas daripada kuantitas.** Kami menghargai prototipe yang berfungsi, jadi pastikan situs Anda aktif dan berjalan sebelum Anda beralih ke fitur tambahan.
 1. **Menggunakan kembali dan memanfaatkan.** Kami sangat menganjurkan Anda untuk menggunakan kembali karya orang lain, seperti Bootstrap dan Redux. Jangan menemukan kembali roda.
 1. **Self atau cloud host.** Kami akan meminta Anda untuk menjalankan dan menghosting aplikasi Anda selama 1 minggu.
-    1. Server Anda sendiri yang dihosting sendiri.
-    1. Server cloud, mis. AWS, Heroku.
+   1. Server Anda sendiri yang dihosting sendiri.
+   1. Server cloud, mis. AWS, Heroku.
 
 ## Rubrik Ujian
 
@@ -311,26 +311,26 @@ Di bawah ini adalah tautan ke ujian Full Stack, Front-End, dan Back-End Develope
 ## Persiapan Pra-Ujian
 
 > **PENTING:**
-> Kami sangat, SANGAT menyarankan Anda menyiapkan server web langsung dengan halaman web statis kosong (misalnya. Django, Rails, Node.js) ** SEBELUM ** ujian Anda. Ini akan menghemat banyak waktu selama ujian.
+> Kami sangat, SANGAT menyarankan Anda menyiapkan server web langsung dengan halaman web statis kosong (misalnya. Django, Rails, Node.js) **SEBELUM** ujian Anda. Ini akan menghemat banyak waktu selama ujian.
 
 1. Please take a look at a [sample exam]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev_sample.html) before hand.
 1. Harap lihat [contoh ujian]({{site.baseurl}}/{{page.lang}}/recruit webdev_sample.html) sebelumnya.
 1. **Lingkungan Pengembangan.** Siapkan lingkungan pengembangan berbasis linux. Kami merekomendasikan MacOS atau Ubuntu.
-    1. Siapkan JavaScript atau bahasa apa pun yang ingin Anda gunakan.
-    1. Siapkan kerangka web apa pun yang paling Anda kenal (misalnya. Django, Rails, React.js, Express.js)
-    1. Siapkan database yang paling Anda kenal untuk menyimpan data pelanggan. Baik SQL atau tanpa database SQL baik-baik saja.
-    1. Siapkan IDE atau alat pengembang apa pun untuk memaksimalkan efisiensi Anda selama ujian. misalnya Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS, unittest / pyUnit, RSpec.
+   1. Siapkan JavaScript atau bahasa apa pun yang ingin Anda gunakan.
+   1. Siapkan kerangka web apa pun yang paling Anda kenal (misalnya. Django, Rails, React.js, Express.js)
+   1. Siapkan database yang paling Anda kenal untuk menyimpan data pelanggan. Baik SQL atau tanpa database SQL baik-baik saja.
+   1. Siapkan IDE atau alat pengembang apa pun untuk memaksimalkan efisiensi Anda selama ujian. misalnya Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS, unittest / pyUnit, RSpec.
 1. **Self atau Cloud Hosted Test.** Pastikan Anda dapat menghosting halaman web dari kotak pengembangan atau cloud Anda di world wide web.
-    1. Gunakan server cloud atau yang dihosting sendiri, seperti AWS atau [Heroku (GRATIS)](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署網站的手把手教學-bf4fd6f998b8).
-    1. Buka port yang lebih aman dari port yang biasa dipindai (misalnya Port 22)
-    1. Pastikan firewall dikonfigurasi sehingga Anda dapat melihat halaman web Anda di luar area lokal atau jaringan cloud.
+   1. Gunakan server cloud atau yang dihosting sendiri, seperti AWS atau [Heroku (GRATIS)](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署網站的手把手教學-bf4fd6f998b8).
+   1. Buka port yang lebih aman dari port yang biasa dipindai (misalnya Port 22)
+   1. Pastikan firewall dikonfigurasi sehingga Anda dapat melihat halaman web Anda di luar area lokal atau jaringan cloud.
 1. **Akun GitHub atau GitLab.** Pastikan Anda memiliki akun GitHub / GitLab publik yang dapat dihosting kode pengajuan ujian untuk kami evaluasi.
 1. **Cara mempersiapkan.**
-    1. Bersiaplah untuk mengimplementasikan database. (mis., SQL, MongoDB)
-    1. Bersiaplah untuk mengimplementasikan pengembangan front-end dan back-end. Tumpukan yang umum adalah: JS, Express, Node, HTML, CSS, React.
-    1. Tidak ada trik atau asah otak. Anda akan membangun situs web dengan fungsi pengguna dan admin, seperti situs belanja, situs pemesanan, atau situs berita.
-    1. Buat akun Facebook Login dan akun Pengembang Google dan siapkan kunci. Anda perlu menerapkan OAuth untuk pengelolaan login pengguna.
-    1. Pahami cara menghubungkan ke API. misalnya Google Maps, Stripe, SendGrid Email, FireBase.
+   1. Bersiaplah untuk mengimplementasikan database. (mis., SQL, MongoDB)
+   1. Bersiaplah untuk mengimplementasikan pengembangan front-end dan back-end. Tumpukan yang umum adalah: JS, Express, Node, HTML, CSS, React.
+   1. Tidak ada trik atau asah otak. Anda akan membangun situs web dengan fungsi pengguna dan admin, seperti situs belanja, situs pemesanan, atau situs berita.
+   1. Buat akun Facebook Login dan akun Pengembang Google dan siapkan kunci. Anda perlu menerapkan OAuth untuk pengelolaan login pengguna.
+   1. Pahami cara menghubungkan ke API. misalnya Google Maps, Stripe, SendGrid Email, FireBase.
 
 ## Cara Mengirim
 

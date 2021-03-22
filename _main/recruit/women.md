@@ -3,19 +3,18 @@ layout: default
 title: 性別平等就業機會
 description: Equal Opportunity Employment
 locales:
-    zh-tw:
-        title: 性別平等就業機會
-        description: 尊重員工是成功的關鍵
-    zh-cn:
-        title: 性別平等就业机会
-        description: 尊重员工是成功的关键
-
-    en:
-        title: Equal Opportunity Employment
-        description: "Equal opportunities for all."
-    id:
-         title: Kesempatan Kerja yang Sama
-        description: "Kesempatan yang sama untuk semua".
+  zh-tw:
+    title: 性別平等就業機會
+    description: 尊重員工是成功的關鍵
+  zh-cn:
+    title: 性別平等就业机会
+    description: 尊重员工是成功的关键
+  en:
+    title: Equal Opportunity Employment
+    description: "Equal opportunities for all."
+  id:
+    title: Kesempatan Kerja yang Sama
+    description: "Kesempatan yang sama untuk semua"
 ---
 
 <a name="zh-tw"></a>

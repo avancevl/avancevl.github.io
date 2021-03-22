@@ -1,6 +1,6 @@
 # AVL Handbook | All Remote Startup Accelerator
 
-> https://avancevl.github.io/
+> <https://avancevl.github.io/>
 
 <br>
 
@@ -28,15 +28,15 @@ We want to work with talented individuals and are **always actively hiring**.
 
 We welcome feedback.
 
--   Please make a [pull request](https://github.com/avancevl/avancevl.github.io/pull/new/master) to suggest improvements or add clarification.
--   Please create a [issue](https://github.com/avancevl/avancevl.github.io/issues/new) to ask questions.
+- Please make a [pull request](https://github.com/avancevl/avancevl.github.io/pull/new/master) to suggest improvements or add clarification.
+- Please create a [issue](https://github.com/avancevl/avancevl.github.io/issues/new) to ask questions.
 
 ## Community
 
 Help us support the open source, startup, developer communites in Taiwan by following:
 
--   [Startup Jobs Taiwan :rocket:](https://021tw.github.io/)
--   [Full Stack Developers Taiwan :star:](https://stacktw.github.io/)
+- [Startup Jobs Taiwan :rocket:](https://021tw.github.io/)
+- [Full Stack Developers Taiwan :star:](https://stacktw.github.io/)
 
 <br>
 
@@ -46,32 +46,36 @@ Help us support the open source, startup, developer communites in Taiwan by foll
 
 1. Install Homebrew
 
-    ```
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-    ```
+   ```
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   ```
 
 1. Install the latest version of Python3.
-    ```
-    brew install python
-    ```
+
+   ```
+   brew install python
+   ```
+
 1. Install `pip`.
-    1. `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
-    1. `python3 get-pip.py`
+   1. `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+   1. `python3 get-pip.py`
 1. Install Python packages.
-    1. `pip install beautifulsoup4`
-    1. `pip install python-frontmatter`
+   1. `pip install beautifulsoup4`
+   1. `pip install python-frontmatter`
 
 ## Environment build on Windows
 
-1. Pythone website download and install the latest version of Python3. https://www.python.org/downloads/
+1. Pythone website download and install the latest version of Python3. <https://www.python.org/downloads/>
 
 2. Installing `pip`
-    ```
-    python get-pip.py
-    ```
+
+   ```
+   python get-pip.py
+   ```
+
 3. Install Python packages.
-    1. `pip install beautifulsoup4`
-    2. `pip install python-frontmatter`
+   1. `pip install beautifulsoup4`
+   2. `pip install python-frontmatter`
 
 ## Edit markdown and build
 
@@ -148,3 +152,5 @@ Set layout language file `language.yml` in \_data folder, if there is no setting
         FOLLOW_US: Follow Us
         CONTACT_US: Contact Us
         TITLE_AVL: AVL Handbook
+
+##

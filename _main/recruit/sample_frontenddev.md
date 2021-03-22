@@ -3,34 +3,34 @@ layout: default
 title: 前端測驗樣本
 description: Front-End Sample Exam
 locales:
-    zh-tw:
-        title: 前端測驗樣本
-        description: 前端測驗樣本
-    zh-cn:
-        title: 前端测验样本
-        description: 前端测验样本
-    en:
-        title: Front-End Sample Exam
-				description: "Take-Home"
-		id:
-			  title: Contoh Ujian Front-End
-				description: "Bawa Pulang"
+  zh-tw:
+    title: 前端測驗樣本
+    description: 前端測驗樣本
+  zh-cn:
+    title: 前端测验样本
+    description: 前端测验样本
+  en:
+    title: Front-End Sample Exam
+    description: "Take-Home"
+  id:
+    title: Contoh Ujian Front-End
+    description: "Bawa Pulang"
 ---
-
 
 <a name="zh-tw"></a>
 
 <br>
 
-[立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="\_blank"}
 [檢閱考試指示]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
 [測驗分數評估]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 ## 考試
 
 請實作依照設計圖**像素完美**桌面及手機前端介面。
-* 必使用**React.js, Flexbox, 及React UI 零件架構。**
-* 必使用static page方式（無後端）在**Firebase**或其他架構上架。
+
+- 必使用**React.js, Flexbox, 及 React UI 零件架構。**
+- 必使用 static page 方式（無後端）在**Firebase**或其他架構上架。
 
 ### 桌面介面
 
@@ -42,48 +42,48 @@ locales:
 
 ## 需求規範
 
-1. **RWD.** 桌面及手機Responsive Web Design。
+1. **RWD.** 桌面及手機 Responsive Web Design。
 1. 必使用**JavaScript.**
 1. 必使用 **React.js.**
-1. 必使用 **CSS Flexbox
+1. 必使用 \*\*CSS Flexbox
 1. 必使用**React UI framework**，從以下賽選：
-	1. Material UI
-	1. Semantic UI
-	1. React Bootstrap
-	1. React Toolbox
-	1. Elemental UI
-1. **必使用static page方式（無後端）在雲端架構上架。**
-	1. 請用雲端架構 Heroku, Firebase, ZEIT, 或 Netilfy 上架static page。
-	1. 這不是後端測驗，所以網頁和使用者互動全在前端實作。
+1. Material UI
+1. Semantic UI
+1. React Bootstrap
+1. React Toolbox
+1. Elemental UI
+1. **必使用 static page 方式（無後端）在雲端架構上架。**
+1. 請用雲端架構 Heroku, Firebase, ZEIT, 或 Netilfy 上架 static page。
+1. 這不是後端測驗，所以網頁和使用者互動全在前端實作。
 
 ## 重要提醒
 
-> * 我們並不期望你完整開發每個功能。重點不是要全部 “做完”，是要查看有嘗試部分的能力、進度，盡力而為就可以。
-> * 請使用 GitHub/GitLab.
-> * 這份線上測驗分數會決定您的職級與薪資範圍。每個網頁功能有分數。請必定要交卷。
-> * 2.5小時到時：
->   * 有開發多少，就交卷多少，考試並沒有所謂的 “完成”。
->   * 請必定要上架，並提供網頁 URL.
->	* 請填寫測驗完成表格 [Exam Submission Form]({{ site.exam_submit_form_url }}).
+> - 我們並不期望你完整開發每個功能。重點不是要全部 “做完”，是要查看有嘗試部分的能力、進度，盡力而為就可以。
+> - 請使用 GitHub/GitLab.
+> - 這份線上測驗分數會決定您的職級與薪資範圍。每個網頁功能有分數。請必定要交卷。
+> - 2.5 小時到時：
+>   - 有開發多少，就交卷多少，考試並沒有所謂的 “完成”。
+>   - 請必定要上架，並提供網頁 URL.
+> - 請填寫測驗完成表格 [Exam Submission Form]({{ site.exam_submit_form_url }}).
 
 ## 考題大綱
 
 1. 像素完美在一下狀態：
-	1. 桌面（Chrome）
-	1. 手機（Android, iOS）
-	1. 沒設計圖的狀態
+1. 桌面（Chrome）
+1. 手機（Android, iOS）
+1. 沒設計圖的狀態
 1. 效果
-	1. Hover
-	1. Selection
-	1. Disable
+1. Hover
+1. Selection
+1. Disable
 1. 鍵盤及滑鼠動作
 
-| 滿分 | 網頁功能 |
-| --- | --- |
-| 50 | 數據輸入格 |
-| 50 | 圈圈表格及數據介面 |
-| 60 | 選項介面（每種選項型20分） |
-| 40 | 主頁及Hashtags |
+| 滿分 | 網頁功能                     |
+| ---- | ---------------------------- |
+| 50   | 數據輸入格                   |
+| 50   | 圈圈表格及數據介面           |
+| 60   | 選項介面（每種選項型 20 分） |
+| 40   | 主頁及 Hashtags              |
 
 [測驗分數評估]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
@@ -93,11 +93,11 @@ locales:
 
 ### 1. 數據輸入格
 
-* 限制輸入數字 (0-9), 逗點 (.), 及符號 (/)
-* 不行用左右鍵往前後
-* 不行用滑鼠點輸入格
-* 鍵盤自動專注在輸入格，不需點輸入格
-* "Press Enter" 文字及 "Submit" 會在有輸入數字時出現
+- 限制輸入數字 (0-9), 逗點 (.), 及符號 (/)
+- 不行用左右鍵往前後
+- 不行用滑鼠點輸入格
+- 鍵盤自動專注在輸入格，不需點輸入格
+- "Press Enter" 文字及 "Submit" 會在有輸入數字時出現
 
 <img src='https://lh3.googleusercontent.com/ox5SLTTaUphHmgJiyjktWSEvtiw14pCxqL151hVq27BQbfuc2ur7X5B0UoFnIUwI6tGlxbKCD8WyGG1iszRx1h3JJBDDl9fFYEh2UXDIALI4JpIMmf24qqghg27Kp4hkt2Ed9qFUcQ=w386' />
 
@@ -105,8 +105,8 @@ locales:
 
 ### 2. 圈圈表格及數據介面
 
-* 桌面和手機介面像素完美
-* 不能只是個畫面，需要跟著數據變動
+- 桌面和手機介面像素完美
+- 不能只是個畫面，需要跟著數據變動
 
 #### 桌面介面
 
@@ -118,11 +118,11 @@ locales:
 
 ### 3. 選項介面
 
-* 桌面和手機介面像素完美
-* 三種選項
-	* 簡易選項
-	* 多選項
-	* 點勾選項
+- 桌面和手機介面像素完美
+- 三種選項
+  - 簡易選項
+  - 多選項
+  - 點勾選項
 
 #### 簡易選項
 
@@ -142,9 +142,9 @@ locales:
 
 <img src='https://lh3.googleusercontent.com/8HvHKaJr974UaC8OcbBfsL-VJGIELAvEmnGJBucCbLHK3kTvIdUXIErRK2yYn62YkVyC_k2dW-22w3SbyCM-hDXKNvQlntZzhw4MrlJqhrAXLfjGCR8qkJvOU6KLTz4cLiQizWp_Fw=w376' />
 
-### 4. 主頁及Hashtags
+### 4. 主頁及 Hashtags
 
-* 桌面和手機介面像素完美
+- 桌面和手機介面像素完美
 
 #### 桌面介面
 
@@ -154,23 +154,22 @@ locales:
 
 <img src='https://lh3.googleusercontent.com/wcVF6A927hu43l1qtovepnmX-q7eQLjqwDfFSKnhqyl9mssrHnGKfdF3DzFk-HwJfybf1YVpSLqfk5SaYV6qtIMeivjkDiNiXJZltYqu3543svDGmjOHVaMw8R8KqAawvgm9oREf6A=w310' />
 
-
 <br>
 
 <a name="zh-cn"></a>
 
 <br>
 
-[立即申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[立即申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="\_blank"}
 [检阅考试指示]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
 [测验分数评估]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 ## 考试
 
 请实作依照设计图**像素完美**桌面及手机前端介面。
-* 必使用**React.js, Flexbox, 及React UI 零件架构。 **
-* 必使用static page方式（无后端）在**Firebase**或其他架构上架。
 
+- 必使用**React.js, Flexbox, 及 React UI 零件架构。**
+- 必使用 static page 方式（无后端）在**Firebase**或其他架构上架。
 
 ### 桌面介面
 
@@ -182,29 +181,29 @@ locales:
 
 ## 需求规范
 
-1. **RWD.** 桌面及手机Responsive Web Design。
+1. **RWD.** 桌面及手机 Responsive Web Design。
 1. 必使用**JavaScript.**
 1. 必使用 **React.js.**
-1. 必使用 **CSS Flexbox
+1. 必使用 \*\*CSS Flexbox
 1. 必使用**React UI framework**，从以下赛选：
 1. Material UI
 1. Semantic UI
 1. React Bootstrap
 1. React Toolbox
 1. Elemental UI
-1. **必使用static page方式（无后端）在云端架构上架。 **
-1. 请用云端架构 Heroku, Firebase, ZEIT, 或 Netilfy 上架static page。
+1. **必使用 static page 方式（无后端）在云端架构上架。**
+1. 请用云端架构 Heroku, Firebase, ZEIT, 或 Netilfy 上架 static page。
 1. 这不是后端测验，所以网页和使用者互动全在前端实作。
 
 ## 重要提醒
 
-> * 我们并不期望你完整开发每个功能。重点不是要全部 “做完”，是要查看有尝试部分的能力、进度，尽力而为就可以。
-> * 请使用 GitHub/GitLab.
-> * 这份线上测验分数会决定您的职级与薪资范围。每个网页功能有分数。请必定要交卷。
-> * 2.5小时到时：
-> * 有开发多少，就交卷多少，考试并没有所谓的 “完成”。
-> * 请必定要上架，并提供网页 URL.
-> * 请填写测验完成表格 [Exam Submission Form]({{ site.exam_submit_form_url }}).
+> - 我们并不期望你完整开发每个功能。重点不是要全部 “做完”，是要查看有尝试部分的能力、进度，尽力而为就可以。
+> - 请使用 GitHub/GitLab.
+> - 这份线上测验分数会决定您的职级与薪资范围。每个网页功能有分数。请必定要交卷。
+> - 2.5 小时到时：
+> - 有开发多少，就交卷多少，考试并没有所谓的 “完成”。
+> - 请必定要上架，并提供网页 URL.
+> - 请填写测验完成表格 [Exam Submission Form]({{ site.exam_submit_form_url }}).
 
 ## 考题大纲
 
@@ -218,12 +217,12 @@ locales:
 1. Disable
 1. 键盘及滑鼠动作
 
-| 满分 | 网页功能 |
-| --- | --- |
-| 50 | 数据输入格 |
-| 50 | 圈圈表格及数据介面 |
-| 60 | 选项介面（每种选项型20分） |
-| 40 | 主页及Hashtags |
+| 满分 | 网页功能                     |
+| ---- | ---------------------------- |
+| 50   | 数据输入格                   |
+| 50   | 圈圈表格及数据介面           |
+| 60   | 选项介面（每种选项型 20 分） |
+| 40   | 主页及 Hashtags              |
 
 [测验分数评估]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
@@ -233,11 +232,11 @@ locales:
 
 ### 1. 数据输入格
 
-* 限制输入数字 (0-9), 逗点 (.), 及符号 (/)
-* 不行用左右键往前后
-* 不行用滑鼠点输入格
-* 键盘自动专注在输入格，不需点输入格
-* "Press Enter" 文字及 "Submit" 会在有输入数字时出现
+- 限制输入数字 (0-9), 逗点 (.), 及符号 (/)
+- 不行用左右键往前后
+- 不行用滑鼠点输入格
+- 键盘自动专注在输入格，不需点输入格
+- "Press Enter" 文字及 "Submit" 会在有输入数字时出现
 
 <img src='https://lh3.googleusercontent.com/ox5SLTTaUphHmgJiyjktWSEvtiw14pCxqL151hVq27BQbfuc2ur7X5B0UoFnIUwI6tGlxbKCD8WyGG1iszRx1h3JJBDDl9fFYEh2UXDIALI4JpIMmf24qqghg27Kp4hkt2Ed9qFUcQ=w386' />
 
@@ -245,8 +244,8 @@ locales:
 
 ### 2. 圈圈表格及数据介面
 
-* 桌面和手机介面像素完美
-* 不能只是个画面，需要跟着数据变动
+- 桌面和手机介面像素完美
+- 不能只是个画面，需要跟着数据变动
 
 #### 桌面介面
 
@@ -258,11 +257,11 @@ locales:
 
 ### 3. 选项介面
 
-* 桌面和手机介面像素完美
-* 三种选项
-* 简易选项
-* 多选项
-* 点勾选项
+- 桌面和手机介面像素完美
+- 三种选项
+- 简易选项
+- 多选项
+- 点勾选项
 
 #### 简易选项
 
@@ -282,9 +281,9 @@ locales:
 
 <img src='https://lh3.googleusercontent.com/8HvHKaJr974UaC8OcbBfsL-VJGIELAvEmnGJBucCbLHK3kTvIdUXIErRK2yYn62YkVyC_k2dW-22w3SbyCM-hDXKNvQlntZzhw4MrlJqhrAXLfjGCR8qkJvOU6KLTz4cLiQizWp_Fw=w376' />
 
-### 4. 主页及Hashtags
+### 4. 主页及 Hashtags
 
-* 桌面和手机介面像素完美
+- 桌面和手机介面像素完美
 
 #### 桌面介面
 
@@ -300,15 +299,16 @@ locales:
 
 <br>
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="\_blank"}
 [View Instructions]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
 [View Rubric]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 ## Exam
 
 Please build a **pixel-perfect** interactive desktop and mobile browser front-end of the following design mockups.
-* Must use **React.js, Flexbox, and a React UI component library framework.**
-* Host as static pages (no back-end) on **Firebase** or alternative free solution.
+
+- Must use **React.js, Flexbox, and a React UI component library framework.**
+- Host as static pages (no back-end) on **Firebase** or alternative free solution.
 
 ### Desktop UI
 
@@ -325,42 +325,42 @@ Please build a **pixel-perfect** interactive desktop and mobile browser front-en
 1. Must use **React.js.**
 1. Must use **CSS Flexbox**
 1. Must use a **React UI framework** from this list:
-	1. Material UI
-	1. Semantic UI
-	1. React Bootstrap
-	1. React Toolbox
-	1. Elemental UI
+1. Material UI
+1. Semantic UI
+1. React Bootstrap
+1. React Toolbox
+1. Elemental UI
 1. **Must host your site as a live static page.**
-	1. Please use a free hosting service like Heroku, Firebase, ZEIT, or Netilfy to host your site as a live static page.
-	1. This is a not a back-end exam. The web page interactions should all be client side.
+1. Please use a free hosting service like Heroku, Firebase, ZEIT, or Netilfy to host your site as a live static page.
+1. This is a not a back-end exam. The web page interactions should all be client side.
 
 ## Reminders
 
-> * We'd rather you do a few features well, rather than all the features poorly.
-> * Please be sure to upload code to GitHub/GitLab.
-> * At the 2.5-hour mark:
->   * Please submit however much you've completed, regardless of whether you've finished or not.
->   * Make sure your site is live, and submit URL.
->	* Make sure to complete [Exam Submission Form]({{ site.exam_submit_form_url }}).
+> - We'd rather you do a few features well, rather than all the features poorly.
+> - Please be sure to upload code to GitHub/GitLab.
+> - At the 2.5-hour mark:
+>   - Please submit however much you've completed, regardless of whether you've finished or not.
+>   - Make sure your site is live, and submit URL.
+> - Make sure to complete [Exam Submission Form]({{ site.exam_submit_form_url }}).
 
 ## Features Rubric
 
 1. Pixel perfect on:
-	1. Desktop (Chrome)
-	1. Mobile (Android, iOS)
-	1. Fill in gaps not in the design mockups in a polished manner
+1. Desktop (Chrome)
+1. Mobile (Android, iOS)
+1. Fill in gaps not in the design mockups in a polished manner
 1. Effects
-	1. Hover
-	1. Selection
-	1. Disable
+1. Hover
+1. Selection
+1. Disable
 1. Keyboard and mouse events
 
-| Score | Feature |
-| --- | --- |
-| 50 | Numbers Entry Box |
-| 50 | Radial Chart and Stats Pane |
-| 60 | Search Filters and Dropdown Menu (20 pts per type of selector) |
-| 40 | Main Pane and Hashtags |
+| Score | Feature                                                        |
+| ----- | -------------------------------------------------------------- |
+| 50    | Numbers Entry Box                                              |
+| 50    | Radial Chart and Stats Pane                                    |
+| 60    | Search Filters and Dropdown Menu (20 pts per type of selector) |
+| 40    | Main Pane and Hashtags                                         |
 
 [View Exam Rubric]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
@@ -370,11 +370,11 @@ Choose any of the following features to implement. There are no required orderin
 
 ### 1. Numbers Entry Box
 
-* Only numbers (0-9), period (.), and backslash (/) allowed in the numbers box.
-* Right and left arrows disable for numbers box.
-* Clicking disabled for numbers box.
-* Keyboard is automatically in focus on the numbers box on page load. No need to click on numbers box to bring it in focus.
-* "Press Enter" text and "Submit" button becomes enabled only when numbers are entered into numbers box.
+- Only numbers (0-9), period (.), and backslash (/) allowed in the numbers box.
+- Right and left arrows disable for numbers box.
+- Clicking disabled for numbers box.
+- Keyboard is automatically in focus on the numbers box on page load. No need to click on numbers box to bring it in focus.
+- "Press Enter" text and "Submit" button becomes enabled only when numbers are entered into numbers box.
 
 <img src='https://lh3.googleusercontent.com/ox5SLTTaUphHmgJiyjktWSEvtiw14pCxqL151hVq27BQbfuc2ur7X5B0UoFnIUwI6tGlxbKCD8WyGG1iszRx1h3JJBDDl9fFYEh2UXDIALI4JpIMmf24qqghg27Kp4hkt2Ed9qFUcQ=w386' />
 
@@ -382,8 +382,8 @@ Choose any of the following features to implement. There are no required orderin
 
 ### 2. Radial Chart and Stats Pane
 
-* Pixel perfect desktop and mobile
-* Not a static image, but real chart that could update if page is connected to server side.
+- Pixel perfect desktop and mobile
+- Not a static image, but real chart that could update if page is connected to server side.
 
 #### Desktop UI
 
@@ -395,11 +395,11 @@ Choose any of the following features to implement. There are no required orderin
 
 ### 3. Search Filters and Dropdown Menu
 
-* Pixel perfect desktop and mobile
-* 3 types of filters
-	* Simple Selector
-	* Multiple Selector
-	* Checkboxes
+- Pixel perfect desktop and mobile
+- 3 types of filters
+  - Simple Selector
+  - Multiple Selector
+  - Checkboxes
 
 #### Simple Selector
 
@@ -421,7 +421,7 @@ Choose any of the following features to implement. There are no required orderin
 
 ### 4. Main Pane and Hashtags
 
-* Pixel perfect desktop and mobile
+- Pixel perfect desktop and mobile
 
 #### Destkop UI
 
@@ -431,22 +431,22 @@ Choose any of the following features to implement. There are no required orderin
 
 <img src='https://lh3.googleusercontent.com/wcVF6A927hu43l1qtovepnmX-q7eQLjqwDfFSKnhqyl9mssrHnGKfdF3DzFk-HwJfybf1YVpSLqfk5SaYV6qtIMeivjkDiNiXJZltYqu3543svDGmjOHVaMw8R8KqAawvgm9oREf6A=w310' />
 
-
 <br>
 
 <a name="id"></a>
 
 <br>
 
-[Daftar Sekarang]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Daftar Sekarang]({{ site.job_form_url }}){: .btn#page-btn}{:target="\_blank"}
 [Lihat Instruksi]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
 [Lihat Rubrik]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 ## Ujian
 
 Harap buat antarmuka desktop interaktif **sempurna-piksel** dan browser seluler dari mockup desain berikut.
-* Harus menggunakan **React.js, Flexbox, dan kerangka pustaka komponen React UI.**
-* Hosting sebagai halaman statis (tanpa back-end) di **Firebase** atau solusi gratis alternatif.
+
+- Harus menggunakan **React.js, Flexbox, dan kerangka pustaka komponen React UI.**
+- Hosting sebagai halaman statis (tanpa back-end) di **Firebase** atau solusi gratis alternatif.
 
 ### Desktop UI
 
@@ -463,43 +463,42 @@ Harap buat antarmuka desktop interaktif **sempurna-piksel** dan browser seluler 
 1. Harus menggunakan **React.js.**
 1. Harus menggunakan **CSS Flexbox**
 1. Harus menggunakan **kerangka UI React** dari daftar ini:
-	1. Material UI
-	1. Semantic UI
-	1. React Bootstrap
-	1. React Toolbox
-	1. Elemental UI
+1. Material UI
+1. Semantic UI
+1. React Bootstrap
+1. React Toolbox
+1. Elemental UI
 1. **Harus menghosting situs Anda sebagai halaman statis langsung.**
 1. Gunakan layanan hosting gratis seperti Heroku, Firebase, ZEIT, atau Netilfy untuk menghosting situs Anda sebagai halaman statis langsung.
 1. Ini bukan ujian back-end. Interaksi halaman web semuanya harus dari sisi klien.
 
 ## Pengingat
 
-> * Kami lebih suka Anda melakukan beberapa fitur dengan baik, daripada semua fitur dengan buruk.
-> * Harap pastikan untuk mengunggah kode ke GitHub / GitLab.
-> * Pada tanda 2,5 jam:
-> * Harap kirimkan sebanyak apa pun yang telah Anda selesaikan, terlepas dari apakah Anda telah selesai atau belum.
-> * Pastikan situs Anda aktif, dan kirimkan URL.
-> * Pastikan untuk melengkapi [Formulir Pengiriman Ujian] ({{site.exam_submit_form_url}}).
+> - Kami lebih suka Anda melakukan beberapa fitur dengan baik, daripada semua fitur dengan buruk.
+> - Harap pastikan untuk mengunggah kode ke GitHub / GitLab.
+> - Pada tanda 2,5 jam:
+> - Harap kirimkan sebanyak apa pun yang telah Anda selesaikan, terlepas dari apakah Anda telah selesai atau belum.
+> - Pastikan situs Anda aktif, dan kirimkan URL.
+> - Pastikan untuk melengkapi [Formulir Pengiriman Ujian] ({{site.exam_submit_form_url}}).
 
 ## Menampilkan Rubrik
 
 1. Pixel perfect pada:
-	1. Desktop (Chrome)
-	1. Seluler (Android, iOS)
-	1. Isi celah, bukan pada maket desain dengan cara yang dipoles
+1. Desktop (Chrome)
+1. Seluler (Android, iOS)
+1. Isi celah, bukan pada maket desain dengan cara yang dipoles
 1. Efek
-	1. Hover
-	1. Selection
-	1. Disable
+1. Hover
+1. Selection
+1. Disable
 1. Keyboard and mouse events
 
-
-| Skor | Fiture |
-| --- | --- |
-| 50 | Nomor Kotak Masuk |
-| 50 | Diagram Radial dan Panel Statistik |
-| 60 | Filter Pencarian dan Menu Dropdown (20 poin per jenis selektor)|
-| 40 | Panel Utama dan Hashtag |
+| Skor | Fiture                                                          |
+| ---- | --------------------------------------------------------------- |
+| 50   | Nomor Kotak Masuk                                               |
+| 50   | Diagram Radial dan Panel Statistik                              |
+| 60   | Filter Pencarian dan Menu Dropdown (20 poin per jenis selektor) |
+| 40   | Panel Utama dan Hashtag                                         |
 
 [Lihat Rubrik Ujian]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
@@ -509,11 +508,11 @@ Pilih salah satu fitur berikut untuk diterapkan. Tidak ada pemesanan yang diperl
 
 ### 1. Nomor Kotak Masuk
 
-* Hanya angka (0-9), titik (.), Dan garis miring terbalik (/) yang diperbolehkan dalam kotak angka.
-* Panah kanan dan kiri dinonaktifkan untuk kotak angka.
-* Mengklik dinonaktifkan untuk kotak angka.
-* Keyboard secara otomatis fokus pada kotak angka pada pemuatan halaman. Tidak perlu mengklik kotak angka untuk memfokuskannya.
-* Teks "Tekan Enter" dan tombol "Kirim" menjadi aktif hanya jika angka dimasukkan ke kotak angka.
+- Hanya angka (0-9), titik (.), Dan garis miring terbalik (/) yang diperbolehkan dalam kotak angka.
+- Panah kanan dan kiri dinonaktifkan untuk kotak angka.
+- Mengklik dinonaktifkan untuk kotak angka.
+- Keyboard secara otomatis fokus pada kotak angka pada pemuatan halaman. Tidak perlu mengklik kotak angka untuk memfokuskannya.
+- Teks "Tekan Enter" dan tombol "Kirim" menjadi aktif hanya jika angka dimasukkan ke kotak angka.
 
 <img src='https://lh3.googleusercontent.com/ox5SLTTaUphHmgJiyjktWSEvtiw14pCxqL151hVq27BQbfuc2ur7X5B0UoFnIUwI6tGlxbKCD8WyGG1iszRx1h3JJBDDl9fFYEh2UXDIALI4JpIMmf24qqghg27Kp4hkt2Ed9qFUcQ=w386' />
 
@@ -521,8 +520,8 @@ Pilih salah satu fitur berikut untuk diterapkan. Tidak ada pemesanan yang diperl
 
 ### 2. Diagram Radial dan Panel Statistik
 
-* Pixel desktop dan seluler yang sempurna
-* Bukan gambar statis, tetapi grafik nyata yang dapat diperbarui jika halaman terhubung ke sisi server.
+- Pixel desktop dan seluler yang sempurna
+- Bukan gambar statis, tetapi grafik nyata yang dapat diperbarui jika halaman terhubung ke sisi server.
 
 #### Desktop UI
 
@@ -534,11 +533,11 @@ Pilih salah satu fitur berikut untuk diterapkan. Tidak ada pemesanan yang diperl
 
 ### 3. Filter Pencarian dan Menu Dropdown
 
-* Pixel desktop dan seluler yang sempurna
-* 3 jenis filter
-  * Pemilih Sederhana
-  * Beberapa Selector
-  * Kotak centang
+- Pixel desktop dan seluler yang sempurna
+- 3 jenis filter
+  - Pemilih Sederhana
+  - Beberapa Selector
+  - Kotak centang
 
 #### Pemilih Sederhana
 
@@ -560,7 +559,7 @@ Pilih salah satu fitur berikut untuk diterapkan. Tidak ada pemesanan yang diperl
 
 ### 4. Panel Utama dan Hashtag
 
-* Pixel desktop dan seluler yang sempurna
+- Pixel desktop dan seluler yang sempurna
 
 #### UI Desktop
 

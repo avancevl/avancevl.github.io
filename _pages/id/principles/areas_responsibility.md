@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Areas of Responsibility
+title: Area Tanggung Jawab
 lang: id
-description: Who is responsible for what.
+description: Siapa yang bertanggung jawab untuk apa.
 ---
 
 
 
-## Management Responsibilities
+## Tanggung Jawab Manajemen
 
-| Area | Responsiblities | Owner |
+| Area | Tanggung Jawab | Pemilik |
 | --- | --- | --- |
-| Customer | Feedback, support, interviews | {{ site.user_d }} |
+| Kustomer | Feedback, support, interviews | {{ site.user_d }} |
 | Growth | Marketing, sales, channel | {{ site.user_g }} |
-| Product | Signups, strategy, TA | {{ site.user_d }}, {{ site. user_g }} |
+| Product | Daftar, Strategi, TA | {{ site.user_d }}, {{ site. user_g }} |
 | Engineering | QC, production | {{ site.user_g }} |
-| HR | Recruiting, office | {{ site.user_d }} |
-| Admin | Fundraising, accounting, legal | {{ site.user_d }}, {{ site.user_g }} |
+| HR | Perekrutan, office | {{ site.user_d }} |
+| Admin | Penggalangan dana, akuntansi, hukum | {{ site.user_d }}, {{ site.user_g }} |

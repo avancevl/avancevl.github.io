@@ -1,91 +1,92 @@
 ---
 layout: default
-title: Students & New Graduates
+title: Mahasiswa & Lulusan Baru
 lang: id
-description: No experience required.
+description: Tidak perlu punya pengalaman.
 ---
 
 
 
-## **Mentored Intern Training MIT Program**
+## ** Program MIT Pelatihan Magang yang Dibimbing **
 
-> Do important work.
-> Create meaningful impact.
+> Lakukan pekerjaan penting.
+> Ciptakan dampak yang berarti.
 
-## For college students and recent graduates.
+## Untuk mahasiswa dan lulusan baru.
 
-Companies often treat interns as free labor for non-vital projects’ non-vital parts. We disagree.
+Perusahaan sering memperlakukan pekerja magang sebagai tenaga kerja gratis untuk bagian non-vital proyek non-vital. Kami tidak setuju.
 
-We believe that there are many smart and determined college students who get overlooked. At AVL, we do not penalize what university you go to, a lack of work experience, or not having a connection at a company.
+Kami percaya bahwa ada banyak mahasiswa yang cerdas dan teguh yang diabaikan. Di AVL, kami tidak menghukum universitas mana yang Anda masuki, kurangnya pengalaman kerja, atau tidak memiliki koneksi di perusahaan.
 
-We value talented individuals’ ability to contribution, no matter their background or experience. We actively provide opportunities to students who have proven to be good at executing on them.
+Kami menghargai kemampuan individu bertalenta untuk berkontribusi, apa pun latar belakang atau pengalaman mereka. Kami secara aktif memberikan kesempatan kepada siswa yang telah terbukti pandai melaksanakannya.
 
-If you’re intelligent, proactive, and hardworking, we want the opportunity to work with you.
-
-<br>
-
-## Solve real challenges. Help real people.
-
-> Interns have the opportunity to own projects that directly and positively affect our business. 
-
-Every intern receives mentorship and works on important technical challenges. Our internship is not intended to simulate working with us; you will be working as a respected peer. This means we expect you to perform as our full-time employees.
-
-Project demo days, speaker series, team-building events, and community engagement are designed to give you as much experience and exposure as possible, as a real employee.
-
-At AVL, you will:
-
-### EXPERIENCE REAL WORK
-
-Learn the practical skills employers want.
-
-Do real startup work, create real production code. No wasted effort or “sample projects”.
-
-### LEARN TO BUILD A LEAN STARTUP
-
-1. Gain real world experience working with the latest technology, tools, and the most robust software development and product management processes.
-1. Learn how to make integrated business decisions, conduct meetings, and present effectively.
-1. Learn non-engineering skills like marketing, sales, and analytics techniques necessary to run a business. 
-
-### HAVE OWNERSHIP
-
-You will get complete ownership of your own critical projects. You will be assigned personal OKRs and KPIs on weekly and monthly basis. 
-
-### RECEIVE MENTORSHIP AND CAREER DEVELOPMENT
-
-Regular coaching feedback from Stanford and MIT alumni. Get real experiences to develop your future career direction. 
-
-### RECEIVE COMPENSATION
-
-You will receive compensation based on OKR performance as bonus, scholarship, or stipend.
+Jika Anda cerdas, proaktif, dan pekerja keras, kami menginginkan kesempatan untuk bekerja dengan Anda.
 
 <br>
 
-## MIT PROGRAM
+## Pecahkan tantangan nyata. Bantu orang yang nyata.
 
-This is your opportunity to contribute in a startup. You will be challenged. You are expected to execute excellent results. If you’re proactive, hardworking, and highly skilled,
+> Magang memiliki kesempatan untuk memiliki proyek yang secara langsung dan positif mempengaruhi bisnis kita.
 
-[Join Us]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
+Setiap magang menerima bimbingan dan mengerjakan tantangan teknis penting. Magang kami tidak dimaksudkan untuk mensimulasikan bekerja dengan kami; Anda akan bekerja sebagai rekan yang dihormati. Ini berarti kami mengharapkan Anda untuk bekerja sebagai karyawan penuh waktu kami.
 
-#### How long are the internships?
+Hari demo proyek, rangkaian pembicara, acara pembangunan tim, dan keterlibatan komunitas dirancang untuk memberi Anda pengalaman dan eksposur sebanyak mungkin, sebagai karyawan sungguhan.
 
-We offer flexible internship lengths at a 12 week minimum.
+Di AVL, Anda akan:
 
-#### Who can apply?
+### PENGALAMAN BEKERJA NYATA
 
-We look for hardworking students who can contribute as software programmers.
+Pelajari keterampilan praktis yang diinginkan pemberi kerja.
 
-#### Do you hire interns after graduation?
-​
-A major purpose of our internship program is to give you the opportunity to explore whether you’d like to work with us full-time post-graduation. We hire many former interns. We also hire many new graduates who did not intern with us.
+Lakukan pekerjaan startup nyata, buat kode produksi nyata. Tidak ada usaha yang terbuang atau "proyek contoh".
 
-#### Where is the internship?
+### PELAJARI MEMBANGUN LEAN STARTUP
 
-​We allow remote working, with regular in-person meetings and events.
+1. Dapatkan pengalaman dunia nyata bekerja dengan teknologi terbaru, alat bantu, dan pengembangan perangkat lunak serta proses manajemen produk yang paling canggih.
+1. Pelajari bagaimana membuat keputusan bisnis terintegrasi, melakukan pertemuan, dan presentasi secara efektif.
+1. Pelajari keterampilan non-teknik seperti pemasaran, penjualan, dan teknik analitik yang diperlukan untuk menjalankan bisnis.
 
-#### When do you hire interns?
 
-We offer year-round internships, though summer is the most popular. We hire on a rolling basis, offering flexible work hours.
+### MEMILIKI KEPEMILIKAN
 
-#### How are interns placed on teams?
+Anda akan mendapatkan kepemilikan penuh atas proyek penting Anda sendiri. Anda akan diberikan OKR dan KPI pribadi setiap minggu dan setiap bulan.
 
-​We look at your background and preferences, factor in team bandwidth, and then assign you a team that will be the best fit for everyone involved.
+### MENERIMA MENTORSHIP DAN PENGEMBANGAN KARIR
+
+Umpan balik pembinaan rutin dari Stanford dan alumni MIT. Dapatkan pengalaman nyata untuk mengembangkan arah karir masa depan Anda.
+
+### TERIMA KOMPENSASI
+
+Anda akan menerima kompensasi berdasarkan kinerja OKR sebagai bonus, beasiswa, atau tunjangan.
+
+<br>
+
+## PROGRAM MIT
+
+Ini adalah kesempatan Anda untuk berkontribusi dalam sebuah startup. Anda akan tertantang. Anda diharapkan untuk mendapatkan hasil yang luar biasa. Jika Anda proaktif, pekerja keras, dan sangat terampil,
+
+[Bergabunglah dengan Kami] ({{site.job_form_url_en}}) {: .btn # page-btn} {: target = "_ blank"}
+
+#### Berapa lama magang?
+
+Kami menawarkan masa magang yang fleksibel dengan minimal 12 minggu.
+
+#### Siapa yang bisa melamar?
+
+Kami mencari siswa pekerja keras yang dapat berkontribusi sebagai pemrogram perangkat lunak.
+
+#### Apakah Anda mempekerjakan pekerja magang setelah lulus?
+
+Tujuan utama program magang kami adalah memberi Anda kesempatan untuk mencari tahu apakah Anda ingin bekerja penuh waktu dengan kami setelah lulus. Kami mempekerjakan banyak mantan magang. Kami juga mempekerjakan banyak lulusan baru yang tidak magang dengan kami.
+
+#### Di mana magang?
+
+Kami mengizinkan kerja jarak jauh, dengan pertemuan dan acara langsung secara rutin.
+
+#### Kapan Anda mempekerjakan pekerja magang?
+
+Kami menawarkan magang sepanjang tahun, meskipun musim panas adalah yang paling populer. Kami mempekerjakan secara bergilir, menawarkan jam kerja yang fleksibel.
+
+#### Bagaimana magang ditempatkan dalam tim?
+
+Kami melihat latar belakang dan preferensi Anda, faktor bandwidth tim, dan kemudian menetapkan Anda tim yang paling cocok untuk semua orang yang terlibat.

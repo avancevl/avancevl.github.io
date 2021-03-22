@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Job Application Survey
+title: Survei Lamaran Kerja
 lang: id
-description: Only 5-minutes.
+description: Hanya 5 menit.
 ---
 
 
 
-| Time | 5 min |
-| Problems | 13 |
-| Applicants | 400+ (02/17/2020)|
+| Waktu | 5 menit |
+| Masalah | 13 |
+| Pelamar | 400+ (02/17/2020)|
 
-[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
+[Ajukan Sekarang]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 ## Survey Results
 

@@ -80,8 +80,13 @@ def rfileDate(filepath, setlang, tag, attrname):
     """
     f = open(filepath, "r", encoding="utf-8")
     soup = BeautifulSoup(f, 'html.parser')
-
-    metadata = frontmatter.load(filepath).metadata
+    # print("Parse .md file metadata as filepath------>"+filepath)
+    try:
+        fileMdload = frontmatter.load(filepath)
+        metadata = fileMdload.metadata
+    except:
+        print("Oops!  Parse "+ filepath  +" file error.  Please check if the format is correct, and do not use tab symbols in metadata...")
+    
     content = frontmatter.load(filepath).content
     # print(content)
     # print(post.keys(), 'keys')
@@ -210,7 +215,7 @@ def creatFiles(article_lang, path, filename, falias):
                                 break
 
 
-print("尋找目錄============================================>")
+print("Find the data directory============================================>")
 if not os.path.isdir("./"+falias):  # not _page folder mkdir
     os.makedirs("./"+falias)
 # walk的方式則會將指定路徑底下所有的目錄與檔案都列出來(包含子目錄以及子目錄底下的檔案)
@@ -228,13 +233,15 @@ for root, dirs, files in allList:
         if os.path.splitext(root + '/' + i)[-1] == '.md':
             filepath = os.path.join(root, i)
             filename = i
-            path = root.replace(mainPath, "") if root != mainPath else ""
+
+            path = root.replace(mainPath+'/', "") if root != mainPath else ""
+            
             article_lang = rfileDate(filepath, setlang, tag, attrname)
 
             creatFiles(article_lang, path, filename, falias)
 # 首頁預設語系
 # 檢查的檔案
-print("move files to _defalut==================================================>")
+print("move files to _defalut (website defalut lang pages)==================================================>")
 # rmtree('./_default')
 df_filepath = "./" + falias + "/" + default_lang
 allList_page = os.walk(df_filepath)
@@ -257,4 +264,4 @@ for root, dirs, files in allList_page:
                 os.makedirs(move_path)
             copyfile(this_file, move_file)
 
-print("成功完成!============================================================>")
+print("Completed successfully!============================================================>")

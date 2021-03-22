@@ -1,50 +1,54 @@
 ---
 layout: default
-title: Traditional Whiteboard Interview
+title: Wawancara Papan Tulis Tradisional
 lang: id
-description: Testing algorithms and efficiency.
+description: Menguji algoritma dan efisiensi.
 ---
 
 
 
-Our traditional software engineer whiteboard interview process is **2 full days**. 
-* Each day of interview starts at 9am, breaks for lunchtime, and continues onto the evening. 
-* The day is broken up into several 1.5 hour sessions each led by a different software engineer.
-* The 1.5 hours sessions are purely technical.
-* Candidates who successfully completes the first day will be invited back for a second day of technical interviews.
+Proses wawancara papan tulis insinyur perangkat lunak tradisional kami adalah **2 hari penuh**.
 
-## Accelerated Alternative
+- Setiap hari wawancara dimulai pukul 09.00, istirahat makan siang, dan berlanjut hingga malam hari.
+- Hari itu dibagi menjadi beberapa sesi 1,5 jam yang masing-masing dipimpin oleh insinyur perangkat lunak yang berbeda.
+- Sesi 1,5 jam murni bersifat teknis.
+- Kandidat yang berhasil menyelesaikan hari pertama akan diundang kembali untuk wawancara teknis hari kedua.
 
-We **highly encourage** candidates to apply through our **[Accelerated Take Home Exam]({{ site.baseurl }}/{{ page.lang }}/recruit/takehome.html)** instead. The entire technical evaluation process is only 2.5 hours, instead of 2 full days.
+## Alternatif yang Dipercepat
 
-[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
+Kami **sangat menyarankan** kandidat untuk mendaftar melalui **[Ujian Bawa Pulang Dipercepat]({{ site.baseurl }}/{{page.lang}}/recruit/takehome.html)** kami. Keseluruhan proses evaluasi teknis hanya 2,5 jam, bukan 2 hari penuh.
 
-<br>
-
-## Whiteboard General Topics
-
-* Arrays/Strings
-* Binary Trees
-* Linked Lists
-* DFS/BFS
-* Backtracking
-* Dynamic programming
-
-## Why we tend not to favor whiteboard exam?
-
-### 1. Algorithms do not accurate reflect real work.
-When was the last time you had to implement BubbleSort or HeapSort at work? Engineering aptitude is not necessarily tested with algorithms.
-
-### 2. Luck is a big factor - algorithm lottery
-Some candidates are unlucky and happen to be given an algorthm they haven't studied for or seen in a long time. There will be a lot of randomness in this process.
-
-### 3. Age discrimination.
-Favors young engineers and recent grads because basic computer science concepts are more recently taught in university. Algorithms also tend to favor the younger mind as well.
-
-### 4. More time consuming for everyone.
-The entire process is 2 full days, which is much longer than our **[Accelerated Take Home Exam]({{ site.baseurl }}/{{ page.lang }}/recruit/takehome.html).**
-
-### 5. Longer preparation time.
-Candidates will need to memorize and review algorithms. This is a lot of unnecessary extra work that won't be relevant to your day-to-day job.
+[Daftar Sekarang]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="\_blank"}
 
 <br>
+
+## Topik Umum Papan Tulis
+
+- Array / String
+- Pohon Biner
+- Daftar Tertaut
+- DFS / BFS
+- Mundur
+- Pemrograman dinamis
+
+## Mengapa kami cenderung tidak menyukai ujian papan tulis?
+
+### 1. Algoritma tidak mencerminkan pekerjaan nyata secara akurat.
+
+Kapan terakhir kali Anda harus menerapkan Bubble Sort atau Heap Sort di tempat kerja? Kecakapan teknik tidak selalu diuji dengan algoritme.
+
+### 2. Keberuntungan adalah faktor besar - lotere algoritma
+
+Beberapa kandidat tidak beruntung dan kebetulan diberi algoritme yang sudah lama tidak mereka pelajari atau lihat. Akan ada banyak keacakan dalam proses ini.
+
+### 3. Diskriminasi usia.
+
+Lebih menyukai insinyur muda dan lulusan baru karena konsep ilmu komputer dasar baru-baru ini diajarkan di universitas. Algoritma juga cenderung mendukung pikiran yang lebih muda juga.
+
+### 4. Lebih banyak memakan waktu untuk semua orang.
+
+Seluruh proses adalah 2 hari penuh, yang jauh lebih lama dari kami **[Ujian Bawa Pulang Dipercepat]({{ site.baseurl }}/{{ page.lang }}/recruit/takehome.html).**
+
+### 5. Waktu persiapan lebih lama.
+
+Kandidat harus menghafal dan meninjau algoritme. Ini banyak pekerjaan tambahan yang tidak perlu yang tidak akan relevan dengan pekerjaan Anda sehari-hari.

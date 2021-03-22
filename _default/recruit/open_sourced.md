@@ -22,7 +22,7 @@ Contribute to our efforts to open source the way our company is run by implement
 
 ### Feature 1. Fix Chinese Translation and Typos
 
-Chinese is our second language, so naturally there are going to be a lot of typos, mis-translations. We are committed to a binlingual environment, so we are grateful for any contributions on this front.
+Chinese is our second language, so naturally there are going to be a lot of typos, mis-translations. We are committed to a bilingual environment, so we are grateful for any contributions on this front.
 
 ### Feature 2. Where Am I?
 
@@ -34,14 +34,14 @@ The navigation bar should make it easy to navigate one level up and down the tre
 
 ### Feature 3. Easy Management and Toggling between Multiple Pages
 
-In order to stay true to our commitment as a English-Chinese binlingual company, we need to have both English and Chinese versions of our GitHub pages. Currently, we are splitting the English and Chinese texts into separate sections on the same marketdown page. Ideally, we can modify Jekyll to support:
+In order to stay true to our commitment as a English-Chinese bilingual company, we need to have both English and Chinese versions of our GitHub pages. Currently, we are splitting the English and Chinese texts into separate sections on the same marketdown page. Ideally, we can modify Jekyll to support:
 
 1. Easy toggling between Chinese and English versions of the same page.
 1. Easy management of markdown, HTML files in a clear directory structure so that we do not have to effectively maintain two versions of the same site.
 
 ### Feature 4. List Child Pages
 
-Somtimes, for a given page, you just want to be able to list the child pages in the markdown file without expliciting spelling out the URL.
+Sometimes, for a given page, you just want to be able to list the child pages in the markdown file without expliciting spelling out the URL.
 
 * This can be implemented in HTML-Liquid.
 * If we add a new child page to the navigation tree, we should not have to update teh HTML-Liquid in the markdown.

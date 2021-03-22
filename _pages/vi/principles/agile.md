@@ -36,3 +36,5 @@ We follow these principles:
 1. Simplicity--the art of maximizing the amount of work not done--is essential.
 1. The best architectures, requirements, and designs emerge from self-organizing teams.
 1. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+<br>
+

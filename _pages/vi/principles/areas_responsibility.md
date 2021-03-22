@@ -17,3 +17,6 @@ description: Who is responsible for what.
 | Engineering | QC, production | {{ site.user_g }} |
 | HR | Recruiting, office | {{ site.user_d }} |
 | Admin | Fundraising, accounting, legal | {{ site.user_d }}, {{ site.user_g }} |
+
+<br>
+

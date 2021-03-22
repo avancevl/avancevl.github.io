@@ -1,40 +1,47 @@
 ---
 layout: default
-title: Accelerated Take-Home Exam
+title: Ujian Bawa Pulang Dipercepat
 lang: id
-description: Evaluation based on real work.
+description: Evaluasi berdasarkan pekerjaan nyata.
 ---
 
 
 
-Our take-home exam is an accurate reflection of daily work at our company. The take home exam is therefore objective, fair, and accurate assessment of a candidate's ability. The exam saves the candidate time with flexible scheduling and time limit to no more than 2.5 hours.
+Ujian dibawa pulang kami adalah cerminan akurat dari pekerjaan sehari-hari di perusahaan kami. Oleh karena itu, ujian yang dibawa pulang adalah penilaian yang objektif, adil, dan akurat atas kemampuan seorang kandidat. Ujian ini menghemat waktu kandidat dengan penjadwalan yang fleksibel dan batas waktu tidak lebih dari 2,5 jam.
 
-[View Exam Instructions]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
+[Lihat Petunjuk Ujian]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
 
-## Why we do take home exams?
+## Mengapa kami membawa pulang ujian?
 
-### 1. Stop wasting time practicing LeetCode
-* You won't need to spend time practicing, preparing, or studying for our interview process.
-* Real developers will never have to implement binary search or bubble sort, so we don't waste your time on irrelevant tests for the sake of testing.
+### 1. Berhenti membuang-buang waktu untuk mempraktikkan LeetCode
 
-### 2. Exams reflect actual, real work
-* We design our exams to be as close to the work you will be doing as much as possible.
-* You will have access to your own dev environment, online resources, just like in real work.
+- Anda tidak perlu menghabiskan waktu untuk berlatih, mempersiapkan, atau belajar untuk proses wawancara kita.
+- Pengembang sejati tidak perlu mengimplementasikan penelusuran biner atau bubble sort, jadi kami tidak membuang waktu Anda untuk pengujian yang tidak relevan demi pengujian.
 
-### 3. Time limited to 2.5 hours
-* Never ending interview processes are disrespectful to the candidates.
-* We limit how much of your time we take up to make a technical decision to 2.5 hours.
-* This is the only technical evaluation.
+### 2. Ujian mencerminkan pekerjaan nyata
 
-### 4. Creative room
-* Because take home exams have large degree of open-endedness, this leaves a lot of room for candidates to show their creative side.
+- Kami merancang ujian kami sedekat mungkin dengan pekerjaan yang akan Anda lakukan semaksimal mungkin.
+- Anda akan memiliki akses ke lingkungan pengembang Anda sendiri, sumber daya online, seperti dalam pekerjaan nyata.
 
-### 5. Flexible scheduling
-* Do the take home exam at your convenience.
+### 3. Waktu dibatasi hingga 2,5 jam
 
-### 6. Learning something along the way
-* You will likely learn something you didn't know before.
-* We want hungry people who love coding and learning new things.
+- Proses wawancara yang tidak pernah berakhir tidak menghormati kandidat.
+- Kami membatasi berapa banyak waktu Anda yang kami gunakan untuk membuat keputusan teknis menjadi 2,5 jam.
+- Ini satu-satunya evaluasi teknis.
 
-### 7. Build up your own open source portfolio
-* Publish your exam on github and build up your github presence.
+### 4. Ruang kreatif
+
+- Karena ujian dibawa pulang memiliki tingkat keterbukaan yang besar, ini menyisakan banyak ruang bagi kandidat untuk menunjukkan sisi kreatifnya.
+
+### 5. Penjadwalan yang fleksibel
+
+- Lakukan ujian bawa pulang sesuka Anda.
+
+### 6. Mempelajari sesuatu sepanjang waktu
+
+- Anda mungkin akan mempelajari sesuatu yang tidak Anda ketahui sebelumnya.
+- Kami ingin orang lapar yang suka coding dan mempelajari hal-hal baru.
+
+### 7. Bangun portofolio sumber terbuka Anda sendiri
+
+- Publikasikan ujian Anda di github dan bangun kehadiran github Anda.

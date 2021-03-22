@@ -1,24 +1,24 @@
 ---
 layout: default
-title: Deliverables Etiquette
+title: Etiket Hasil
 lang: id
-description: Expectations for deliverables.
+description: Ekspektasi ntuk hasil.
 ---
 
 
 
-## Deliverables Etiquette
+## Etika Hasil
 
-### 1. Insist on the highest standards 
-* Sloppiness is not tolerated
+### 1. Menuntut standar tertinggi
+* Kecerobohan tidak ditoleransi
 
-### 2. Plan interim checkpoints
-* Check your progress on something at 10% complete with a direction for completion,  rather than building something that is 90% done and realizing the work was  misaligned  
-* This is what is expected: 10% (within a few hours of assignment), 40% (within a day or  two), 90% (1 week before deadline)  
+### 2. Rencanakan pos pemeriksaan sementara
+* Periksa kemajuan Anda pada sesuatu pada 10% selesai dengan arah penyelesaian, daripada membangun sesuatu yang 90% selesai dan menyadari pekerjaan itu tidak selaras
+* Inilah yang diharapkan: 10% (dalam beberapa jam tugas), 40% (dalam satu atau dua hari), 90% (1 minggu sebelum tenggat waktu)
 
-### 3. Always know percentage completion for any deliverable off the top of your head  
-* Be able to defend the number and know what next steps are required to get to completion
+### 3. Selalu ketahui persentase penyelesaian untuk setiap kiriman yang terlintas di benak Anda
+* Mampu mempertahankan nomor tersebut dan mengetahui langkah selanjutnya yang diperlukan untuk menyelesaikannya
 
-### 4. Speak intelligently about how your deliverables or tasks fit into the overall company mission
-* Every deliverable/task should be a step towards helping the team achieve our ultimate mission
-* Ask questions and make sure you know where the company is going from a big picture perspective
+### 4. Bicaralah secara cerdas tentang bagaimana kiriman atau tugas Anda sesuai dengan misi perusahaan secara keseluruhan
+* Setiap kiriman / tugas harus menjadi langkah untuk membantu tim mencapai misi utama kami
+* Ajukan pertanyaan dan pastikan Anda tahu kemana arah perusahaan dari perspektif gambaran besar

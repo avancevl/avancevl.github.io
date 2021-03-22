@@ -30,7 +30,7 @@ description: Full, Part-Time
 
 1. The implementation and the growth of paid and organic search marketing efforts.
 1. Increase reach and conversion across web properties.
-1. Responsible for the execution of tactics associated with the management of paid keyword campaigns (PPC advertising), keyword, and organic Search Engine Optimization (SEO) strategies. 
+1. Responsible for the execution of tactics associated with the management of paid keyword campaigns (PPC advertising), keyword, and organic Search Engine Optimization (SEO) strategies.
 1. Bonus: Proficiency in Google Analytics, Mixpanel, Heap, Segment, and/or Amplitude; social media and email marketing campaigns.
 
 ### Requirements
@@ -52,3 +52,4 @@ description: Full, Part-Time
 [Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
+

@@ -10,14 +10,14 @@ description: How we grow users and revenue.
 ## Grow Strategies
 
 * Marketing
-	* Inbound Channels
-		* Youtube
-		* Social Media
-	* Outbound Channels
-		* Social Media
-			* Facebook
-			* Instagram
-		* Google
+  * Inbound Channels
+    * Youtube
+    * Social Media
+  * Outbound Channels
+    * Social Media
+      * Facebook
+      * Instagram
+    * Google
 * Sales
 
 ### Growth KPI
@@ -32,3 +32,4 @@ description: How we grow users and revenue.
 <br>
 
 [Our Agile Process]({{ site.baseurl }}/{{ page.lang }}/principles/agile.html){: .btn#page-btn}
+

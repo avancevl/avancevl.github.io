@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Referral Program
+title: Program Rujukan
 lang: id
-description: Refer a friend.
+description: Referensikan teman.
 ---
 
 
 
-## Referral Bonus
+## Bonus Referensi
 
-We wish to work with any talented individuals. If you know someone who is smart, energaetic, proactive, and driven to succeed, please introduce us and receive referral bonus!
+Kami ingin bekerja dengan individu berbakat. Jika Anda mengenal seseorang yang cerdas, energik, proaktif, dan didorong untuk sukses, perkenalkan kami dan dapatkan bonus referensi!

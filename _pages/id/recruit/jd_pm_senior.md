@@ -2,20 +2,20 @@
 layout: default
 title: PM Lead,Senior
 lang: id
-description: Part-Time,Project-Based
+description: Paruh Waktu, Berbasis Proyek
 ---
 
 
 
-| **Type** | Full-Time, Part-Time |
+| **Type** | Penuh waktu, Paruh Waktu |
 | **Location** | Remote |
 | **Level** | Lead, Senior  |
 
 <br>
 
-[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
+[Daftar Sekarang]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
 
-## Description
+## Deskripsi
 - [**Salary Levels**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_salary}})
 - [**Team Culture**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_culture }}): Silicon Valley startup culture.
 - [**Employee Benefits**]({{ site.baseurl }}/{{ page.lang }}{{ site.link_jd_benefits }}): Remote work possible.
@@ -93,5 +93,3 @@ We are looking for an exceptional Product Manager who is passionate about design
 <br>
 
 [Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
-
-<br>

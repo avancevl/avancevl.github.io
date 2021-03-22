@@ -1,34 +1,34 @@
 ---
 layout: default
-title: Growth
+title: Pertumbuhan
 lang: id
-description: How we grow users and revenue.
+description: Cara kami meningkatkan pengguna dan pendapatan.
 ---
 
 
 
-## Grow Strategies
+## Tumbuhkan Strategi
 
-* Marketing
-	* Inbound Channels
-		* Youtube
-		* Social Media
-	* Outbound Channels
-		* Social Media
-			* Facebook
-			* Instagram
-		* Google
+* Pemasaran
+  * Saluran Masuk
+    * Youtube
+    * Sosial Media
+  * Saluran Keluar
+    * Sosial Media
+      * Facebook
+      * Instagram
+    * Google
 * Sales
 
-### Growth KPI
+### KPI Pertumbuhan
 
-* User Acquisition
-* User Retention
+* Akuisisi Pengguna
+* Retensi Pengguna
 
-### Online Resources
+### Sumber Daya Online
 
-* [Personal Finance Management App Strategies](https://www.cbinsights.com/research/personal-finance-apps-strategies/){:target="_blank"}
+* [Strategi Aplikasi Manajemen Keuangan Pribadi](https://www.cbinsights.com/research/personal-finance-apps-strategies/){:target="_blank"}
 
 <br>
 
-[Our Agile Process]({{ site.baseurl }}/{{ page.lang }}/principles/agile.html){: .btn#page-btn}
+[Proses Agile Kami]({{ site.baseurl }}/{{ page.lang }}/principles/agile.html){: .btn#page-btn}

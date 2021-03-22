@@ -2,37 +2,37 @@
 layout: default
 title: Agile
 lang: id
-description: Move fast and break things.
+description: Bergerak cepat dan memecahkan barang.
 ---
 
 
 
-## Three Laws of Agile
+## Tiga Hukum Agile
 
-The three laws of Agile are thus:
+Tiga hukum Agile adalah:
 
-1. The **Law of the Customer**—an obsession with delivering value to customers as the be-all and end-all of the organization.
-1. The **Law of the Small Team**—a presumption that all work be carried out by small self -organizing teams, working in short cycles and focused on delivering value to customers—and
-1. The **Law of the Network**—a continuing effort to obliterate bureaucracy and top-down hierarchy so that the firm operates as an interacting network of teams, all focused on working together to deliver increasing value to customers.
+1. **Hukum Pelanggan**—sebuah obsesi untuk memberikan nilai kepada pelanggan sebagai tujuan utama dari organisasi.
+1. **Hukum time kecil**—anggapan bahwa semua pekerjaan dilakukan oleh tim kecil yang mengatur dirinya sendiri, bekerja dalam siklus singkat dan berfokus pada memberikan nilai kepada pelanggan
+1. **Hukum Network**—upaya berkelanjutan untuk menghapus birokrasi dan hierarki top-down sehingga perusahaan beroperasi sebagai jaringan tim yang saling berinteraksi, semuanya berfokus pada kerja sama untuk memberikan nilai yang meningkat kepada pelanggan.
 
 ## Agile Manifesto
 
-* **Individuals and interactions** over processes and tools
-* **Working software** over comprehensive documentation
-* **Customer collaboration** over contract negotiation
-* **Responding to change** over following a plan
+* **Individual dan interaksi** diatas proses dan alat
+* **Perangkat lunak yang berfungsi** diatas dokumentasi yang komprehensif
+* **Kolaborasi pelanggan** diatas negosiasi kontrak
+* **Menanggapi Perubahan** diatas mengikuti rencana
 
-We follow these principles:
+Kami mengikuti prinsip-prinsip ini:
 
-1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
-1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
-1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
-1. Business people and developers must worktogether daily throughout the project.
-1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
-1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
-1. Working software is the primary measure of progress.
-1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
-1. Continuous attention to technical excellence and good design enhances agility.
-1. Simplicity--the art of maximizing the amount of work not done--is essential.
-1. The best architectures, requirements, and designs emerge from self-organizing teams.
-1. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+1. Prioritas tertinggi kami adalah memuaskan pelanggan melalui pengiriman awal dan berkelanjutan perangkat lunak yang berharga.
+1. Menyambut persyaratan yang berubah, bahkan yang terlambat dalam pengembangan. Proses tangkas memanfaatkan perubahan untuk keunggulan kompetitif pelanggan.
+1. Sering mengirimkan perangkat lunak yang berfungsi, dari beberapa minggu hingga beberapa bulan, dengan preferensi untuk skala waktu yang lebih pendek.
+1. Pelaku bisnis dan pengembang harus bekerja sama setiap hari selama proyek berlangsung.
+1. Bangun proyek di sekitar individu yang termotivasi. Beri mereka lingkungan dan dukungan yang mereka butuhkan, dan percayakan mereka untuk menyelesaikan pekerjaan.
+1. Metode yang paling efisien dan efektif untuk menyampaikan informasi kepada dan di dalam tim pengembangan adalah percakapan tatap muka.
+1. Perangkat lunak yang berfungsi adalah ukuran utama kemajuan.
+1. Proses tangkas mendorong pembangunan berkelanjutan. Para sponsor, pengembang, dan pengguna harus dapat mempertahankan kecepatan yang konstan tanpa batas waktu.
+1. Perhatian yang terus menerus terhadap keunggulan teknis dan desain yang baik meningkatkan ketangkasan.
+1. Kesederhanaan - seni memaksimalkan jumlah pekerjaan yang belum diselesaikan - sangat penting.
+1. Arsitektur, persyaratan, dan desain terbaik muncul dari tim yang mengatur dirinya sendiri.
+1. Secara berkala, tim merefleksikan bagaimana menjadi lebih efektif, kemudian menyesuaikan dan menyesuaikan perilakunya.

@@ -1,86 +1,90 @@
 ---
 layout: default
-title: Web Developer Exam
+title: Ujian Pengembang Web
 lang: id
-description: Take-Home Exam
+description: Ujian Bawa Pulang
 ---
 
 
 
-## For Positions
+## Untuk Posisi
 
 1. [Full Stack Developer]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_fullstackdev.html)
 1. [Front-End Developer]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_frontenddev.html)
 1. [Back-End Developer]({{ site.baseurl }}/{{ page.lang }}/recruit/jd_backenddev.html)
 
-[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
-[Exam Rubric]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
+[Daftar Sekarang]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="\_blank"}
+[Rubrik Ujian]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
-Below are links to Full Stack, Front-End, and Back-End Developer exams. Please familiarize yourself with the exam requirements and technology stacks prior to the exam date.
+Di bawah ini adalah tautan ke ujian Full Stack, Front-End, dan Back-End Developer. Biasakan diri Anda dengan persyaratan ujian dan tumpukan teknologi sebelum tanggal ujian.
 
-[Full Stack Sample Exam]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_fullstackdev.html){: .btn#page-btn}
-[Front End Sample Exam]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_frontenddev.html){: .btn#page-btn}
-[Back End Sample Exam]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_backenddev.html){: .btn#page-btn}
+[Contoh Ujian Full Stack]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_fullstackdev.html){: .btn#page-btn}
+[Contoh Ujian Front End]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_frontenddev.html){: .btn#page-btn}
+[Contoh Ujian Back End]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_backenddev.html){: .btn#page-btn}
 
-## Exam Instructions
+## Instruksi Ujian
 
-> **IMPORTANT:**
-> We HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam. (e.g. Django, Rails, Node.js) 
+> **PENTING:**
+> Kami SANGAT menyarankan Anda menyiapkan server web langsung dengan halaman web statis kosong (misalnya Django, Rails, Node.js) **SEBELUM** ujian Anda. Ini akan menghemat banyak waktu selama ujian. (mis. Django, Rails, Node.js)
 
-1. This online assessment's score will determine your engineering level (position) and your salary range.
-1. You will have **2.5 hours**.
-1. You will be given a list of web app features at the start of the exam via email.
-1. **Pick a few features.**
-	1. Choose a few features to implement:
+1. Skor penilaian online ini akan menentukan tingkat teknik (posisi) dan kisaran gaji Anda.
+1. Anda memiliki waktu **2,5 jam**.
+1. Anda akan diberikan daftar fitur aplikasi web di awal ujian melalui email.
+1. **Pilih beberapa fitur.**
 
-1. **Any framework.** You choose the programming language and framework.
-	1. Choose language and framework you are the most familiar and proficient in.
-	1. However, we primarily use **JS, Express, Node, and React Redux**
-	1. **RWD.** Bonus points for fully responsive web/mobile design with HTML/CSS.
-	1. Please use from the following: JavaScript, Node, Express, React, Redux, HTML, CSS, Django, Rails, Vue, Ember, Backbone, MySQL, PostgreSQL, MongoDB
-	1. Please do not use: Java/PHP/jQuery/ASP.NET/C#
-1. **Quality over quantity.** We value working prototypes, so make sure your site is live and running before you move onto additional features.
-1. **Reuse and leverage.** We highly encourage you to reuse other people's work, like Bootstrap and Redux. Don't reinvent the wheel.
-1. **Self or cloud host.** We will ask you to spin up and host your app for 1 week.
-	1. Your own self hosted server.
-	1. Cloud server, e.g. AWS, Heroku.
+   1. Pilih beberapa fitur untuk diterapkan:
 
-## Exam Rubric
+1. **Framework apa saja.** Anda memilih bahasa pemrograman dan framework.
+   1. Pilih bahasa dan kerangka kerja yang paling Anda kenal dan mahir.
+   1. Namun, kami terutama menggunakan **JS, Express, Node, dan React Redux**
+   1. **RWD.** Poin bonus untuk desain web / seluler yang sepenuhnya responsif dengan HTML / CSS.
+   1. Silakan gunakan dari berikut ini: JavaScript, Node, Express, React, Redux, HTML, CSS, Django, Rails, Vue, Ember, Backbone, MySQL, PostgreSQL, MongoDB
+   1. Jangan gunakan: Java / PHP / jQuery / ASP.NET / C #
+1. **Kualitas daripada kuantitas.** Kami menghargai prototipe yang berfungsi, jadi pastikan situs Anda aktif dan berjalan sebelum Anda beralih ke fitur tambahan.
+1. **Menggunakan kembali dan memanfaatkan.** Kami sangat menganjurkan Anda untuk menggunakan kembali karya orang lain, seperti Bootstrap dan Redux. Jangan menemukan kembali roda.
+1. **Self atau cloud host.** Kami akan meminta Anda untuk menjalankan dan menghosting aplikasi Anda selama 1 minggu.
+   1. Server Anda sendiri yang dihosting sendiri.
+   1. Server cloud, mis. AWS, Heroku.
 
-[View Exam Rubric]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
+## Rubrik Ujian
 
-## Pre-Exam Preparation
-> **IMPORTANT:**
-> We highly, HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam.
+[Lihat Rubrik Ujian]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
+
+## Persiapan Pra-Ujian
+
+> **PENTING:**
+> Kami sangat, SANGAT menyarankan Anda menyiapkan server web langsung dengan halaman web statis kosong (misalnya. Django, Rails, Node.js) **SEBELUM** ujian Anda. Ini akan menghemat banyak waktu selama ujian.
 
 1. Please take a look at a [sample exam]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev_sample.html) before hand.
-1. **Development Environment.** Setup a linux-based development environment. We recommend MacOS or Ubuntu.
-	1. Setup JavaScript or any language you wish to use.
-	1. Setup any web framework you’re most familiar with (e.g. Django, Rails, React.js, Express.js)
-	1. Setup a database you are most familar with to store customer data. Both SQL or no SQL database are OK.
-	1. Setup IDEs or any developer tools to maximize your efficiency during the exam. e.g. Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS, unittest/pyUnit, RSpec.
-1. **Self or Cloud Hosted Test.** Make sure you can host a webpage from your development box or cloud on the world wide web.
-	1. Use a self-hosted or cloud server, such as AWS or [Heroku (FREE)](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署網站的手把手教學-bf4fd6f998b8).
-	1. Open a port that is more secure than commonly scanned ports (e.g. Port 22)
-	1. Make sure firewall configured so you can see your web page outside of your local area or cloud network.
-1. **GitHub or GitLab Account.** Make sure you have a public GitHub/GitLab account that you can host your exam submission code for us to evaluate.
-1. **How to prepare.**
-	1. Be prepared to implement a database. (e.g., SQL, MongoDB)
-	1. Be prepared to implement both front- and back- end developement. A common stack is: JS, Express, Node, HTML, CSS, React.
-	1. There are no tricks or brain teasers. You will be building a website with user and admin functions, like a shopping site, a booking site, or a news site. 
-	1. Create a Facebook Login account and a Google Developer account and have key ready. You will need to implement an OAuth for user login management.
-	1.  Be familiar with how to connect to an API. e.g. Google Maps, Stripe, Email SendGrid, FireBase.
+1. Harap lihat [contoh ujian]({{site.baseurl}}/{{page.lang}}/recruit webdev_sample.html) sebelumnya.
+1. **Lingkungan Pengembangan.** Siapkan lingkungan pengembangan berbasis linux. Kami merekomendasikan MacOS atau Ubuntu.
+   1. Siapkan JavaScript atau bahasa apa pun yang ingin Anda gunakan.
+   1. Siapkan kerangka web apa pun yang paling Anda kenal (misalnya. Django, Rails, React.js, Express.js)
+   1. Siapkan database yang paling Anda kenal untuk menyimpan data pelanggan. Baik SQL atau tanpa database SQL baik-baik saja.
+   1. Siapkan IDE atau alat pengembang apa pun untuk memaksimalkan efisiensi Anda selama ujian. misalnya Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS, unittest / pyUnit, RSpec.
+1. **Self atau Cloud Hosted Test.** Pastikan Anda dapat menghosting halaman web dari kotak pengembangan atau cloud Anda di world wide web.
+   1. Gunakan server cloud atau yang dihosting sendiri, seperti AWS atau [Heroku (GRATIS)](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署網站的手把手教學-bf4fd6f998b8).
+   1. Buka port yang lebih aman dari port yang biasa dipindai (misalnya Port 22)
+   1. Pastikan firewall dikonfigurasi sehingga Anda dapat melihat halaman web Anda di luar area lokal atau jaringan cloud.
+1. **Akun GitHub atau GitLab.** Pastikan Anda memiliki akun GitHub / GitLab publik yang dapat dihosting kode pengajuan ujian untuk kami evaluasi.
+1. **Cara mempersiapkan.**
+   1. Bersiaplah untuk mengimplementasikan database. (mis., SQL, MongoDB)
+   1. Bersiaplah untuk mengimplementasikan pengembangan front-end dan back-end. Tumpukan yang umum adalah: JS, Express, Node, HTML, CSS, React.
+   1. Tidak ada trik atau asah otak. Anda akan membangun situs web dengan fungsi pengguna dan admin, seperti situs belanja, situs pemesanan, atau situs berita.
+   1. Buat akun Facebook Login dan akun Pengembang Google dan siapkan kunci. Anda perlu menerapkan OAuth untuk pengelolaan login pengguna.
+   1. Pahami cara menghubungkan ke API. misalnya Google Maps, Stripe, SendGrid Email, FireBase.
 
-## How to Submit
+## Cara Mengirim
 
-> **IMPORTANT:**
-> Please submit your exam (complete the form) regardless of whether you have a live site.
-> The form collects your GitHub URL. We want to see your source code regardless of the progress you've made.
+> **PENTING:**
 
-1. Upload code to public GitHub or GitLab account.
-1. Run your app in production for 1 week. 
-1. **Please submit exam by clicking "Submit Exam" below.**
+> Harap kirimkan ujian Anda (lengkapi formulir) terlepas dari apakah Anda memiliki situs langsung.
+> Formulir mengumpulkan URL GitHub Anda. Kami ingin melihat kode sumber Anda terlepas dari kemajuan yang Anda buat.
+
+1. Unggah kode ke akun GitHub atau GitLab publik.
+1. Jalankan aplikasi Anda dalam produksi selama 1 minggu.
+1. **Harap kirim ujian dengan mengklik "Kirim Ujian" di bawah.**
 
 <br>
 
-[Submit Exam]({{ site.exam_submit_form_url }}){: .btn#page-btn}
+[Kirim Ujian]({{ site.exam_submit_form_url }}){: .btn#page-btn}

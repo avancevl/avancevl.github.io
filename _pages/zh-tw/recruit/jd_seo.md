@@ -33,7 +33,7 @@ description: 全職、特案
 
 1. The implementation and the growth of paid and organic search marketing efforts.
 
-1. Increase reach and conversion across web properties. 負責付費搜索和自然搜索營銷的實施和增長，促進整個網絡媒體資源的 reach and conversion. 
+1. Increase reach and conversion across web properties. 負責付費搜索和自然搜索營銷的實施和增長，促進整個網絡媒體資源的 reach and conversion.
 
 1. Responsible for the execution of tactics associated with the management of paid keyword campaigns (PPC advertising), keyword, and organic Search Engine Optimization (SEO) strategies. 執行相關策略，包括策付費關鍵字廣告系列（PPC廣告），關鍵字和自然搜索引擎優化SEO策略管理。
 

@@ -1,22 +1,22 @@
 ---
 layout: default
-title: Recruiting
+title: Merekrut
 lang: id
-description: Looking to hire the best talent around the world.
+description: Mencari untuk merekrut talenta terbaik di seluruh dunia.
 ---
 
 
 
-We incubate, accelerate, and implement ideas that our team create internally.
+Kami menginkubasi, mempercepat, dan menerapkan ide-ide yang dibuat oleh tim kami secara internal.
 
-## If you want to create technology that solves problems.
+## Jika Anda ingin menciptakan teknologi yang memecahkan masalah.
 
-Avance Venture Lab is searching for a few **brilliant minds** to join our hunt for impact through technology.
+Avance Venture Lab sedang mencari beberapa **pemikir brilian** untuk bergabung dalam perburuan dampak melalui teknologi.
 
-## If you are hungry for your footprint in the digital era.
+## Jika Anda lapar akan jejak Anda di era digital.
 
-We are a small, early-stage **software start-up**, founded by Stanford and MIT alumni, based in Taipei. We are focused on building consumer and business applications that solve real problems in major industries **globally**.
+Kami adalah perangkat lunak kecil tahap awal **start-up**, didirikan oleh alumni Stanford dan MIT, yang berbasis di Taipei. Kami berfokus pada membangun aplikasi konsumen dan bisnis yang memecahkan masalah nyata di industri besar **secara global**.
 
-Our team of founders, investors, and advisors has experience in engineering, entrepreneurship, finance, and consulting in **Silicon Valley** and **New York**.
+Tim pendiri, investor, dan penasihat kami memiliki pengalaman dalam bidang teknik, kewirausahaan, keuangan, dan konsultasi di **Silicon Valley** dan **New York**.
 
-[View Opportunities]({{ site.baseurl }}/{{ page.lang }}/recruit/open_positions.html){: .btn#page-btn}
+[Lihat Peluang]({{ site.baseurl }}/{{ page.lang }}/recruit/open_positions.html){: .btn#page-btn}

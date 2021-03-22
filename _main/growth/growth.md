@@ -11,10 +11,10 @@ locales:
         description: 行销流程
     en:
         title: Growth
-				description: "How we grow users and revenue."
-		id:
-				title: Pertumbuhan
-				description: "Cara kami meningkatkan pengguna dan pendapatan."
+        description: "How we grow users and revenue."
+    id:
+        title: Pertumbuhan
+        description: "Cara kami meningkatkan pengguna dan pendapatan."
 ---
 
 <a name="zh-tw"></a>
@@ -22,14 +22,14 @@ locales:
 ## 成長策略
 
 * 營銷
-	* 入站通道
-		* YouTube
-		* 社交媒體
-	* 出站頻道
-		* 社交媒體
-			* Facebook
-			* Instagram的
-		* 谷歌
+  * 入站通道
+    * YouTube
+    * 社交媒體
+  * 出站頻道
+    * 社交媒體
+      * Facebook
+      * Instagram的
+    * 谷歌
 * 銷售
 
 ### 增長KPI
@@ -46,14 +46,14 @@ locales:
 ## Grow Strategies
 
 * Marketing
-	* Inbound Channels
-		* Youtube
-		* Social Media
-	* Outbound Channels
-		* Social Media
-			* Facebook
-			* Instagram
-		* Google
+  * Inbound Channels
+    * Youtube
+    * Social Media
+  * Outbound Channels
+    * Social Media
+      * Facebook
+      * Instagram
+    * Google
 * Sales
 
 ### Growth KPI
@@ -74,14 +74,14 @@ locales:
 ## Tumbuhkan Strategi
 
 * Pemasaran
-	* Saluran Masuk
-		* Youtube
-		* Sosial Media
-	* Saluran Keluar
-		* Sosial Media
-			* Facebook
-			* Instagram
-		* Google
+  * Saluran Masuk
+    * Youtube
+    * Sosial Media
+  * Saluran Keluar
+    * Sosial Media
+      * Facebook
+      * Instagram
+    * Google
 * Sales
 
 ### KPI Pertumbuhan

@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Equal Opportunity Employment
+title: Kesempatan Kerja yang Sama
 lang: id
-description: Equal opportunities for all.
+description: Kesempatan yang sama untuk semua
 ---
 
 
 
-## Equal opportunity employment 
+## Kesempatan Kerja yang Sama
 
-We strongly suppot Gender Equality. It is the policy of AVL to ensure equal employment opportunity without discrimination or harassment on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, age, disability, marital status, citizenship, national origin, genetic information, or any other characteristic protected by law. AVL prohibits any such discrimination or harassment.
+Kami sangat mendukung Kesetaraan Gender. Merupakan kebijakan AVL untuk memastikan kesempatan kerja yang setara tanpa diskriminasi atau pelecehan atas dasar ras, warna kulit, agama, jenis kelamin, orientasi seksual, identitas atau ekspresi gender, usia, disabilitas, status perkawinan, kewarganegaraan, asal kebangsaan, informasi genetik, atau karakteristik lain yang dilindungi undang-undang. AVL melarang diskriminasi atau pelecehan semacam itu.
 
-
-[Explore Equal Opportunities]({{ site.baseurl }}/{{ page.lang }}/recruit/recruit.html){: .btn#page-btn}
+[Jelajahi Kesempatan yang Sama]({{ site.baseurl }}/{{ page.lang }}/recruit/recruit.html){: .btn#page-btn}

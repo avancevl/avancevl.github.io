@@ -19,3 +19,6 @@ Please implement at least one feature from front and back-end exams each. Follow
 
 * [Front-End Exam]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_frontenddev.html)
 * [Back-End Exam]({{ site.baseurl }}/{{ page.lang }}/recruit/sample_backenddev.html)
+
+<br>
+

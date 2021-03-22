@@ -1,102 +1,105 @@
 ---
 layout: default
-title: Back-End Sample Exams
+title: Contoh Ujian Back-End
 lang: id
-description: Take-home Exam
+description: Ujian Bawa Pulang
 ---
 
 
 
-[Apply Now]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="_blank"}
-[View Instructions]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
-[View Rubric]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
+[Daftar Sekarang]({{ site.job_form_url_en }}){: .btn#page-btn}{:target="\_blank"}
+[Lihat Instruksi]({{ site.baseurl }}/{{ page.lang }}/recruit/webdev.html){: .btn#page-btn}
+[Lihat Rubrik]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
-## Exam
+## Ujian
 
-Please build the back-end for a question-and-answer app (Destkop UI mockup below)
-* Must use Firebase for back-end.
+Harap buat back-end untuk aplikasi tanya jawab (mockup UI Desktop di bawah)
 
-### Desktop UI
+- Harus menggunakan Firebase untuk back-end.
+
+### UI Desktop
 
 <img src='https://lh3.googleusercontent.com/SBQWfwg0cfPBcIyvuK1qAlIX3F3t25vj6uOVahV-E7Rhg-RTKJABufr4rYEHkLd3Cv35n3isUWyFwdEHMeIfsoQ3yDlKKqdhuWvSTz0JuAn3U92Y0nZ_7aC-_raJ9QdxmISoLb0GMw=w1417' />
 
-## Requirements
+## Persyaratan
 
-1. Must have an extremely simple front-end to test your back-end functions.
-	1. Can be HTML/CSS.
-	1. No need to use any fancy frameworks for front-end placeholder. You will not be graded on front-end.
-1. **Must host your back-end on Firebase.**
-	1. This is a not a front-end exam. Client side should only be to test your back-end functions.
+1. Harus memiliki front-end yang sangat sederhana untuk menguji fungsi back-end Anda.
+1. Bisa HTML / CSS.
+1. Tidak perlu menggunakan kerangka kerja mewah apa pun untuk placeholder front-end. Anda tidak akan dinilai di bagian depan.
+1. **Harus menghosting back-end Anda di Firebase.**
+1. Ini bukan ujian front-end. Sisi klien seharusnya hanya untuk menguji fungsi back-end Anda.
 
-## Reminders
+## Pengingat
 
-> * Develop a few features well is better than many features poorly.
-> * Please upload your code to GitHub/GitLab.
-> * At 2.5-hour:
->   * Please submit what you've completed, regardless of whether you've finished or not.
->   * Launch to host your live site.
-	* Submit demo site URL.
->	* Make sure to complete this [Exam Submission Form]({{ site.exam_submit_form_url }}).
+> - Mengembangkan beberapa fitur dengan baik lebih baik daripada banyak fitur dengan buruk.
+> - Harap unggah kode Anda ke GitHub / GitLab.
+> - Pada 2,5 jam:
+>   - Harap kirimkan apa yang telah Anda selesaikan, terlepas dari apakah Anda telah menyelesaikan atau belum.
+>   - Luncurkan untuk menghosting situs langsung Anda.
 
-## Features Rubric
+- Kirimkan URL situs demo.
+  > - Pastikan untuk melengkapi [Formulir Pengiriman Ujian] ({{ site.exam_submit_form_url }}).
 
-| Score | Feature |
-| --- | --- |
-| 90 | Sending Email (mandatory) |
-| 45 | Question DB |
-| 70 | Query DB |
-| 35 | Google OAuth and User DB |
-| 60 | Track User Answer and Accuracy |
+## Menampilkan Rubrik
 
-[View Exam Rubric]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
+| Skor | Fiture                            |
+| ---- | --------------------------------- |
+| 90   | Mengirim Email (wajib)            |
+| 45   | Pertanyaan DB                     |
+| 70   | Kueri DB                          |
+| 35   | Google OAuth and User DB          |
+| 60   | Lack Jawaban dan Akurasi Pengguna |
 
-## Features List
+[Lihat Rubrik Ujian]({{ site.baseurl }}/{{ page.lang }}/recruit/exam_rubric.html){: .btn#page-btn}
 
-Choose any of the following features to implement. There is no required ordering.
+## Daftar Fiture
 
-### 1. Sending Email (mandatory)
-* This question is required for all full-stack and back-end test takers.
-* Please develop a simple send email message function, so that users can fill out a form on the webpage and send the text message in the text fields to hr@avancevl.com
-* Use [Node Mailer](https://nodemailer.com/usage/){:target="_blank"} or [SMTP JS](https://www.smtpjs.com/){:target="_blank"}
-* Develop a simple form that allows users to fill out some messages.
-* 2 user-input text fields: subject and body (refer to the topic and content fields of a similiar front-end sample image).
-* A simple send message button.
-* The front-end UI is simple. The design does not count, because it is a full-stack/back-end exam; it only has to be functional.
-* Our test-passing criterion is whether the message written by user will be successfully emailed to hr@avancevl.com.
+Pilih salah satu fitur berikut untuk diterapkan. Tidak perlu urut.
+
+### 1. Mengirim Email (wajib)
+
+- Pertanyaan ini diperlukan untuk semua peserta tes full-stack dan back-end.
+- Harap kembangkan fungsi kirim pesan email sederhana, sehingga pengguna dapat mengisi formulir di halaman web dan mengirim pesan teks di bidang teks ke hr@avancevl.com
+- Gunakan [Node Mailer](https://nodemailer.com/usage/){:target="\_blank"} atau [SMTP JS](https://www.smtpjs.com/){:target="\_blank"}
+- Kembangkan formulir sederhana yang memungkinkan pengguna mengisi beberapa pesan.
+- 2 bidang teks masukan pengguna: subjek dan isi (merujuk ke bidang topik dan konten dari gambar contoh front-end serupa).
+- Tombol kirim pesan sederhana.
+- Antarmuka antarmuka sederhana. Desain tidak dihitung, karena ini adalah ujian full-stack / back-end; itu hanya harus berfungsi.
+- Kriteria kelulusan tes kami adalah apakah pesan yang ditulis oleh pengguna akan berhasil dikirim melalui email ke hr@avancevl.com.
 
 <img src='https://lh3.googleusercontent.com/FJZRudzsGLDYNQWxezcyzyJHhg7hCVyr7S_7BNwE_LBsahceanzWVnvewnWn_TVbCutBtIVpAJmegz6y5SUOxyfBLBaxFOMLfG74Va8s8CeVZ-ZgOQoEXJv_flH1EW2Yz61l9Mrp9A=w400' />
 
-### 2. Question DB
+### 2. Pertanyaan DB
 
-* Populate Firebase DB with [Google Sheet](https://docs.google.com/spreadsheets/d/1EmWraWzyvxt7km7MiPxU6PDTXzy05_jUyvwUqHc5nP0/edit?usp=sharing){:target="_blank"}
-* Store and display `question_text` for each question.
-* Store and display `question_title` for each question.
-* Store and display all `hashtags` for each question.
-* Store and use `/problem/<question_id>` in routing URL.
+- Isi Firebase DB dengan [Google Sheet](https://docs.google.com/spreadsheets/d/1EmWraWzyvxt7km7MiPxU6PDTXzy05_jUyvwUqHc5nP0/edit?usp=sharing){:target="\_blank"}
+- Simpan dan tampilkan `question_text` untuk setiap pertanyaan
+- Simpan dan tampilkan `question_title` untuk setiap pertanyaan.
+- Simpan dan tampilkan semua `hashtag` untuk setiap pertanyaan.
+- Simpan dan gunakan `/ problem / <question_id>` di URL perutean.
 
-### 3. Query DB
+### 3. Kueri DB
 
-* Use Firebase Queries to query Question DB using hashtags.
-* Build very simple front-end selection boxes to build filter/search URL.
-* Map search URL to Firebase Query.
-* Return problems that match any hashtags in our search URL.
-* Display total number of questions that satisfy filter conditions, out of total possible available questions in DB.
+- Gunakan Firebase Queries untuk menanyakan DB Pertanyaan menggunakan hashtag.
+- Buat kotak pilihan front-end yang sangat sederhana untuk membuat filter / URL pencarian.
+- Petakan URL penelusuran ke Firebase Query.
+- Kembalikan masalah yang cocok dengan hashtag apa pun di URL pencarian kami.
+- Menampilkan jumlah total pertanyaan yang memenuhi kondisi filter, dari total kemungkinan pertanyaan yang tersedia di DB.
 
 <img src='https://lh3.googleusercontent.com/zeYaUx3W0Hb8yaiPLHyzTOI_ShGmEIQqTA_Q7b8hyGZ_bfeC8gSK4s6L1okbGhrFPf817zjp-RbRcDZzZ3p51Vv1QxUza9RGTDupaia0jRcepHtTUNAafjEXJBwhzKMnVC_az-nOAw=w370' />
 
-### 4. Google OAuth and User DB
+### 4. Google OAuth dan User DB
 
-* Implement Google OAuth and user database in Firebase.
-* Store and display user name and email in a separate simple webpage.
-* Use `/user/<user_id>` in routing URL.
+- Terapkan Google OAuth dan database pengguna di Firebase.
+- Simpan dan tampilkan nama pengguna dan email di halaman web sederhana yang terpisah.
+- Gunakan `/ user / <user_id>` dalam perutean URL.
 
-### 5. Track User Answer and Accuracy
+### 5. Lacak Jawaban dan Akurasi Pengguna
 
-* Create simple input box for user to input answer to each question.
-* Use the `answer` column to determine if question answered correctly.
-* Update the following metrics for each user and display in client side.
-	* **Accuracy.** Number of problems correct divided by number of problems completed.
-	* **Completed.** Total number of problems completed.
-	* **Correct.** Total number of problems correct.
+- Buat kotak input sederhana bagi pengguna untuk memasukkan jawaban untuk setiap pertanyaan.
+- Gunakan kolom `jawaban` untuk menentukan apakah pertanyaan dijawab dengan benar.
+- Perbarui metrik berikut untuk setiap pengguna dan tampilkan di sisi klien.
+  - **Akurasi.** Jumlah soal yang benar dibagi jumlah soal yang diselesaikan.
+  - **Selesai.** Jumlah total masalah yang diselesaikan.
+  - **Benar.** Jumlah masalah yang benar.
 
 <img src='https://lh3.googleusercontent.com/zRIxNrIztI22WJYDs4EcrjnciyQ2ByIRVSu6R-JCpBCo0e2hT9_g1RwdcBbmyaSebQRUk06NscQ6waV0eiQZ1HTBjcVSg6Ildeo-sc9qhFLRnx1tKgK0u8tlKD0eyMMgMwNWp0cS4A=w260' />

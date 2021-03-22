@@ -42,7 +42,7 @@ description: 貢獻Jekyll社區
 
 ### 功能4. 列出子頁面
 
-Somtimes，對於給定的頁面，您只希望能夠在markdown文件中列出子頁面，而無需明確拼寫URL。
+Sometimes，對於給定的頁面，您只希望能夠在markdown文件中列出子頁面，而無需明確拼寫URL。
 
 * 這可以用HTML-Liquid實現。
 * 如果我們將新的子頁面添加到導航樹中，則不必在markdown中更新HTML-Liquid。
