@@ -152,5 +152,3 @@ Set layout language file `language.yml` in \_data folder, if there is no setting
         FOLLOW_US: Follow Us
         CONTACT_US: Contact Us
         TITLE_AVL: AVL Handbook
-
-##
