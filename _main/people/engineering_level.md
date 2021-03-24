@@ -274,17 +274,17 @@ locales:
 
 | Level | Title | Annual Salary (USD) |
 | --- | --- | --- |
-| E0 | Intern/Part-Time | 9-12K |
-| E1 | Junior Engineer I | 12-20K |
-| E2 | Junior Engineer II | 20-28K |
-| E3 | Junior Engineer III | 28～36K |
-| E4 | Senior Engineer I | 36K-44K |
-| E5 | Senior Engineer II | 44K～52K |
-| E6 | Senior Engineer III | 52K～60K |
-| E7 | Lead Engineer I | 60～64K |
-| E8 | Lead Engineer II | 64～76K |
-| E9 | Lead Engineer III | 76～88K |
-| E10 | CTO | 88～104K |
+| E0 | Intern/Part-Time | - |
+| E1 | Junior Engineer I | - |
+| E2 | Junior Engineer II | - |
+| E3 | Junior Engineer III | - |
+| E4 | Senior Engineer I | - |
+| E5 | Senior Engineer II | - |
+| E6 | Senior Engineer III | - |
+| E7 | Lead Engineer I | - |
+| E8 | Lead Engineer II | - |
+| E9 | Lead Engineer III | - |
+| E10 | CTO | - |
 
 <br>
 
@@ -329,11 +329,11 @@ Things are easier if everything was completely transparent from day 1.
 
 ## Why is there such a wide salary range?
 
-We believe individuals should be rewarded fairly and transparently for their performance. 
+We believe individuals should be rewarded fairly and transparently for their performance.
 
 ### Candidates Tell Us They Want a Wide Salary Range
 
-In a survey, we asked over 100 candidates about their ideal company. 
+In a survey, we asked over 100 candidates about their ideal company.
 
 [View Survey]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
@@ -354,16 +354,16 @@ The results were **overwhelmingly** in favor of a wide salary range.
 
 The truth is, not all individual performances are the same. Between a
 
-- **Communist System** where everyone is paid roughly the same, verus a 
+- **Communist System** where everyone is paid roughly the same, verus a
 - **Capitalist System** where there is a wide spread between top and bottom performances
 
 We believe in the capitalistic system. In our experience, there is less motivation to work hard if salaries were all roughly the same.
 
 ### Attracting the Right Talent
 
-We wish to attract talent who believe performance should be rewarded 
+We wish to attract talent who believe performance should be rewarded
 
-1. **Proportional** to their performance, and 
+1. **Proportional** to their performance, and
 2. **Materially different** from peers with a different performance.
 
 <br>
