@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AVL手册
+title: Avance手册
 lang: zh-cn
 description: 全远端工作团队
 ---

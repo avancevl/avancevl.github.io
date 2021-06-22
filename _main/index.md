@@ -1,19 +1,19 @@
 ---
 layout: default
-title: AVL Handbook
+title: Avance Handbook
 description: For All Remote Teams
 locales:
   zh-tw:
-    title: AVL手冊
+    title: Avance手冊
     description: 全遠端工作團隊
   zh-cn:
-    title: AVL手册
+    title: Avance手册
     description: 全远端工作团队
   en:
-    title: AVL Handbook
+    title: Avance Handbook
     description: For All Remote Teams
   id:
-    title: Buku Pegangan AVL
+    title: Buku Pegangan Avance
     description: Untuk Semua Tim Jarak Jauh
 ---
 

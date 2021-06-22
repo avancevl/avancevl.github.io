@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AVL Handbook
+title: Avance Handbook
 lang: my
 description: For All Remote Teams
 ---

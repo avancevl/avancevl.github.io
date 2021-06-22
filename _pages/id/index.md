@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buku Pegangan AVL
+title: Buku Pegangan Avance
 lang: id
 description: Untuk Semua Tim Jarak Jauh
 ---
