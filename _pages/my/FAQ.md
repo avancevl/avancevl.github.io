@@ -37,19 +37,13 @@ A. 1. We welcome new ideas all the time. 2. All ideas start off with competitive
 
 <br>
 
-### 1. Is there any labor/health insurance and how to assess salary?
-
-A. After the end of the 3-month probation period, the formal work contract will be signed and the salary-related issues will be discussed in detail. As a regular employee, there will be laboring and health insurance (no labor health insurance during the internship or probation period)
-
-<br>
-
-### 2. Will there be opportunities or demands for cross-border cooperation? Are there any requirements for English proficiency?
+### 1. Will there be opportunities or demands for cross-border cooperation? Are there any requirements for English proficiency?
 
 A. Most of the team is based around the world. English is not required, but helpful.
 
 <br>
 
-### 3. In the internship program, there is no special emphasis on the required expertise and field, so can it be in any field?
+### 2. In the internship program, there is no special emphasis on the required expertise and field, so can it be in any field?
 
 A. If you are interested in the company’s working environment, you can fill in the application form and name the main purpose of your internship (what skills to learn, what things you want to know about the workplace, ideal treatment), the more you describe Clearly, the more we can help you arrange internship opportunities that meet your expectations! As long as we can provide your learning needs, we are quite happy to cooperate with you!
 
