@@ -47,19 +47,13 @@ A. 1. 我們隨時都相當樂意接受新點子 2. 所有想法都始於競爭�
 
 ## 關於徵才
 
-### 1. 有沒有勞/健保、 薪資怎麼評定？
-
-A. 在 3 個月試用期結束後，會簽正式工作合約，並在其中細談薪資相關的問題，成為正式員工會有勞健保(實習或是試用期間無勞健保)
-
-<br>
-
-### 2. 會不會有跨國合作的機會或是需求，英文能力有沒有要求？
+### 1. 會不會有跨國合作的機會或是需求，英文能力有沒有要求？
 
 A. 團隊成員來自世界各地。英文非必需、但有幫助。
 
 <br>
 
-### 3. 實習計畫中沒有特別強調所需專長、領域，所以是甚麼領域都可以嗎？
+### 2. 實習計畫中沒有特別強調所需專長、領域，所以是甚麼領域都可以嗎？
 
 A. 若對本公司的工作環境有興趣的話，您可以先填應徵表單並在其中著名您這次實習的主要目的 (什麼技能的學習、想要了解職場上的哪些事情、理想待遇)，描述得越清楚，我們越可以幫您安排符合您預期的實習機會！只要您的學習需求我們可以提供，我們相當樂意與您合作！
 
@@ -95,19 +89,13 @@ A. 1.我们随时都相当乐意接受新点子 2.所有想法都始于竞争分
 
 ## 关于征才
 
-### 1. 有没有劳/健保、 薪资怎么评定？
-
-A. 在 3 个月试用期结束后，会签正式工作合约，并在其中细谈薪资相关的问题，成为正式员工会有劳健保(实习或是试用期间无劳健保)
-
-<br>
-
-### 2. 会不会有跨国合作的机会或是需求，英文能力有没有要求？
+### 1. 会不会有跨国合作的机会或是需求，英文能力有没有要求？
 
 A. 团队成员来自世界各地。英语非必需，但有帮助。
 
 <br>
 
-### 3. 实习计画中没有特别强调所需专长、领域，所以是什么领域都可以吗？
+### 2. 实习计画中没有特别强调所需专长、领域，所以是什么领域都可以吗？
 
 A. 若对本公司的工作环境有兴趣的话，您可以先填应征表单并在其中著名您这次实习的主要目的(什么技能的学习、想要了解职场上的哪些事情、理想待遇)，描述得越清楚，我们越可以帮您安排符合您预期的实习机会！只要您的学习需求我们可以提供，我们相当乐意与您合作！
 
@@ -143,19 +131,13 @@ A. 1. We welcome new ideas all the time. 2. All ideas start off with competitive
 
 <br>
 
-### 1. Is there any labor/health insurance and how to assess salary?
-
-A. After the end of the 3-month probation period, the formal work contract will be signed and the salary-related issues will be discussed in detail. As a regular employee, there will be laboring and health insurance (no labor health insurance during the internship or probation period)
-
-<br>
-
-### 2. Will there be opportunities or demands for cross-border cooperation? Are there any requirements for English proficiency?
+### 1. Will there be opportunities or demands for cross-border cooperation? Are there any requirements for English proficiency?
 
 A. Most of the team is based around the world. English is not required, but helpful.
 
 <br>
 
-### 3. In the internship program, there is no special emphasis on the required expertise and field, so can it be in any field?
+### 2. In the internship program, there is no special emphasis on the required expertise and field, so can it be in any field?
 
 A. If you are interested in the company’s working environment, you can fill in the application form and name the main purpose of your internship (what skills to learn, what things you want to know about the workplace, ideal treatment), the more you describe Clearly, the more we can help you arrange internship opportunities that meet your expectations! As long as we can provide your learning needs, we are quite happy to cooperate with you!
 
